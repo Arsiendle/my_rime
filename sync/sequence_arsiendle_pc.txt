@@ -1,0 +1,2 @@
+/user_id	arsiendle_pc
+/device_name	arsiendle_pc
