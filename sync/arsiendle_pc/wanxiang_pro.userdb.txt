@@ -2,1403 +2,1583 @@
 #@/db_name	wanxiang_pro
 #@/db_type	userdb
 #@/rime_version	1.13.1
-#@/tick	4388
+#@/tick	5109
 #@/user_id	arsiendle_pc
-a;ka 	啊	c=9 d=1.45172 t=4388
-ba;kb 	吧	c=16 d=0.791579 t=4388
-biàn;wy,yy 	变	c=3 d=0.255381 t=4388
-biàn;wy,yy chéng;gg,wg 	变成	c=8 d=0.673361 t=4388
-biàn;wy,yy huí;kk 	变回	c=1 d=1 t=4320
-biàn;wy,yy le;aa,vu 	变了	c=1 d=1 t=3051
-biàn;wy,yy liàng;ol 	变量	c=1 d=0.900325 t=4388
-biàn;zb 	遍	c=1 d=1 t=3204
-bié;dl 	别	c=2 d=0.0889928 t=4388
-bié;dl kàn;ou,uo 	别看	c=1 d=0.0309618 t=4388
-bié;dl rén;pd 	别人	c=2 d=0.345166 t=4388
-bié;dl shuō;yd huà;yu 	别说话	c=4 d=0.457563 t=4388
-biān;sb mǎ;um 	编码	c=1 d=0.0837434 t=4388
-biǎo;fy dá;zd 	表达	c=1 d=1 t=2904
-bàn;bf chéng;gg,wg pǐn;kk 	半成品	c=1 d=1 t=4185
-bào;fy cuò;jx 	报错	c=1 d=0.01649 t=4388
-bào;fy gào;kn,nk 	报告	c=2 d=0.0418223 t=4388
-bá;fb,fy xià;ab,ad lái;am,wb 	拔下来	c=1 d=1 t=4331
-bèi;rk,rp sù;zu 	倍速	c=1 d=0.0343896 t=4388
-bèi;wt fèn;rf 	备份	c=9 d=1.29419 t=4388
-bèi;yp 	被	c=7 d=0.253716 t=4388
-bèn;vb dàn;ip,pi 	笨蛋	c=1 d=1 t=3244
-bì;bu,ub jìng;le 	毕竟	c=2 d=0.0142642 t=4388
-bìng;bk,qc 	并	c=6 d=0.751174 t=4388
-bìng;bk,qc bú;ad,ax huì;ry 	并不会	c=1 d=1 t=3695
-bìng;bk,qc wèi;ex,ad 	并未	c=1 d=1 t=4000
-bù;ad,ax 	不	c=9 d=0.935197 t=4388
-bù;ad,ax cún;uz,za zài;ta,ut 	不存在	c=1 d=1 t=3603
-bù;ad,ax dé;xc bù;ad,ax shuō;yd 	不得不说	c=1 d=0.265803 t=4388
-bù;ad,ax dōu;ev shì;op,ov 	不都是	c=1 d=0.0526023 t=4388
-bù;ad,ax fā;ay,fd,vy,yd yán;da,dk,wk 	不发言	c=1 d=0.205975 t=4388
-bù;ad,ax guǎn;vg 	不管	c=1 d=0.000267872 t=4388
-bù;ad,ax guǎn;vg le;aa,vu 	不管了	c=1 d=1 t=2697
-bù;ad,ax gāi;yh 	不该	c=1 d=1 t=3305
-bù;ad,ax gāo;wk xìng;ba,db 	不高兴	c=1 d=1 t=3330
-bù;ad,ax hǎo;nz 	不好	c=0 d=0.00142642 t=4388
-bù;ad,ax hǎo;nz yòng;kf 	不好用	c=1 d=0.210136 t=4388
-bù;ad,ax hǎo;nz àn;fa 	不好按	c=1 d=0.0143357 t=4388
-bù;ad,ax kě;dk néng;sb 	不可能	c=2 d=0.00895987 t=4388
-bù;ad,ax kě;dk yǐ;rd,ry 	不可以	c=2 d=0.153649 t=4388
-bù;ad,ax liǎo;aa,vu le;aa,vu 	不了了	c=0 d=2.35217e-05 t=4388
-bù;ad,ax míng;oo bái;pa,po 	不明白	c=1 d=0.194953 t=4388
-bù;ad,ax měi;dy,yd guān;jy,yj 	不美观	c=1 d=1 t=3924
-bù;ad,ax néng;sb 	不能	c=6 d=0.197583 t=4388
-bù;ad,ax qīng;dq chu;mp,pl 	不清楚	c=1 d=0.0412714 t=4388
-bù;ad,ax qīng;dq xī;ox 	不清晰	c=1 d=0.0212797 t=4388
-bù;ad,ax qǐ;zj zuò;rv yòng;kf 	不起作用	c=2 d=1.42105 t=3619
-bù;ad,ax rán;hq 	不然	c=3 d=0.83527 t=4388
-bù;ad,ax rú;nk 	不如	c=1 d=0.0366992 t=4388
-bù;ad,ax shuō;yd 	不说	c=1 d=1 t=3327
-bù;ad,ax shú;hu xī;xm,xb 	不熟悉	c=1 d=0.142987 t=4388
-bù;ad,ax shēng;na xiào;wj 	不生效	c=2 d=0.0383895 t=4388
-bù;ad,ax tuán;kc duì;er 	不团队	c=1 d=1 t=2702
-bù;ad,ax tíng;rt 	不停	c=1 d=1 t=4285
-bù;ad,ax tóng;kk 	不同	c=1 d=1.01851 t=2814
-bù;ad,ax tóng;kk míng;xk 	不同名	c=1 d=1 t=2815
-bù;ad,ax xiě;by 	不写	c=1 d=0.000626726 t=4388
-bù;ad,ax xiǎng;xx 	不想	c=3 d=2.96042 t=3283
-bù;ad,ax xíng;xd,xi 	不行	c=3 d=0.264607 t=4388
-bù;ad,ax xū;ye yào;xn 	不需要	c=1 d=0.937067 t=4388
-bù;ad,ax xǐ;uk huān;yq 	不喜欢	c=1 d=1 t=4240
-bù;ad,ax yí;aa yàng;my 	不一样	c=3 d=1.33708 t=4388
-bù;ad,ax yǐng;pj xiǎng;kx 	不影响	c=1 d=1 t=4110
-bù;ad,ax zhī;uk,ku dào;zu 	不知道	c=5 d=0.548866 t=4388
-bù;ad,ax zú;kv 	不足	c=2 d=1.06173 t=4306
-bù;ad,ax zěn;xv me;ps 	不怎么	c=1 d=0.0862934 t=4388
-bù;ek,ep fèn;bd,db 	部分	c=4 d=1.56392 t=4088
-bù;ek,ep shǔ;sv 	部署	c=1 d=0.00538038 t=4388
-bú;ad,ax duì;cy,yc 	不对	c=1 d=0.142274 t=4388
-bú;ad,ax dào;dv 	不到	c=1 d=0.121846 t=4388
-bú;ad,ax guò;zc 	不过	c=1 d=0.179964 t=4388
-bú;ad,ax huì;ry 	不会	c=4 d=0.079399 t=4388
-bú;ad,ax huì;ry ba;kb 	不会吧	c=2 d=0.126828 t=4388
-bú;ad,ax huì;ry ya;ky 	不会呀	c=1 d=1 t=3064
-bú;ad,ax huì;ry yòng;kf 	不会用	c=1 d=1 t=3312
-bú;ad,ax jiù;yj 	不就	c=1 d=1 t=4358
-bú;ad,ax jiù;yj shì;op,ov 	不就是	c=1 d=0.00843809 t=4388
-bú;ad,ax kàn;ou,uo 	不看	c=2 d=0.0359725 t=4388
-bú;ad,ax luàn;ug 	不乱	c=1 d=1 t=3754
-bú;ad,ax shì;op,ov 	不是	c=16 d=1.06665 t=4388
-bú;ad,ax shì;op,ov me;ps 	不是么	c=1 d=1 t=3207
-bú;ad,ax tài;dd 	不太	c=4 d=0.277946 t=4388
-bú;ad,ax tài;dd shú;hu liàn;sd,sj 	不太熟练	c=1 d=0.331211 t=4388
-bú;ad,ax xiàng;rx 	不像	c=1 d=0.0271875 t=4388
-bú;ad,ax xiàng;rx běn;aa,ma rén;pd 	不像本人	c=2 d=1.99005 t=3277
-bú;ad,ax yòng;kf 	不用	c=1 d=0.0368832 t=4388
-bú;ad,ax àn;fa 	不按	c=1 d=0.000706633 t=4388
-bāng;jb 	帮	c=3 d=0.0872394 t=4388
-bāng;jb wǒ;pd,pp 	帮我	c=2 d=0.00618895 t=4388
-bāo;gs kuò;fu 	包括	c=1 d=0.0761538 t=4388
-bēng;up kuì;dg 	崩溃	c=1 d=0.00272578 t=4388
-běn;aa,ma dì;ty 	本地	c=3 d=0.645146 t=4388
-běn;aa,ma lái;am,wb 	本来	c=1 d=1 t=3302
-běn;aa,ma rén;pd 	本人	c=2 d=2.08023 t=3284
-bǎ;fb 	把	c=19 d=1.22961 t=4388
-bǎ;fb wǒ;pd,pp 	把我	c=1 d=1 t=3826
-bǎn;pf běn;aa,ma 	版本	c=7 d=1.22491 t=4388
-bǎng;mp 	榜	c=1 d=0.0417941 t=4388
-bǎo;rd biāo;jp 	保镖	c=0 d=0.00225956 t=4388
-bǎo;rd liú;td,tl,lt 	保留	c=2 d=0.16696 t=4388
-bǐ;bb 	比	c=2 d=0.0178779 t=4388
-bǐ;bb jiào;ij 	比较	c=1 d=0.0263839 t=4388
-bǐ;pg 	匕	c=1 d=1 t=3270
-bǐ;vm jì;yj 	笔记	c=0 d=0.000244185 t=4388
-chuàng;dc jiàn;zy le;aa,vu 	创建了	c=1 d=0.882497 t=4388
-chuán;rv 	传	c=2 d=0.710114 t=4388
-chuāng;xx,bx kǒu;aa 	窗口	c=1 d=0.389872 t=4388
-chà;yg píng;yp 	差评	c=1 d=0.0278757 t=4388
-chà;yg yì;aa xiē;ec 	差一些	c=1 d=1 t=3939
-cháng;pd 	长	c=1 d=1 t=3870
-cháng;pd jù;gk,kg,pk 	长句	c=2 d=0.00428064 t=4388
-cháng;pd le;aa,vu 	长了	c=2 d=1.97531 t=2760
-chè;fw huí;kk 	撤回	c=1 d=1 t=3345
-chéng;gg,wg 	成	c=9 d=0.673015 t=4388
-chóng;pa,ql mìng;re míng;xk 	重命名	c=1 d=0.425283 t=4388
-chóng;pa,ql qǐ;hk,kh 	重启	c=1 d=0.0378169 t=4388
-chóng;pa,ql xīn;jq 	重新	c=2 d=0.130319 t=4388
-chóng;pa,ql xīn;jq lái;am,wb 	重新来	c=1 d=0.582748 t=4388
-chú;ey fēi;aa 	除非	c=1 d=1 t=2931
-chú;ey le;aa,vu 	除了	c=2 d=0.609571 t=4388
-chún;st 	纯	c=1 d=1 t=4321
-chún;st cuì;mz 	纯粹	c=1 d=0.000239969 t=4388
-chā;yg bié;dl 	差别	c=1 d=0.339596 t=4388
-chā;yg é;yk 	差额	c=1 d=0.0608101 t=4388
-chāi;fi 	拆	c=1 d=1 t=3268
-chāo;zv chū;ck,aa 	超出	c=1 d=1 t=4070
-chāo;zv chū;ck,aa qù;ts 	超出去	c=1 d=1 t=4078
-chī;kq shàng;aa,ba fàn;uf 	吃上饭	c=1 d=1 t=4363
-chōng;dv tū;xq,bq 	冲突	c=2 d=0.316195 t=4388
-chū;ck,aa 	出	c=1 d=0.198891 t=4388
-chū;ck,aa cuò;jx 	出错	c=1 d=0.00173804 t=4388
-chū;ck,aa xiàn;wj 	出现	c=5 d=0.535239 t=4388
-chū;yd dài;ry 	初代	c=1 d=1 t=3678
-chū;yd zhōng;aa,ka 	初中	c=2 d=0.00680573 t=4388
-chǎn;dp,li,wp shēng;na 	产生	c=3 d=0.035388 t=4388
-chǔ;wb yú;aa 	处于	c=2 d=1.8781 t=3723
-chǔn;ii wèn;km,mk tí;uy,yu 	蠢问题	c=1 d=0.0428521 t=4388
-cuò;jx 	错	c=1 d=1 t=3098
-cuò;jx le;aa,vu 	错了	c=2 d=0.0658508 t=4388
-cuò;jx luàn;ug 	错乱	c=1 d=1 t=4019
-cuò;jx wù;yw 	错误	c=2 d=0.0644515 t=4388
-cài;cc dān;ba,bd 	菜单	c=1 d=1 t=3831
-cái;ap 	才	c=6 d=1.16803 t=4388
-cái;mc liào;md 	材料	c=2 d=1.34796 t=4388
-cè;dz 	测	c=3 d=1.08464 t=3970
-cè;dz fǎ;dq 	测法	c=2 d=1.99005 t=3335
-cè;dz yàn;ma,mq 	测验	c=3 d=1.86609 t=3630
-cì;dq 	次	c=1 d=0.250324 t=4388
-cí;ys 	词	c=3 d=0.30898 t=4388
-cí;ys diǎn;ba,bd 	词典	c=1 d=0.631284 t=4388
-cí;ys jù;gk,kg,pk 	词句	c=1 d=0.00128757 t=4388
-cí;ys kù;gi 	词库	c=12 d=1.15514 t=4388
-cóng;rr 	从	c=2 d=0.0203776 t=4388
-cóng;rr lái;am,wb 	从来	c=1 d=1 t=3083
-cóng;rr méi;du 	从没	c=1 d=0.000871757 t=4388
-cún;uz,za chǔ;rv 	存储	c=1 d=0.551563 t=4388
-cún;uz,za zài;ta,ut 	存在	c=4 d=2.8061 t=4243
-cān;sp kǎo;lk 	参考	c=1 d=1 t=4197
-cāng;re kù;gi 	仓库	c=9 d=4.08003 t=4388
-cǎi;mv,vm nà;sn 	采纳	c=1 d=1 t=3888
-cǎi;mv,vm yòng;kf 	采用	c=1 d=1 t=3577
-cǐ;vb qián;bd,qd 	此前	c=1 d=0.00112497 t=4388
-cǐ;vb shí;oc 	此时	c=1 d=1 t=3593
-de;bu 	的	c=215 d=14.4436 t=4388
-de;ty 	地	c=1 d=1 t=4286
-diàn;ag,og lì;gp diàn;ag,og zǐ;aa,vh 	电力电子	c=0 d=0.1 t=4354
-diàn;ag,og lì;gp diàn;ag,og zǐ;aa,vh hé;hk diàn;ag,og lì;gp tuō;fy dòng;ly,yl kòng;fk zhì;dg,dv xì;ps tǒng;si de;bu 	电力电子和电力拖动控制系统的	c=1 d=1 t=4355
-diàn;ag,og lì;gp tuō;fy dòng;ly,yl 	电力拖动	c=0 d=0.1 t=4354
-diàn;ag,og nǎo;ox 	电脑	c=5 d=0.198891 t=4388
-diàn;ag,og nǎo;ox shàng;aa,ba 	电脑上	c=1 d=0.0200405 t=4388
-diào;yv huàn;fh 	调换	c=3 d=0.0328495 t=4388
-diū;pq,ps rén;pd 	丢人	c=0 d=0.1 t=3265
-diǎn;hv 	点	c=1 d=0.0385808 t=4388
-diǎn;hv dào;dv 	点到	c=1 d=1 t=4132
-diǎn;hv jìn;zj lái;am,wb 	点进来	c=1 d=1 t=4364
-diǎn;hv jī;aa,eu,fk 	点击	c=10 d=0.389192 t=4388
-diǎn;hv jī;aa,eu,fk shì;aa jiàn;rn 	点击事件	c=1 d=1 t=4138
-duì;cy,yc 	对	c=5 d=0.396892 t=4388
-duì;cy,yc bǐ;bb yí;aa xià;ab,ad 	对比一下	c=1 d=0.000608205 t=4388
-duì;cy,yc de;bu 	对的	c=1 d=0.000920728 t=4388
-duì;cy,yc wǒ;pd,pp 	对我	c=2 d=1.49659 t=3228
-duì;cy,yc ya;ky 	对呀	c=1 d=0.574072 t=4388
-duì;er yǒu;yu,uy 	队友	c=3 d=0.979153 t=4388
-duō;xx 	多	c=3 d=0.68652 t=4388
-duō;xx gè;ra,pa 	多个	c=2 d=1.41895 t=4228
-duō;xx gōng;gl,lg néng;sb 	多功能	c=1 d=0.0294518 t=4388
-duō;xx hǎo;nz 	多好	c=1 d=1 t=3271
-duō;xx shǎo;xp 	多少	c=1 d=0.0689068 t=4388
-duō;xx xuǎn;zx tí;uy,yu 	多选题	c=1 d=1 t=4316
-duō;xx yì;di,id cí;ys 	多义词	c=1 d=0.25284 t=4388
-duō;xx yí;aa cì;dq 	多一次	c=1 d=0.254107 t=4388
-duō;xx yú;rb,rd,rh 	多余	c=3 d=2.9362 t=4270
-dà;ad bù;ek,ep fèn;bd,db 	大部分	c=1 d=1 t=3500
-dà;ad jiā;bu 	大家	c=1 d=0.0432828 t=4388
-dà;ad liàng;ol 	大量	c=1 d=1 t=4219
-dà;ad lǎo;rl 	大佬	c=14 d=1.26957 t=4388
-dà;ad wén;wi,dd jiàn;rn 	大文件	c=1 d=0.782705 t=4388
-dà;ad xiǎo;ad 	大小	c=4 d=2.53499 t=4388
-dài;jb lái;am,wb 	带来	c=1 d=0.313486 t=4388
-dài;ry mǎ;um 	代码	c=10 d=1.56637 t=4388
-dàn;rd 	但	c=10 d=1.05652 t=4388
-dàn;rd shì;op,ov 	但是	c=14 d=0.26621 t=4388
-dào;dv 	到	c=10 d=0.195218 t=4388
-dào;dv chù;wb zhǎo;fg 	到处找	c=0 d=0.0110803 t=4388
-dào;dv chù;wb zhǎo;fg zhǎo;fg 	到处找找	c=1 d=0.111359 t=4388
-dào;dv dǐ;gd 	到底	c=1 d=0.40657 t=4388
-dào;dv shí;oc hòu;ru 	到时候	c=1 d=0.0298969 t=4388
-dá;vh àn;bm,ma 	答案	c=12 d=2.47288 t=4388
-dá;vh àn;bm,ma kuàng;mk 	答案框	c=1 d=1 t=4142
-dé;xc 	得	c=0 d=0.000296761 t=4388
-dé;xc dào;dv 	得到	c=1 d=0.0206508 t=4388
-dé;xc le;aa,vu 	得了	c=3 d=0.218181 t=4388
-dì;ty fāng;dg,wd,dp,dw 	地方	c=3 d=0.116321 t=4388
-dì;vp jǐ;py gè;ra,pa 	第几个	c=1 d=0.139018 t=4388
-dì;vp jǐ;py gè;ra,pa zì;bz 	第几个字	c=1 d=0.238116 t=4388
-dì;vp yī;aa cì;dq 	第一次	c=3 d=0.45773 t=4388
-dì;vp yī;aa gè;ra,pa 	第一个	c=4 d=0.382722 t=4388
-dì;vp yī;aa wèi;rl 	第一位	c=2 d=0.452277 t=4388
-dì;vp èr;aa gè;ra,pa 	第二个	c=4 d=2.77338 t=3644
-dì;vp èr;aa jù;gk,kg,pk huà;yu 	第二句话	c=1 d=1 t=4225
-dìng;bp 	定	c=1 d=0.114178 t=4388
-dìng;bp wèi;rl 	定位	c=2 d=0.00105032 t=4388
-dìng;bp wèi;rl bù;ad,ax liǎo;aa,vu le;aa,vu 	定位不了了	c=1 d=0.000236397 t=4388
-dìng;bp zì;bz 	定字	c=1 d=0.0672054 t=4388
-dòng;ly,yl tài;xt 	动态	c=1 d=0.438235 t=4388
-dòng;ly,yl tài;xt tiáo;yv pín;yb 	动态调频	c=1 d=0.000278804 t=4388
-dòu;aa,aq bāo;gs 	豆包	c=1 d=0.0443785 t=4388
-dùn;yt hào;kk 	顿号	c=1 d=0.0257325 t=4388
-dú;qi lì;da 	独立	c=2 d=0.745107 t=4388
-dú;qi lì;da chuāng;xx,bx kǒu;aa 	独立窗口	c=1 d=0.348193 t=4388
-dān;ba,bd dú;qi 	单独	c=3 d=1.44534 t=4388
-dān;ba,bd gè;ra,pa 	单个	c=1 d=1 t=4074
-dāng;xx 	当	c=3 d=0.433912 t=4388
-dāng;xx shí;oc 	当时	c=1 d=0.00244185 t=4388
-děi;xc 	得	c=3 d=0.115346 t=4388
-děng;vs 	等	c=3 d=0.215319 t=4388
-děng;vs děng;vs 	等等	c=4 d=0.400517 t=4388
-děng;vs wǒ;pd,pp 	等我	c=1 d=0.254107 t=4388
-dōng;ad,qx xi;aa 	东西	c=2 d=0.0824965 t=4388
-dōu;ev 	都	c=18 d=1.19576 t=4388
-dōu;ev bèi;yp 	都被	c=1 d=0.0478349 t=4388
-dōu;ev shì;op,ov 	都是	c=10 d=2.85615 t=4388
-dōu;ev yí;aa yàng;my 	都一样	c=1 d=0.423162 t=4388
-dǎ;fd 	打	c=11 d=0.948602 t=4388
-dǎ;fd chéng;gg,wg 	打成	c=1 d=0.0132999 t=4388
-dǎ;fd jù;gk,kg,pk zi;aa,vh 	打句子	c=1 d=0.00099776 t=4388
-dǎ;fd kāi;ac 	打开	c=1 d=0.231078 t=4388
-dǎ;fd quán;rw 	打全	c=1 d=0.0137049 t=4388
-dǎ;fd suàn;vc 	打算	c=1 d=0.079659 t=4388
-dǎ;fd yí;aa biàn;zb 	打一遍	c=1 d=1 t=3201
-dǎ;fd zì;bz 	打字	c=2 d=0.279431 t=4388
-dǎo;cs,sc zhì;wv 	导致	c=8 d=1.17583 t=4388
-dǐng;dy,yd bù;ek,ep 	顶部	c=1 d=0.0122161 t=4388
-dǒng;xd 	懂	c=1 d=1 t=3783
-dǒng;xd la;kl 	懂啦	c=1 d=0.183599 t=4388
-fàng;wf,fw 	放	c=3 d=1.84772 t=4388
-fàng;wf,fw nǎ;kn 	放哪	c=1 d=1 t=4256
-fàng;wf,fw qì;cw,wc 	放弃	c=1 d=0.0155297 t=4388
-fàng;wf,fw zhe;yo 	放着	c=1 d=0.018043 t=4388
-fàng;wf,fw zài;ta,ut 	放在	c=4 d=0.367472 t=4388
-fá;sd chāo;fu 	罚抄	c=0 d=3.11223e-05 t=4388
-fá;sd chāo;fu yí;aa biàn;zb 	罚抄一遍	c=1 d=0.000312784 t=4388
-fán;hy 	烦	c=1 d=0.346456 t=4388
-fán;sm tǐ;rb 	繁体	c=1 d=0.0023461 t=4388
-fù;pw,rw,wo zhì;dg,dv 	复制	c=8 d=0.829321 t=4388
-fù;pw,rw,wo zhì;dg,dv le;aa,vu 	复制了	c=1 d=0.144424 t=4388
-fù;xf gài;my,ym 	覆盖	c=13 d=1.99176 t=4388
-fú;jf,jt dù;gy 	幅度	c=1 d=0.187308 t=4388
-fú;vf hào;kk 	符号	c=1 d=1 t=3200
-fā;ay,fd,vy,yd 	发	c=1 d=1 t=3339
-fā;ay,fd,vy,yd xiàn;wj 	发现	c=4 d=1.21268 t=4388
-fān;yf yè;ab 	翻页	c=4 d=0.0167852 t=4388
-fān;yf yè;ab le;aa,vu 	翻页了	c=1 d=0.00331267 t=4388
-fāng;dg,wd,dp,dw biàn;rg 	方便	c=4 d=0.265286 t=4388
-fāng;dg,wd,dp,dw xiàng;pk jiàn;jj 	方向键	c=1 d=0.122456 t=4388
-fāng;dg,wd,dp,dw àn;bm,ma 	方案	c=9 d=1.24243 t=4388
-fēi;yd chū;ck,aa qù;ts 	飞出去	c=1 d=1 t=3053
-fēn;bd,db kāi;ac 	分开	c=1 d=0.860708 t=4388
-fēn;bd,db xiǎng;wz,zk yí;aa xià;ab,ad 	分享一下	c=1 d=0.00086741 t=4388
-fěn;mf sī;aa 	粉丝	c=1 d=0.218712 t=4388
-fǎ;dq 	法	c=1 d=0.0246002 t=4388
-fǎn;py chá;md 	反查	c=1 d=1 t=3195
-fǎn;py fù;pw,rw,wo 	反复	c=1 d=0.00177315 t=4388
-fǎn;py kuì;ug 	反馈	c=2 d=0.104407 t=4388
-fǎn;py rén;pd lèi;md 	反人类	c=1 d=0.0265162 t=4388
-fǎn;py zhèng;av 	反正	c=2 d=0.0845847 t=4388
-fǎn;py zhí;aa,uq jué;dj,jb 	反直觉	c=2 d=1.05448 t=3370
-fǎn;py ér;aa 	反而	c=1 d=0.232236 t=4388
-fǎng;rf zhēn;uj 	仿真	c=1 d=1 t=4356
-fǒu;kb dìng;bp 	否定	c=3 d=2.68908 t=3132
-fǔ;if 	辅	c=0 d=0.1 t=3233
-fǔ;if zhù;lq,ql 	辅助	c=1 d=0.0160767 t=4388
-fǔ;if zhù;lq,ql mǎ;um 	辅助码	c=14 d=0.863632 t=4388
-fǔ;if zhù;lq,ql yǐn;ga dǎo;cs,sc 	辅助引导	c=1 d=0.0298969 t=4388
-guà;fg 	挂	c=1 d=1 t=2986
-guà;fg jiē;fq 	挂接	c=2 d=1.92312 t=2954
-guò;zc qī;oq,qo le;aa,vu 	过期了	c=1 d=0.00238156 t=4388
-guó;ky wài;xb 	国外	c=1 d=0.0273237 t=4388
-guān;bt,qd bì;mc 	关闭	c=2 d=1.02107 t=3633
-guān;bt,qd yú;aa 	关于	c=1 d=0.00207043 t=4388
-guāng;ea,xw biāo;mu 	光标	c=2 d=0.158152 t=4388
-guī;fj,jf zé;bd,db 	规则	c=1 d=0.011109 t=4388
-guō;ex qí;lq lín;ll 	郭麒麟	c=2 d=0.0577479 t=4388
-guǒ;ad,tm hé;mh 	果核	c=1 d=0.0224829 t=4388
-guǒ;ad,tm miē;ky 	果咩	c=1 d=0.000987829 t=4388
-guǒ;ad,tm rán;hq 	果然	c=2 d=0.396535 t=4388
-gài;mj bù;ad,ax 	概不	c=0 d=0.000690853 t=4388
-gài;mj bù;ad,ax míng;oo bái;pa,po 	概不明白	c=1 d=0.00694315 t=4388
-gàn;aa shá;ku 	干啥	c=2 d=0.83527 t=4388
-gàn;aa shén;ru me;ps 	干什么	c=1 d=0.031273 t=4388
-gào;kn,nk sù;yi wǒ;pd,pp 	告诉我	c=1 d=1 t=4254
-gè;ra,pa 	个	c=12 d=0.895842 t=4388
-gè;ra,pa rén;pd 	个人	c=3 d=0.574388 t=4388
-gè;wk zhǒng;hv gè;wk yàng;my 	各种各样	c=1 d=0.687289 t=4388
-gèng;ad,ag hǎo;nz 	更好	c=1 d=1 t=3885
-gèng;ad,ag xíng;xd,xi 	更行	c=2 d=0.267141 t=4388
-gé;mg shì;gy,yg 	格式	c=9 d=2.43149 t=4318
-gòng;bc,cb yòng;kf 	共用	c=1 d=1 t=2772
-gòu;jd,xj dà;ad 	够大	c=1 d=1 t=2991
-gòu;jd,xj le;aa,vu 	够了	c=1 d=0.241714 t=4388
-gù;kg dìng;bp 	固定	c=1 d=1 t=2877
-gāi;yh 	该	c=4 d=2.68067 t=4388
-gāi;yh gàn;aa shén;ru me;ps 	该干什么	c=1 d=0.0231853 t=4388
-gān;aa jìng;dv 	干净	c=1 d=1 t=3711
-gāng;dg 	刚	c=3 d=0.173758 t=4388
-gāng;dg yòng;kf 	刚用	c=1 d=0.32628 t=4388
-gāo;wk zhōng;aa,ka 	高中	c=2 d=0.00687413 t=4388
-gēn;zg zhe;yo 	跟着	c=1 d=1 t=4048
-gēng;ad,ag gǎi;wj,jw 	更改	c=1 d=0.0459593 t=4388
-gēng;ad,ag huàn;fh 	更换	c=1 d=1 t=3511
-gēng;ad,ag xīn;jq 	更新	c=28 d=3.13981 t=4388
-gēng;ad,ag xīn;jq zhī;dd qián;bd,qd 	更新之前	c=1 d=0.000777056 t=4388
-gěi;sh 	给	c=9 d=0.320736 t=4388
-gěi;sh chū;ck,aa 	给出	c=8 d=1.96629 t=4251
-gěi;sh nǐ;re 	给你	c=1 d=1 t=3350
-gěi;sh wǒ;pd,pp 	给我	c=4 d=0.0497871 t=4388
-gōng;gl,lg néng;sb 	功能	c=9 d=1.27013 t=4388
-gǎi;wj,jw 	改	c=10 d=0.360829 t=4388
-gǎi;wj,jw biàn;wy,yy 	改变	c=2 d=0.48106 t=4388
-gǎi;wj,jw chéng;gg,wg 	改成	c=7 d=0.208786 t=4388
-gǎi;wj,jw de;xc 	改得	c=1 d=0.0500364 t=4388
-gǎi;wj,jw guò;zc 	改过	c=1 d=0.0330412 t=4388
-gǎi;wj,jw huí;kk qù;ts 	改回去	c=1 d=0.247833 t=4388
-gǎi;wj,jw le;aa,vu 	改了	c=1 d=0.00571304 t=4388
-gǎn;xx jué;dj,jb 	感觉	c=8 d=0.429881 t=4388
-gǎn;xx jué;dj,jb huì;ry 	感觉会	c=1 d=0.0206508 t=4388
-gǎn;xx jué;dj,jb le;aa,vu 	感觉了	c=1 d=0.00474813 t=4388
-gǎn;xx jué;dj,jb tài;dd 	感觉太	c=1 d=0.00384878 t=4388
-gǎn;xx xiè;yu 	感谢	c=1 d=0.66034 t=4388
-gǎo;fg bù;ad,ax dǒng;xd 	搞不懂	c=1 d=0.00701291 t=4388
-gǎo;fg chū;ck,aa lái;am,wb 	搞出来	c=1 d=0.0266491 t=4388
-gǎo;fg dǒng;xd 	搞懂	c=1 d=0.054204 t=4388
-gǎo;fg qīng;dq chǔ;mp,pl 	搞清楚	c=1 d=0.00618889 t=4388
-gǔ;uk 	古	c=3 d=2.8437 t=3104
-gǔ;uk cí;ys 	古词	c=2 d=1.99005 t=3067
-huà;ak de;bu 	画的	c=0 d=0.0031117 t=4388
-huà;ak de;bu shá;ku 	画的啥	c=1 d=0.031273 t=4388
-huà;dg,gd zhōng;aa,ka 	划中	c=1 d=1 t=3698
-huà;rb 	化	c=1 d=1 t=3383
-huà;yu 	话	c=7 d=0.454732 t=4388
-huà;yu shuō;yd 	话说	c=2 d=0.600519 t=4388
-huài;tb xiāo;dx xi;xz,zx 	坏消息	c=1 d=0.0254765 t=4388
-huàn;fh 	换	c=2 d=0.0323525 t=4388
-huàn;fh háng;xd,xi 	换行	c=8 d=5.64585 t=4337
-huàn;fh le;aa,vu 	换了	c=1 d=1 t=3048
-huàn;fh yè;ab 	换页	c=1 d=0.0303488 t=4388
-huá;dg dòng;ly,yl 	滑动	c=1 d=1 t=3171
-huì;ry 	会	c=20 d=1.62431 t=4388
-huì;ry biàn;wy,yy 	会变	c=0 d=0.000296761 t=4388
-huì;ry bèi;yp 	会被	c=1 d=0.594521 t=4388
-huí;kk 	回	c=1 d=0.194952 t=4388
-huí;kk dào;dv 	回到	c=4 d=0.0705935 t=4388
-huí;kk lái;am,wb 	回来	c=1 d=0.00227676 t=4388
-huò;cq qǔ;ey,ye 	获取	c=1 d=0.315058 t=4388
-huò;gk zhě;lo,ol 	或者	c=8 d=0.757872 t=4388
-huī;xh fù;pw,rw,wo 	恢复	c=1 d=0.0742736 t=4388
-hào;nz qí;dk 	好奇	c=1 d=0.0169922 t=4388
-hái;zb 	还	c=15 d=0.721798 t=4388
-hái;zb bù;ad,ax pǎo;zb 	还不跑	c=1 d=1 t=3267
-hái;zb děi;xc 	还得	c=5 d=0.726243 t=4388
-hái;zb huì;ry 	还会	c=2 d=0.0278313 t=4388
-hái;zb hǎo;nz 	还好	c=1 d=1 t=3081
-hái;zb kě;dk yǐ;rd,ry 	还可以	c=2 d=0.214101 t=4388
-hái;zb méi;du 	还没	c=2 d=0.276651 t=4388
-hái;zb méi;du kàn;ou,uo 	还没看	c=1 d=0.000399619 t=4388
-hái;zb néng;sb 	还能	c=1 d=1 t=3778
-hái;zb shì;op,ov 	还是	c=33 d=0.723841 t=4388
-hái;zb shǔ;uy 	还属	c=0 d=0.000115923 t=4388
-hái;zb shǔ;uy yīn;lo jié;ce ne;kn 	还属音节呢	c=1 d=0.00116504 t=4388
-hái;zb tǐng;ft hǎo;nz 	还挺好	c=1 d=0.00101284 t=4388
-hái;zb xíng;xd,xi 	还行	c=1 d=0.00301246 t=4388
-hái;zb yǒu;ou,uo 	还有	c=8 d=1.69891 t=4388
-hái;zb zài;ta,ut 	还在	c=2 d=0.612626 t=4388
-háng;vk xiàn;sj 	航线	c=1 d=1 t=3181
-hè;nv hè;nv 	鹤鹤	c=1 d=0.208045 t=4388
-hè;nv hè;nv shì;op,ov zhè;zw yàng;my de;bu 	鹤鹤是这样的	c=1 d=1 t=3325
-hé;hk 	和	c=31 d=2.65214 t=4388
-hé;rk bìng;bk,qc 	合并	c=1 d=0.0162445 t=4388
-hòu;pk 	后	c=9 d=0.984488 t=4388
-hòu;pk miàn;aa 	后面	c=2 d=0.482714 t=4388
-hòu;pk mén;dg 	后门	c=1 d=1 t=3239
-hòu;pk tái;sk 	后台	c=1 d=0.304221 t=4388
-hòu;ru xuǎn;zx cí;ys 	候选词	c=1 d=0.000685749 t=4388
-hā;kh 	哈	c=2 d=0.813515 t=4388
-hā;kh hā;kh 	哈哈	c=2 d=0.494464 t=4388
-hā;kh hā;kh hā;kh 	哈哈哈	c=0 d=0.0362575 t=4388
-hā;kh hā;kh hā;kh hā;kh 	哈哈哈哈	c=2 d=0.740818 t=4388
-hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh 	哈哈哈哈哈哈	c=1 d=0.00198925 t=4388
-hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh 	哈哈哈哈哈哈哈哈	c=1 d=0.362403 t=4388
-hěn;qg rén;pd 	狠人	c=1 d=0.000642594 t=4388
-hěn;xg 	很	c=9 d=0.509423 t=4388
-hěn;xg cháng;pd 	很长	c=1 d=1 t=3815
-hěn;xg duō;xx 	很多	c=2 d=0.0907334 t=4388
-hěn;xg fán;hy 	很烦	c=1 d=1 t=2874
-hěn;xg màn;xm 	很慢	c=1 d=0.501576 t=4388
-hěn;xg shuǎng;dy 	很爽	c=1 d=0.0207543 t=4388
-hěn;xg shǎ;rw 	很傻	c=1 d=1 t=2950
-hěn;xg xǐ;uk huān;yq 	很喜欢	c=1 d=0.00256704 t=4388
-hěn;xg yǒu;ou,uo 	很有	c=1 d=1 t=3360
-hū;xw shì;ju,uj 	忽视	c=1 d=1 t=4351
-hǎn;kx 	喊	c=1 d=1 t=4386
-hǎo;nz 	好	c=5 d=0.412532 t=4388
-hǎo;nz de;bu 	好的	c=9 d=0.179597 t=4388
-hǎo;nz de;bu ba;kb 	好的吧	c=2 d=0.115877 t=4388
-hǎo;nz de;bu hǎo;nz de;bu 	好的好的	c=1 d=0.000505483 t=4388
-hǎo;nz hǎo;nz hǎo;nz 	好好好	c=1 d=0.0500366 t=4388
-hǎo;nz le;aa,vu 	好了	c=4 d=0.131998 t=4388
-hǎo;nz ma;km 	好嘛	c=1 d=1 t=3352
-hǎo;nz tú;kd 	好图	c=1 d=0.00199921 t=4388
-hǎo;nz xiàng;rx 	好像	c=3 d=0.171011 t=4388
-hǎo;nz xiāo;dx xī;xz,zx 	好消息	c=1 d=0.0238732 t=4388
-hǎo;nz yòng;kf 	好用	c=2 d=0.192241 t=4388
-hǎo;nz àn;oy 	好暗	c=0 d=0.00403566 t=4388
-jiàn;jj 	键	c=1 d=0.0040672 t=4388
-jiàn;jj pán;mv,vm 	键盘	c=9 d=0.355226 t=4388
-jiàn;mo,om jiē;fq 	间接	c=5 d=0.0560993 t=4388
-jiàn;mo,om jiē;fq fǔ;if 	间接辅	c=2 d=1.96561 t=3241
-jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql 	间接辅助	c=0 d=0.00232837 t=4388
-jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql ma;km 	间接辅助吗	c=3 d=0.0234005 t=4388
-jiàn;vq tóu;dd 	箭头	c=2 d=0.179066 t=4388
-jiàn;zy yì;yy 	建议	c=2 d=0.113471 t=4388
-jiào;kj 	叫	c=3 d=0.389204 t=4388
-jiào;wx 	教	c=1 d=0.00414854 t=4388
-jiè;tj miàn;aa 	界面	c=11 d=6.75631 t=3702
-jié;sj guǒ;ad,tm 	结果	c=2 d=0.200461 t=4388
-jiù;ao 	旧	c=4 d=0.379594 t=4388
-jiù;ao bǎn;pf 	旧版	c=2 d=0.692947 t=4388
-jiù;yj 	就	c=37 d=2.21725 t=4388
-jiù;yj huì;ry 	就会	c=1 d=0.0739031 t=4388
-jiù;yj hǎo;nz le;aa,vu 	就好了	c=3 d=0.27805 t=4388
-jiù;yj shì;op,ov 	就是	c=14 d=1.18384 t=4388
-jiù;yj shì;op,ov le;aa,vu 	就是了	c=1 d=0.0273237 t=4388
-jiù;yj shì;op,ov wǒ;pd,pp 	就是我	c=1 d=0.00127475 t=4388
-jiù;yj wǒ;pd,pp 	就我	c=1 d=0.000473668 t=4388
-jiù;yj xíng;xd,xi 	就行	c=1 d=0.0183156 t=4388
-jiā;lk,kl 	加	c=4 d=0.00471152 t=4388
-jiā;lk,kl le;aa,vu 	加了	c=3 d=0.38248 t=4388
-jiā;lk,kl yóu;dy 	加油	c=1 d=0.00118265 t=4388
-jiān;bd,bj,qd,qj gù;ye 	兼顾	c=1 d=1 t=3652
-jiān;bd,bj,qd,qj róng;bg 	兼容	c=1 d=1 t=3425
-jiāng;dc,jc,pc 	将	c=5 d=0.444836 t=4388
-jiāo;li,wf,df 	交	c=1 d=0.00412784 t=4388
-jiě;jn jué;dd,dg 	解决	c=6 d=1.14696 t=4388
-jiě;jn jué;dd,dg bàn;lb fǎ;dq 	解决办法	c=1 d=0.0147723 t=4388
-jiě;jn shì;pf,bf yí;aa xià;ab,ad 	解释一下	c=1 d=0.00021605 t=4388
-jiū;sj jié;sj 	纠结	c=1 d=0.0141223 t=4388
-jiǎ;rj,ry shè;yu 	假设	c=1 d=1 t=2735
-jiǎn;dq qiē;dq,qd bǎn;mf 	剪切板	c=1 d=1 t=3147
-jiǎn;ma,mq chá;md 	检查	c=4 d=0.0599164 t=4388
-jiǎn;vj chún;st 	简纯	c=1 d=0.208045 t=4388
-jiǎn;vj cí;ys 	简词	c=2 d=0.608438 t=4388
-jiǎn;vj lòu;ea,ev 	简陋	c=1 d=1 t=4091
-jiǎn;vj mǎ;um 	简码	c=3 d=0.384812 t=4388
-jiǎn;vj pīn;fb 	简拼	c=2 d=0.271172 t=4388
-jiǎn;vj yuē;su 	简约	c=1 d=0.00259285 t=4388
-jiǎng;yj 	讲	c=1 d=1 t=2902
-jiǎng;yj jiǎng;yj 	讲讲	c=1 d=0.000253537 t=4388
-jiǎo;oq běn;aa,ma 	脚本	c=15 d=1.58388 t=4388
-jiǔ;py tiān;ad 	九天	c=0 d=0.00507928 t=4388
-jiǔ;py tiān;ad yīng;ga yuán;aw,ee léi;yt shēng;um pǔ;ob,bo huà;rb tiān;ad zūn;cq,qc 	九天应元雷声普化天尊	c=1 d=0.0510474 t=4388
-jué;dj,jb de;xc 	觉得	c=4 d=0.988154 t=4388
-jì;sa,sv xù;sm 	继续	c=3 d=0.139963 t=4388
-jì;yj lù;au,ua,vu 	记录	c=3 d=0.138688 t=4388
-jì;yj yì;xy 	记忆	c=1 d=0.0466538 t=4388
-jì;yj zhù;rv 	记住	c=2 d=0.097862 t=4388
-jìn;zj 	进	c=2 d=0.946485 t=4388
-jìn;zj qù;ts 	进去	c=0 d=0.00875977 t=4388
-jù;ba,bq,qb tǐ;rb 	具体	c=4 d=0.583844 t=4388
-jù;fj 	据	c=1 d=1 t=3303
-jù;gk,kg,pk fǎ;dq 	句法	c=1 d=0.017249 t=4388
-jù;gk,kg,pk zi;aa,vh 	句子	c=8 d=0.0666302 t=4388
-jù;jj chǐ;vk 	锯齿	c=0 d=0.000296761 t=4388
-jú;uk bù;ek,ep biàn;wy,yy liàng;ol 	局部变量	c=1 d=0.878095 t=4388
-jī;tq,qt běn;aa,ma 	基本	c=1 d=0.000330468 t=4388
-jīn;ra,rv tiān;ad 	今天	c=3 d=0.0179691 t=4388
-jīng;mq jiǎn;vj 	精简	c=1 d=1 t=4171
-jīng;mq shen;uu 	精神	c=1 d=0.00119453 t=4388
-jīng;sg cháng;jk,xd,dd 	经常	c=1 d=1 t=3355
-jǐ;py gè;ra,pa 	几个	c=1 d=0.0867261 t=4388
-jǐ;py jù;gk,kg,pk huà;yu 	几句话	c=1 d=1 t=3861
-jǐn;id guǎn;vg 	尽管	c=2 d=1.73712 t=3555
-jǔ;df,xf ge;ra,pa lì;rl zi;aa,vh 	举个例子	c=1 d=0.000219315 t=4388
-kuài;xd,xg 	快	c=2 d=0.316697 t=4388
-kuài;xd,xg jié;fj jiàn;jj 	快捷键	c=1 d=0.299692 t=4388
-kuàng;mk 	框	c=2 d=1.70165 t=4151
-kuàng;mk kuàng;mk 	框框	c=1 d=1 t=3807
-kuān;bj,jb 	宽	c=2 d=1.57121 t=4046
-kàn;ou,uo 	看	c=8 d=3.46637 t=4388
-kàn;ou,uo bù;ad,ax chū;ck,aa 	看不出	c=2 d=0.122461 t=4388
-kàn;ou,uo bù;ad,ax dǒng;xd 	看不懂	c=1 d=0.822835 t=4388
-kàn;ou,uo bú;ad,ax tài;dd dǒng;xd 	看不太懂	c=1 d=0.509156 t=4388
-kàn;ou,uo chū;ck,aa lái;am,wb 	看出来	c=2 d=1.96079 t=3045
-kàn;ou,uo de;xc 	看得	c=2 d=0.839457 t=4388
-kàn;ou,uo de;xc chū;ck,aa lái;am,wb 	看得出来	c=1 d=0.0154523 t=4388
-kàn;ou,uo de;xc wǒ;pd,pp dōu;ev tóu;dd tòng;by 	看得我都头痛	c=1 d=0.0159229 t=4388
-kàn;ou,uo dào;dv 	看到	c=3 d=0.771325 t=4388
-kàn;ou,uo dǒng;xd 	看懂	c=2 d=0.0243415 t=4388
-kàn;ou,uo jiàn;ag,ek,ke 	看见	c=1 d=1 t=3293
-kàn;ou,uo kàn;ou,uo 	看看	c=10 d=1.03973 t=4388
-kàn;ou,uo le;aa,vu 	看了	c=2 d=0.23137 t=4388
-kàn;ou,uo le;aa,vu bàn;bf tiān;ad 	看了半天	c=1 d=0.535261 t=4388
-kàn;ou,uo qǐ;zj lái;am,wb 	看起来	c=1 d=0.0182243 t=4388
-kè;eg,ux lóng;eu 	克隆	c=2 d=1.41944 t=4388
-kè;yg 	课	c=0 d=0.1 t=3352
-kòng;fk zhì;dg,dv xì;ps tǒng;si 	控制系统	c=0 d=0.1 t=4354
-kùn;km rǎo;fy 	困扰	c=1 d=0.316637 t=4388
-kāi;ac 	开	c=2 d=0.31507 t=4388
-kāi;ac bù;ad,ax kāi;ac 	开不开	c=1 d=0.000439444 t=4388
-kāi;ac guān;bt,qd 	开关	c=1 d=0.215456 t=4388
-kāi;ac le;aa,vu 	开了	c=2 d=0.00130703 t=4388
-kāi;ac qǐ;hk,kh 	开启	c=1 d=0.327915 t=4388
-kāi;ac shǐ;nt 	开始	c=2 d=0.0206537 t=4388
-kāi;ac tóu;dd 	开头	c=1 d=0.00951389 t=4388
-kāi;ac yí;aa xià;ab,ad 	开一下	c=1 d=0.0129715 t=4388
-kě;dk 	可	c=1 d=0.319819 t=4388
-kě;dk dìng;bp 	可定	c=1 d=1 t=2799
-kě;dk lè;pd,px 	可乐	c=1 d=0.00226541 t=4388
-kě;dk néng;sb 	可能	c=4 d=1.07376 t=4388
-kě;dk shì;op,ov 	可是	c=3 d=0.0546716 t=4388
-kě;dk wù;xy 	可恶	c=1 d=0.000581439 t=4388
-kě;dk yǐ;rd,ry 	可以	c=13 d=0.926438 t=4388
-kě;dk yǐ;rd,ry de;bu 	可以的	c=1 d=0.000291637 t=4388
-kě;dk yǐ;rd,ry le;aa,vu 	可以了	c=1 d=0.000982902 t=4388
-kěn;ov,vo dìng;bp 	肯定	c=3 d=0.842146 t=4388
-kōng;xg,bg jiān;mo,om 	空间	c=1 d=1 t=3909
-kǎ;bx,ub piàn;pa,pv 	卡片	c=10 d=7.18315 t=4075
-kǎo;lk diǎn;hv 	考点	c=1 d=0.000347412 t=4388
-kǎo;lk lǜ;hx,xh guò;zc 	考虑过	c=1 d=0.0510476 t=4388
-le;aa,vu 	了	c=89 d=5.47191 t=4388
-liàng;ol 	量	c=1 d=1 t=2990
-liú;td,tl,lt le;aa,vu gè;ra,pa 	留了个	c=1 d=1 t=3237
-liǎng;ad biān;zl 	两边	c=1 d=1 t=3203
-liǎng;ad gè;ra,pa 	两个	c=14 d=0.350539 t=4388
-liǎng;ad tóu;dd 	两头	c=1 d=1 t=3653
-liǎng;ad zhǒng;hv 	两种	c=1 d=0.101206 t=4388
-liǎng;ad zhǒng;hv xí;ga guàn;xg 	两种习惯	c=1 d=0.0916298 t=4388
-liǎo;aa,vu jiě;jn 	了解	c=3 d=2.91202 t=2952
-luàn;ug 	乱	c=1 d=0.0439374 t=4388
-luàn;ug gǎi;wj,jw 	乱改	c=2 d=0.104142 t=4388
-luàn;ug yìng;oy shè;cu,uc 	乱映射	c=1 d=0.0306538 t=4388
-luó;zl jí;ie,iq 	逻辑	c=4 d=0.250403 t=4388
-lái;am,wb 	来	c=17 d=1.04639 t=4388
-lái;am,wb de;xc 	来得	c=1 d=1 t=3814
-lái;am,wb dào;dv 	来到	c=1 d=0.0958472 t=4388
-lái;am,wb zhe;yo 	来着	c=7 d=0.600551 t=4388
-lái;cl 	莱	c=1 d=0.00201931 t=4388
-lán;cj píng;ub 	蓝屏	c=4 d=0.0979719 t=4388
-léi;yt 	雷	c=1 d=0.0505395 t=4388
-léi;yt shēng;um 	雷声	c=0 d=0.00507928 t=4388
-lì;hd,dh luò;cl 	利落	c=1 d=1 t=3712
-lì;rl rú;nk 	例如	c=7 d=0.631234 t=4388
-lì;rl zi;aa,vh 	例子	c=2 d=1.09072 t=3443
-lì;rl zi;aa,vh zhōng;aa,ka 	例子中	c=1 d=1 t=2997
-lìng;kl 	另	c=1 d=1 t=2847
-lìng;kl wài;xb 	另外	c=1 d=1 t=3910
-lìng;kl yí;aa gè;ra,pa 	另一个	c=1 d=1 t=2809
-lù;au,ua,vu gè;ra,pa 	录个	c=1 d=1 t=3137
-lù;au,ua,vu shì;ju,uj pín;yb 	录视频	c=1 d=1 t=4299
-lù;ej 	陆	c=1 d=0.00660109 t=4388
-lù;ej yíng;my yíng;my 	陆盈盈	c=1 d=0.0572686 t=4388
-lù;zg jìng;xg 	路径	c=1 d=1 t=2849
-lù;zg rén;pd 	路人	c=1 d=1 t=3030
-lùn;yl 	论	c=1 d=1 t=3755
-lún;il xún;yx 	轮询	c=10 d=0.345132 t=4388
-lā;fl qǔ;ey,ye 	拉取	c=4 d=1.81062 t=4388
-lā;fl wǒ;pd,pp 	拉我	c=0 d=0.00523397 t=4388
-lā;fl wǒ;pd,pp de;bu 	拉我的	c=1 d=0.0526021 t=4388
-lǎo;bl,lb bǎn;mf 	老板	c=1 d=0.0483156 t=4388
-lǎo;bl,lb huáng;ad,cb niú;pa 	老黄牛	c=1 d=0.000257369 t=4388
-lǎo;bl,lb shí;bt shuō;yd 	老实说	c=1 d=0.00778932 t=4388
-lǎo;bl,lb shī;ab,aj,db,dj 	老师	c=1 d=0.257947 t=4388
-lǎo;rl 	佬	c=1 d=0.0992613 t=4388
-lǐ;aa,tt 	里	c=11 d=2.02316 t=4388
-lǐ;ug mào;ve,vm 	礼貌	c=1 d=0.00509243 t=4388
-lǐ;wl jiě;jn 	理解	c=3 d=0.0143512 t=4388
-lǐ;wl jiě;jn yí;aa xià;ab,ad 	理解一下	c=1 d=0.000221519 t=4388
-ma;km 	吗	c=17 d=0.933134 t=4388
-ma;km 	嘛	c=18 d=1.62153 t=4388
-me;ps 	么	c=27 d=1.76632 t=4388
-me;ps kàn;ou,uo lái;am,wb 	么看来	c=0 d=2.91637e-05 t=4388
-mài;fw dāng;xx láo;cl,lb 	麦当劳	c=1 d=1 t=3328
-mài;fw lǐ;aa,tt 	麦里	c=1 d=1 t=4385
-mài;um 	卖	c=1 d=0.0146986 t=4388
-máng;ow dǎ;fd 	盲打	c=1 d=0.035437 t=4388
-méi;du 	没	c=24 d=0.624748 t=4388
-méi;du bèi;yp 	没被	c=2 d=1.98511 t=4026
-méi;du kàn;ou,uo dǒng;xd 	没看懂	c=2 d=0.524759 t=4388
-méi;du le;aa,vu 	没了	c=1 d=1 t=4281
-méi;du lǐ;wl jiě;jn 	没理解	c=1 d=0.00740947 t=4388
-méi;du shá;ku 	没啥	c=1 d=0.337902 t=4388
-méi;du shá;ku chā;yg bié;dl 	没啥差别	c=1 d=0.000441647 t=4388
-méi;du shá;ku yòng;kf 	没啥用	c=1 d=1 t=3229
-méi;du shì;aa 	没事	c=3 d=0.217824 t=4388
-méi;du tài;dd kàn;ou,uo dǒng;xd 	没太看懂	c=1 d=1 t=2898
-méi;du wèn;km,mk tí;uy,yu 	没问题	c=1 d=0.00818871 t=4388
-méi;du xiě;by 	没写	c=1 d=0.985112 t=4388
-méi;du yòng;kf guò;zc 	没用过	c=1 d=0.204948 t=4388
-méi;du yǒu;ou,uo 	没有	c=10 d=0.918362 t=4388
-mí;zm hu;mh 	迷糊	c=1 d=0.0678809 t=4388
-mí;zm mí;zm hū;mh hū;mh de;bu 	迷迷糊糊的	c=1 d=0.138069 t=4388
-míng;oo bái;pa,po 	明白	c=0 d=0.000690853 t=4388
-míng;oo míng;oo 	明明	c=2 d=0.0988096 t=4388
-míng;xk 	名	c=0 d=0.1 t=2814
-míng;xk zì;bz 	名字	c=5 d=0.0968882 t=4388
-mò;ad,am wěi;um 	末尾	c=4 d=0.00504506 t=4388
-mò;dm rán;hq 	漠然	c=1 d=0.00067217 t=4388
-mò;hq rèn;yr 	默认	c=4 d=1.10785 t=4388
-mó;gm,mg rán;hq 	魔然	c=5 d=0.0339596 t=4388
-mó;gm,mg rán;hq mǎ;um 	魔然码	c=2 d=0.446648 t=4388
-mó;mm bǎn;pf 	模版	c=2 d=0.0172381 t=4388
-mó;mm hu;mh yīn;lo 	模糊音	c=1 d=0.000880519 t=4388
-mó;mm shì;gy,yg 	模式	c=2 d=0.494268 t=4388
-mó;mm xíng;tx 	模型	c=3 d=2.24519 t=4388
-mù;aa,om,mu lù;au,ua,vu 	目录	c=5 d=1.919 t=4388
-mù;aa,om,mu lù;au,ua,vu xià;ab,ad 	目录下	c=1 d=0.0728029 t=4388
-mù;aa,om,mu qián;bd,qd 	目前	c=1 d=0.00100276 t=4388
-mā;nm ma;nm 	妈妈	c=1 d=1 t=4387
-měi;dy,yd guān;jy,yj 	美观	c=4 d=1.41286 t=4354
-měi;dy,yd hǎo;nz 	美好	c=1 d=1 t=4093
-měi;pm,rm cì;dq 	每次	c=12 d=3.12173 t=4388
-měi;pm,rm gè;ra,pa zì;bz 	每个字	c=1 d=0.282239 t=4388
-mǎ;um 	码	c=2 d=0.0339596 t=4388
-mǎi;at,vt wán;by 	买完	c=1 d=0.00224287 t=4388
-mǒu;gm,mg zhǒng;hv yì;xy,lx yì;di,id shàng;aa,ba 	某种意义上	c=1 d=1 t=3114
-ne;kn 	呢	c=3 d=0.0394763 t=4388
-nián;ra,pa 	年	c=1 d=1 t=4360
-nián;ra,pa qīng;ig 	年轻	c=1 d=0.000393669 t=4388
-niú;pa 	牛	c=2 d=0.00429639 t=4388
-niú;pa zi;aa,vh 	牛子	c=1 d=0.0217096 t=4388
-nuó;fn 	挪	c=0 d=0.00875977 t=4388
-nuó;fn jìn;zj qù;ts 	挪进去	c=1 d=0.0880368 t=4388
-nà;el 	那	c=29 d=1.86242 t=4388
-nà;el bù;ek,ep fèn;bd,db 	那部分	c=1 d=0.826959 t=4388
-nà;el bú;ad,ax jiù;yj 	那不就	c=1 d=0.115903 t=4388
-nà;el cì;dq 	那次	c=1 d=0.726149 t=4388
-nà;el ge;ra,pa 	那个	c=5 d=0.78935 t=4388
-nà;el ge;ra,pa me;ps 	那个么	c=1 d=0.386741 t=4388
-nà;el jiù;yj 	那就	c=2 d=0.439604 t=4388
-nà;el jiù;yj shì;op,ov 	那就是	c=3 d=0.625909 t=4388
-nà;el lǐ;aa,tt 	那里	c=1 d=0.0520788 t=4388
-nà;el lǐ;aa,tt yǒu;ou,uo 	那里有	c=0 d=6.14315e-05 t=4388
-nà;el lǐ;aa,tt yǒu;ou,uo wèn;km,mk tí;uy,yu 	那里有问题	c=1 d=0.000617396 t=4388
-nà;el me;ps 	那么	c=3 d=0.00301456 t=4388
-nà;el nǐ;re 	那你	c=2 d=1.62814 t=2820
-nà;el nǐ;re zì;pa,po jǐ;ag,vg 	那你自己	c=1 d=0.000623599 t=4388
-nà;el qí;ba,ad,hb shí;bt 	那其实	c=2 d=0.744532 t=4388
-nà;el wǒ;pd,pp 	那我	c=5 d=0.394412 t=4388
-nà;el wǒ;pd,pp bù;ad,ax qīng;dq chu;mp,pl 	那我不清楚	c=1 d=0.414783 t=4388
-nà;el wǒ;pd,pp gǎn;xx jué;dj,jb 	那我感觉	c=1 d=0.33454 t=4388
-nà;el wǒ;pd,pp hái;zb shì;op,ov 	那我还是	c=1 d=0.00612728 t=4388
-nà;el wǒ;pd,pp jiù;yj hái;zb shì;op,ov 	那我就还是	c=1 d=0.0389686 t=4388
-nà;el wǒ;pd,pp jué;dj,jb de;xc 	那我觉得	c=1 d=1 t=3080
-nà;el yàng;my 	那样	c=1 d=1 t=3529
-nà;el yì;aa háng;xd,xi 	那一行	c=1 d=1 t=3194
-nà;el yí;aa kuài;td,tg 	那一块	c=1 d=0.0293049 t=4388
-nà;el zhè;zw 	那这	c=0 d=2.91637e-05 t=4388
-nà;el zhè;zw me;ps kàn;ou,uo lái;am,wb 	那这么看来	c=1 d=0.000293099 t=4388
-nà;el zhè;zw shí;oc 	那这时	c=1 d=1 t=3340
-nà;kn 	呐	c=2 d=0.0713613 t=4388
-ná;uh 	拿	c=2 d=0.631315 t=4388
-ná;uh lái;am,wb 	拿来	c=1 d=0.0315873 t=4388
-nán;tl hái;zh 	男孩	c=1 d=1 t=3008
-nán;yv dào;zu 	难道	c=1 d=0.000471309 t=4388
-nán;yv dǎ;fd 	难打	c=1 d=0.00290884 t=4388
-nèi;ad,kr biān;zl jù;zj 	内边距	c=2 d=1.91393 t=3921
-nèi;ad,kr róng;bg 	内容	c=6 d=0.576718 t=4388
-néng;sb 	能	c=11 d=0.90098 t=4388
-néng;sb bù;ad,ax néng;sb 	能不能	c=1 d=1 t=4349
-néng;sb bǎ;fb 	能把	c=1 d=0.0288686 t=4388
-néng;sb fǒu;kb 	能否	c=9 d=3.12243 t=4249
-néng;sb pǎo;zb 	能跑	c=1 d=0.0182243 t=4388
-néng;sb yòng;kf 	能用	c=1 d=0.000841775 t=4388
-nǎ;kn 	哪	c=2 d=0.0160209 t=4388
-nǎ;kn ge;ra,pa 	哪个	c=3 d=0.514909 t=4388
-nǎ;kn ge;ra,pa shì;op,ov 	哪个是	c=0 d=3.12784e-05 t=4388
-nǎ;kn ge;ra,pa shì;op,ov a;ka 	哪个是啊	c=1 d=0.000314351 t=4388
-nǎ;kn lǐ;aa,tt 	哪里	c=7 d=0.453281 t=4388
-nǎ;kn pà;xb 	哪怕	c=1 d=0.436049 t=4388
-nǎi;nn chá;cm 	奶茶	c=1 d=0.0160027 t=4388
-nǐ;re 	你	c=26 d=1.75377 t=4388
-nǐ;re de;bu 	你的	c=1 d=0.18452 t=4388
-nǐ;re de;bu huà;yu 	你的话	c=1 d=0.0347353 t=4388
-nǐ;re hái;zb 	你还	c=1 d=0.0220377 t=4388
-nǐ;re hǎo;nz 	你好	c=6 d=0.0425202 t=4388
-nǐ;re jué;dj,jb de;xc ne;kn 	你觉得呢	c=1 d=0.364219 t=4388
-nǐ;re men;rm 	你们	c=1 d=0.00193046 t=4388
-nǐ;re néng;sb fǒu;kb 	你能否	c=1 d=1 t=4233
-nǐ;re qù;ts 	你去	c=1 d=1 t=3108
-nǐ;re shén;ru me;ps 	你什么	c=1 d=0.0520787 t=4388
-nǐ;re shì;bv yǒu;yu,uy 	你室友	c=1 d=1 t=3377
-nǐ;re shì;op,ov wǒ;pd,pp 	你是我	c=1 d=0.217621 t=4388
-nǐ;re xiàn;wj zài;ta,ut 	你现在	c=1 d=0.0561346 t=4388
-nǐ;re yì;aa shuō;yd 	你一说	c=1 d=0.373439 t=4388
-nǐ;re yě;gg shì;op,ov 	你也是	c=1 d=0.0218184 t=4388
-nǐ;re zì;pa,po jǐ;ag,vg 	你自己	c=1 d=0.0987662 t=4388
-nǚ;aa,vh hái;zh 	女孩	c=1 d=1 t=3009
-piào;dp liang;wj,jb 	漂亮	c=1 d=1 t=3542
-pián;rg yi;bq 	便宜	c=1 d=1 t=3351
-pà;xb 	怕	c=1 d=0.343009 t=4388
-pào;db miàn;aa 	泡面	c=1 d=0.00225411 t=4388
-pái;ff bǎn;pf 	排版	c=8 d=4.51091 t=4111
-pèi;yj zhì;sv 	配置	c=7 d=0.225717 t=4388
-pèi;yj zhì;sv me;ps 	配置么	c=1 d=0.00048324 t=4388
-pèi;yj zhì;sv wén;wi,dd jiàn;rn 	配置文件	c=1 d=0.0812682 t=4388
-péng;oo you;yu,uy 	朋友	c=2 d=0.177536 t=4388
-pí;ad,ay,vd,vy,ya fū;of 	皮肤	c=5 d=0.210178 t=4388
-pín;yb lǜ;wu 	频率	c=1 d=0.0977834 t=4388
-píng;aa,gb tái;sk 	平台	c=1 d=0.109701 t=4388
-pēi;kp 	呸	c=1 d=0.000403635 t=4388
-pīn;fb yīn;lo 	拼音	c=1 d=0.000464291 t=4388
-pǎo;zb 	跑	c=1 d=0.020141 t=4388
-pǐ;ke pèi;yj 	匹配	c=2 d=0.0346749 t=4388
-pǔ;ob,bo huà;rb tiān;ad zūn;cq,qc 	普化天尊	c=0 d=0.00507928 t=4388
-pǔ;ob,bo tōng;zy 	普通	c=1 d=0.000296045 t=4388
-qiè;dq,qd 	切	c=1 d=1 t=3487
-qiē;dq,qd huàn;fh 	切换	c=3 d=0.260749 t=4388
-qiě;aa 	且	c=1 d=1 t=3642
-qiǎng;gs pò;zb zhèng;bv 	强迫症	c=1 d=0.108067 t=4388
-quán;rw 	全	c=1 d=0.0006362 t=4388
-quán;rw bù;ek,ep 	全部	c=2 d=0.118841 t=4388
-quán;rw jú;uk 	全局	c=2 d=1.89583 t=4388
-quán;rw píng;ub 	全屏	c=1 d=0.0328764 t=4388
-quán;rw pīn;fb 	全拼	c=1 d=0.000270565 t=4388
-quán;rw shān;dc 	全删	c=1 d=0.170333 t=4388
-què;uj bǎo;rd 	确保	c=1 d=0.600496 t=4388
-què;uj dìng;bp 	确定	c=1 d=0.0695995 t=4388
-què;uj rèn;yr 	确认	c=1 d=0.0125881 t=4388
-què;uj shí;bt 	确实	c=5 d=0.32476 t=4388
-qí;ba,ad,hb 	其	c=1 d=0.603506 t=4388
-qí;ba,ad,hb cì;dq 	其次	c=1 d=1 t=3675
-qí;ba,ad,hb shí;bt 	其实	c=11 d=1.04988 t=4388
-qí;ba,ad,hb tā;ry 	其他	c=4 d=0.171141 t=4388
-qí;ba,ad,hb zhōng;aa,ka 	其中	c=4 d=1.20124 t=4202
-qí;dk guài;xu 	奇怪	c=1 d=0.228779 t=4388
-qíng;xq kuàng;dx 	情况	c=5 d=1.31013 t=4388
-qù;ts 	去	c=8 d=0.96634 t=4388
-qù;ts chú;ey 	去除	c=3 d=2.55421 t=4265
-qún;yj yǒu;yu,uy 	群友	c=2 d=0.101774 t=4388
-qī;oq,qo wàng;wo 	期望	c=1 d=1 t=4311
-qīng;dq chǔ;mp,pl 	清楚	c=1 d=0.0695994 t=4388
-qīng;dq kōng;xg,bg 	清空	c=2 d=1.1367 t=4231
-qīng;of,fo chūn;of,fo 	青春	c=1 d=1 t=3158
-qū;aa,oa xiàn;sj jiù;wq guó;ky 	曲线救国	c=1 d=0.400517 t=4388
-qū;ki bié;dl 	区别	c=7 d=0.796244 t=4388
-qǐ;zj shǒu;pa,ub 	起手	c=1 d=0.104874 t=4388
-qǐ;zj zuò;rv yòng;kf 	起作用	c=1 d=1 t=3599
-qǐng;yq 	请	c=2 d=0.579842 t=4388
-qǐng;yq nǐ;re 	请你	c=4 d=1.88664 t=4187
-qǐng;yq qiú;ad 	请求	c=1 d=1 t=3845
-qǔ;ey,ye xiāo;dx 	取消	c=2 d=0.0175989 t=4388
-ràng;yu 	让	c=4 d=0.655476 t=4388
-ràng;yu wǒ;pd,pp 	让我	c=2 d=0.0411719 t=4388
-rán;hq 	然	c=2 d=0.274202 t=4388
-rán;hq hòu;pk 	然后	c=5 d=0.932394 t=4388
-rèn;rr hé;rk 	任何	c=1 d=0.04573 t=4388
-rén;pd 	人	c=2 d=0.0672095 t=4388
-rén;pd jī;mj 	人机	c=1 d=0.410656 t=4388
-rén;pd míng;xk 	人名	c=3 d=0.393143 t=4388
-réng;rn 	仍	c=1 d=1 t=3747
-rì;aa,or,ri cháng;jk,xd,dd 	日常	c=1 d=1 t=2698
-rì;aa,or,ri zhì;ux,xu 	日志	c=1 d=0.0197421 t=4388
-róng;cm,mb yù;yx 	荣誉	c=1 d=0.00386807 t=4388
-rú;nk 	如	c=1 d=1 t=3879
-rú;nk guǒ;ad,tm 	如果	c=23 d=2.30394 t=4388
-rú;nk guǒ;wy,yg 	如裹	c=1 d=0.00292342 t=4388
-rú;nk hé;rk 	如何	c=9 d=2.6792 t=4388
-rú;nk shàng;aa,ba 	如上	c=1 d=0.0208584 t=4388
-rú;nk shí;bt 	如实	c=1 d=0.0248474 t=4388
-rú;nk tú;kd 	如图	c=2 d=1.59156 t=3849
-rú;zx zǐ;aa,vh niú;pa 	孺子牛	c=1 d=0.000256085 t=4388
-rǒng;bj yú;rb,rd,rh 	冗余	c=4 d=1.59146 t=4388
-shuā;dj 	刷	c=0 d=0.1 t=3352
-shuā;dj kè;bg 	刷客	c=1 d=1 t=3361
-shuā;dj kè;yg de;bu me;ps 	刷课的么	c=1 d=1 t=3363
-shuāng;yy jī;aa,eu,fk 	双击	c=2 d=0.358797 t=4388
-shuāng;yy pīn;fb 	双拼	c=3 d=0.00131459 t=4388
-shuō;yd 	说	c=7 d=0.904874 t=4388
-shuō;yd de;bu 	说的	c=3 d=0.222431 t=4388
-shuō;yd míng;oo 	说明	c=1 d=0.697676 t=4388
-shuǎng;dy 	爽	c=1 d=0.0968104 t=4388
-shuǐ;ad,uv yǒu;yu,uy sài;bb 	水友赛	c=1 d=1 t=4372
-shàng;aa,ba 	上	c=9 d=0.357646 t=4388
-shàng;aa,ba chuán;rv 	上传	c=7 d=3.02315 t=4388
-shàng;aa,ba miàn;aa 	上面	c=1 d=0.00568457 t=4388
-shàng;aa,ba píng;ub 	上屏	c=8 d=0.643105 t=4388
-shàng;aa,ba pǐn;kk 	上品	c=1 d=0.144479 t=4388
-shàng;aa,ba xià;ab,ad 	上下	c=2 d=1.956 t=3929
-shá;ku 	啥	c=10 d=0.534834 t=4388
-shá;ku yòng;kf 	啥用	c=1 d=1 t=3040
-shè;yu bèi;wt 	设备	c=1 d=1 t=2810
-shè;yu zhì;sv 	设置	c=2 d=0.34649 t=4388
-shè;yu zhì;sv duì;cy,yc de;bu 	设置对的	c=1 d=0.000359786 t=4388
-shén;ru me;ps 	什么	c=22 d=2.33014 t=4388
-shén;ru me;ps qíng;xq kuàng;dx 	什么情况	c=1 d=0.955997 t=4388
-shén;ru me;ps yì;xy,lx si;tx,xt 	什么意思	c=2 d=0.390628 t=4388
-shì;bv yǒu;yu,uy 	室友	c=1 d=1 t=3402
-shì;ju,uj pín;yb 	视频	c=5 d=0.190238 t=4388
-shì;op,ov 	是	c=90 d=3.72177 t=4388
-shì;op,ov ba;kb 	是吧	c=1 d=1 t=3079
-shì;op,ov de;bu 	是的	c=4 d=0.655818 t=4388
-shì;op,ov fǒu;kb 	是否	c=5 d=0.548106 t=4388
-shì;op,ov huì;ry 	是会	c=1 d=0.373439 t=4388
-shì;op,ov ma;km 	是吗	c=1 d=1 t=3219
-shì;op,ov me;ps 	是么	c=1 d=0.0380064 t=4388
-shì;op,ov shá;ku 	是啥	c=4 d=0.795516 t=4388
-shì;op,ov yào;xn 	是要	c=2 d=0.860118 t=4388
-shì;op,ov yí;aa yàng;my 	是一样	c=1 d=0.000228266 t=4388
-shì;op,ov yīn;kd wèi;dd 	是因为	c=1 d=0.00477195 t=4388
-shì;op,ov yǒu;ou,uo 	是有	c=1 d=0.29523 t=4388
-shì;op,ov zhè;zw yàng;my 	是这样	c=3 d=0.233266 t=4388
-shì;op,ov zài;ta,ut 	是在	c=1 d=0.182684 t=4388
-shì;yu shì;yu 	试试	c=5 d=0.46659 t=4388
-shì;zu hé;rk 	适合	c=1 d=1 t=3211
-shì;zu hé;rk wǒ;pd,pp 	适合我	c=1 d=1 t=2880
-shì;zu pèi;yj 	适配	c=2 d=1.81873 t=3996
-shí;bt jì;eu 	实际	c=2 d=0.0367088 t=4388
-shí;bt jì;eu shàng;aa,ba 	实际上	c=1 d=0.0315873 t=4388
-shí;bt xiàn;wj 	实现	c=5 d=0.580327 t=4388
-shí;oc bù;ad,ax shí;oc 	时不时	c=1 d=0.447088 t=4388
-shí;oc hou;ru 	时候	c=15 d=1.32158 t=4388
-shí;oc jiān;mo,om 	时间	c=2 d=1.97531 t=2759
-shí;oc jiān;mo,om chuō;gd,gv 	时间戳	c=1 d=0.316637 t=4388
-shí;rl,pd táng;tk,dt,xt 	食堂	c=1 d=0.0162445 t=4388
-shí;yv bié;dl 	识别	c=5 d=0.334872 t=4388
-shù;wl 	数	c=2 d=0.432881 t=4388
-shù;wl jù;fj kù;gi 	数据库	c=1 d=1 t=2730
-shù;wl liàng;ol 	数量	c=1 d=0.421051 t=4388
-shù;wl zì;bz 	数字	c=13 d=1.14818 t=4388
-shùn;yi xù;gy 	顺序	c=3 d=0.0288296 t=4388
-shú;hu liàn;sd,sj 	熟练	c=0 d=0.0329559 t=4388
-shān;dc chú;ey 	删除	c=2 d=1.69768 t=4341
-shān;dc chú;ey le;aa,vu 	删除了	c=1 d=0.562705 t=4388
-shān;dc diào;fv 	删掉	c=3 d=0.155276 t=4388
-shān;dc le;aa,vu 	删了	c=1 d=1 t=3838
-shēn;aa,oa qǐng;yq 	申请	c=1 d=0.000564259 t=4388
-shēng;na chéng;gg,wg 	生成	c=2 d=0.551508 t=4388
-shēng;na xiào;wj 	生效	c=5 d=3.85532 t=3674
-shī;pf xiào;wj 	失效	c=1 d=1 t=3264
-shū;iy chū;ck,aa 	输出	c=4 d=3.254 t=4012
-shū;iy chū;ck,aa gé;mg shì;gy,yg 	输出格式	c=2 d=1.51685 t=3999
-shū;iy rù;pd 	输入	c=5 d=0.507299 t=4388
-shū;iy rù;pd fǎ;dq 	输入法	c=3 d=0.0395575 t=4388
-shū;iy rù;pd gé;mg shì;gy,yg 	输入格式	c=9 d=7.34367 t=3988
-shū;yu,uy fu;oy yì;aa diǎn;hv 	舒服一点	c=1 d=0.0183156 t=4388
-shǎo;xp yí;aa cì;dq 	少一次	c=1 d=0.257947 t=4388
-shǐ;pd,pt,rd 	矢	c=1 d=1 t=3269
-shǐ;rl de;xc 	使得	c=2 d=1.02599 t=4140
-shǐ;rl yòng;kf 	使用	c=13 d=0.482277 t=4388
-shǒu;pa,ub 	手	c=2 d=0.186138 t=4388
-shǒu;pa,ub dòng;ly,yl 	手动	c=2 d=0.346549 t=4388
-shǒu;pa,ub gǎn;xx 	手感	c=1 d=1 t=3172
-shǒu;pa,ub jī;mj 	手机	c=4 d=0.185444 t=4388
-shǒu;pa,ub jī;mj shàng;aa,ba 	手机上	c=1 d=1 t=3209
-shǒu;pa,ub shàng;aa,ba 	手上	c=1 d=1 t=4290
-shǒu;pa,ub xīn;dd 	手心	c=2 d=0.00538387 t=4388
-shǒu;qz xuǎn;zx 	首选	c=1 d=0.0015648 t=4388
-shǒu;qz xuǎn;zx wèi;rl 	首选位	c=1 d=1 t=3076
-shǒu;qz xuǎn;zx xiàng;gy,yg 	首选项	c=1 d=1 t=3124
-shǔ;ju biāo;mu 	鼠标	c=1 d=0.0337087 t=4388
-suàn;vc 	算	c=1 d=1 t=2818
-suàn;vc le;aa,vu 	算了	c=2 d=0.0605971 t=4388
-suàn;vc shì;op,ov 	算是	c=1 d=1 t=3658
-suí;ey,ez shí;oc 	随时	c=0 d=0.00478349 t=4388
-suí;ey,ez shí;oc zhǎo;fg wǒ;pd,pp 	随时找我	c=1 d=0.0480746 t=4388
-suō;ss xiǎo;ad le;aa,vu 	缩小了	c=0 d=0.000296761 t=4388
-suǒ;hj,jh jiàn;ag,ek,ke jí;eg,ge suǒ;hj,jh dé;xc 	所见即所得	c=1 d=0.0587186 t=4388
-suǒ;hj,jh yǐ;rd,ry 	所以	c=12 d=2.14181 t=4388
-suǒ;hj,jh yǒu;ou,uo 	所有	c=5 d=0.599197 t=4388
-sān;aa niú;pa 	三牛	c=1 d=0.00118857 t=4388
-sān;aa sì;aa,ke tiān;ad 	三四天	c=1 d=0.329559 t=4388
-sī;hs mì;ub,bu mǎ;aa,vh sài;bb 	私密马赛	c=1 d=0.0409665 t=4388
-sī;tx,xt wéi;sv 	思维	c=1 d=1 t=3093
-sōu;fs,fy bú;ad,ax dào;dv 	搜不到	c=2 d=0.2334 t=4388
-sōu;fs,fy gǒu;qj 	搜狗	c=2 d=0.0262867 t=4388
-sōu;fs,fy suǒ;sb,us 	搜索	c=1 d=1 t=3146
-sǎo;fx 	扫	c=1 d=0.256661 t=4388
-tiào;zv dòng;ly,yl 	跳动	c=1 d=1 t=2869
-tián;tv kòng;xg,bg 	填空	c=1 d=1 t=4100
-tiáo;yv pín;yb 	调频	c=2 d=0.441119 t=4388
-tiáo;yv zhěng;vi,vw 	调整	c=1 d=1 t=4052
-tiān;ad 	天	c=0 d=0.1 t=3357
-tiāo;fv zhe;yo 	挑着	c=2 d=1.65959 t=4388
-tuán;kc duì;er 	团队	c=0 d=0.1 t=2701
-tuò;fu huāng;ci niú;pa 	拓荒牛	c=1 d=0.000308126 t=4388
-tuī;fv sòng;zg 	推送	c=2 d=0.285804 t=4388
-tài;dd 	太	c=6 d=0.66816 t=4388
-tài;dd cháng;pd 	太长	c=1 d=1 t=3854
-tài;dd duō;xx 	太多	c=2 d=0.767352 t=4388
-tài;dd dà;ad le;aa,vu 	太大了	c=2 d=1.90937 t=3923
-tài;dd gāo;wk le;aa,vu 	太高了	c=1 d=0.0982736 t=4388
-tài;dd lì;iw hai;bk 	太厉害	c=1 d=0.010358 t=4388
-tán;gd chuāng;xx,bx 	弹窗	c=1 d=1 t=3718
-tán;gd chū;ck,aa 	弹出	c=2 d=1.77492 t=3640
-tán;yy tán;yy 	谈谈	c=1 d=1 t=4037
-tè;ns bié;dl chà;yg 	特别差	c=1 d=1 t=3174
-tì;of,fo huàn;fh 	替换	c=1 d=0.180866 t=4388
-tí;fu chū;ck,aa lái;am,wb 	提出来	c=1 d=0.0902655 t=4388
-tí;fu gōng;rg 	提供	c=3 d=0.677297 t=4068
-tí;fu gōng;rg yǒu;ou,uo 	提供有	c=1 d=1 t=4069
-tí;fu quán;my 	提权	c=2 d=0.000674636 t=4388
-tí;fu qǔ;ey,ye 	提取	c=4 d=3.75225 t=4189
-tí;uy,yu gàn;aa 	题干	c=1 d=1 t=3859
-tí;uy,yu kù;gi 	题库	c=12 d=4.27956 t=4334
-tí;uy,yu kù;gi zhōng;aa,ka 	题库中	c=1 d=1 t=3772
-tí;uy,yu mù;aa,om,mu 	题目	c=8 d=3.79881 t=4217
-tóng;kk 	同	c=1 d=1 t=2793
-tóng;kk bù;vx 	同步	c=10 d=0.522046 t=4388
-tóng;kk bù;vx le;aa,vu 	同步了	c=1 d=0.529935 t=4388
-tóng;kk bù;vx luó;zl jí;ie,iq 	同步逻辑	c=1 d=0.0547488 t=4388
-tóng;kk míng;xk 	同名	c=2 d=1.94649 t=2724
-tóng;kk shí;oc 	同时	c=4 d=1.65351 t=4097
-tóng;kk wèn;km,mk 	同问	c=1 d=1 t=3159
-tóng;kk wén;wi,dd 	同文	c=2 d=1.97045 t=3169
-tóng;kk xué;dz,zb 	同学	c=1 d=1 t=3395
-tóu;dd tòng;by 	头痛	c=1 d=0.852144 t=4388
-tú;kd 	图	c=2 d=1.91851 t=3880
-tú;kd piàn;pa,pv 	图片	c=1 d=0.0424258 t=4388
-tā;bb 	它	c=6 d=1.20227 t=4388
-tā;ry bú;ad,ax shì;op,ov 	他不是	c=1 d=0.000542133 t=4388
-tā;ry men;rm 	他们	c=2 d=0.489192 t=4388
-tīng;kj jiàn;ag,ek,ke 	听见	c=1 d=1 t=4366
-tīng;kj zhe;yo 	听着	c=1 d=1 t=4382
-tōng;zy 	通	c=1 d=1 t=3444
-tōng;zy guò;zc 	通过	c=5 d=1.36811 t=4388
-tōu;ry le;aa,vu 	偷了	c=1 d=0.00200924 t=4388
-tǎo;yc lùn;yl 	讨论	c=1 d=0.183599 t=4388
-tǐng;ft 	挺	c=0 d=0.00403566 t=4388
-tǐng;ft hǎo;nz àn;oy 	挺好暗	c=1 d=0.0405589 t=4388
-tǐng;ft kuài;xd,xg 	挺快	c=1 d=0.256661 t=4388
-tǐng;ft má;gl fan;hy 	挺麻烦	c=2 d=0.0311825 t=4388
-tǐng;ft shuǎng;dy 	挺爽	c=1 d=0.0300468 t=4388
-tǐng;ft shū;yu,uy fu;oy 	挺舒服	c=0 d=0.000110269 t=4388
-tǐng;ft shū;yu,uy fu;oy de;bu 	挺舒服的	c=1 d=0.00110822 t=4388
-tǐng;ft zhèng;av cháng;jk,xd,dd 	挺正常	c=1 d=0.00319873 t=4388
-wài;xb 	外	c=1 d=1 t=4165
-wài;xb háng;xd,xi rén;pd 	外行人	c=1 d=0.0152985 t=4388
-wài;xb miàn;aa 	外面	c=1 d=0.224249 t=4388
-wàn;ag,ap xiàng;du,pd,ua 	万象	c=14 d=0.432908 t=4388
-wàn;ag,ap yī;aa 	万一	c=2 d=1.96079 t=3125
-wán;by 	完	c=2 d=0.349955 t=4388
-wán;by chéng;gg,wg 	完成	c=1 d=1 t=3024
-wán;by měi;dy,yd 	完美	c=3 d=1.93867 t=4126
-wán;by quán;rw 	完全	c=2 d=0.0320676 t=4388
-wán;by zhěng;vi,vw 	完整	c=6 d=1.15809 t=4388
-wán;wy 	玩	c=2 d=0.12938 t=4388
-wáng;aa hè;bj 	王贺	c=1 d=0.0471225 t=4388
-wáng;aa zhě;lo,ol 	王者	c=1 d=1 t=3020
-wèi;dd 	为	c=3 d=0.37914 t=4388
-wèi;dd le;aa,vu 	为了	c=2 d=0.38868 t=4388
-wèi;dd nín;xn fú;oy wù;wl 	为您服务	c=1 d=1 t=3331
-wèi;dd shén;ru me;ps 	为什么	c=5 d=2.06461 t=4388
-wèi;rl 	位	c=1 d=1.00037 t=4193
-wèi;rl zhì;sv 	位置	c=1 d=0.00122485 t=4388
-wèi;rl zhì;sv cuò;jx le;aa,vu 	位置错了	c=1 d=0.00336274 t=4388
-wèn;km,mk 	问	c=5 d=1.59074 t=4388
-wèn;km,mk tí;uy,yu 	问题	c=20 d=0.991855 t=4388
-wèn;km,mk yí;aa xià;ab,ad 	问一下	c=1 d=0.00511798 t=4388
-wéi;kv yī;aa xìng;xu 	唯一性	c=1 d=1 t=2733
-wéi;sv xiū;rp 	维修	c=1 d=1 t=3155
-wén;wi,dd 	文	c=1 d=1 t=3160
-wén;wi,dd běn;aa,ma 	文本	c=3 d=0.719405 t=4388
-wén;wi,dd jiàn;rn 	文件	c=22 d=6.28924 t=4388
-wén;wi,dd jiàn;rn guǎn;vg lǐ;wl qì;kk,qk 	文件管理器	c=1 d=0.142274 t=4388
-wén;wi,dd jiàn;rn jiā;fb,ar 	文件夹	c=6 d=0.225373 t=4388
-wù;nw dì;ty shēng;na 	物地生	c=2 d=0.0016995 t=4388
-wù;nw lǐ;wl 	物理	c=1 d=0.00146632 t=4388
-wú;ag,ay,ee fǎ;dq 	无法	c=6 d=0.488554 t=4388
-wú;ag,ay,ee lùn;yl 	无论	c=1 d=1 t=3570
-wú;ag,ay,ee rén;pd 	无人	c=1 d=0.357007 t=4388
-wú;ag,ay,ee suǒ;hj,jh wèi;yw 	无所谓	c=1 d=0.0340475 t=4388
-wú;ag,ay,ee yí;bp 	无疑	c=1 d=0.0349094 t=4388
-wú;ag,ay,ee yòng;kf 	无用	c=2 d=1.04159 t=4220
-wǎn;uw 	碗	c=1 d=0.0930147 t=4388
-wǎng;ki yì;ow yún;es,se 	网易云	c=4 d=3.95536 t=3326
-wǎng;ki zhǐ;tv 	网址	c=3 d=2.90752 t=3468
-wǒ;pd,pp 	我	c=161 d=10.3706 t=4388
-wǒ;pd,pp bù;ad,ax 	我不	c=0 d=0.1 t=3352
-wǒ;pd,pp bù;ad,ax shuā;dj kè;yg 	我不刷课	c=1 d=1 t=3353
-wǒ;pd,pp bù;ad,ax xíng;xd,xi le;aa,vu 	我不行了	c=4 d=0.0404332 t=4388
-wǒ;pd,pp bú;ad,ax huì;ry 	我不会	c=1 d=0.00282287 t=4388
-wǒ;pd,pp běn;aa,ma lái;am,wb 	我本来	c=2 d=0.0789831 t=4388
-wǒ;pd,pp de;bu 	我的	c=4 d=0.382576 t=4388
-wǒ;pd,pp dì;vp yī;aa cì;dq 	我第一次	c=1 d=0.13466 t=4388
-wǒ;pd,pp děng;vs děng;vs 	我等等	c=1 d=0.136014 t=4388
-wǒ;pd,pp dōu;ev yòng;kf 	我都用	c=1 d=0.00048566 t=4388
-wǒ;pd,pp fā;ay,fd,vy,yd de;bu 	我发的	c=1 d=0.00582849 t=4388
-wǒ;pd,pp fā;ay,fd,vy,yd xiàn;wj 	我发现	c=2 d=0.647304 t=4388
-wǒ;pd,pp gāi;yh 	我该	c=1 d=0.031117 t=4388
-wǒ;pd,pp gāi;yh gàn;aa shén;ru me;ps 	我该干什么	c=1 d=0.0212797 t=4388
-wǒ;pd,pp gāng;dg 	我刚	c=1 d=1 t=4362
-wǒ;pd,pp gǎi;wj,jw 	我改	c=1 d=1 t=3175
-wǒ;pd,pp gǎn;xx jué;dj,jb 	我感觉	c=2 d=0.00224296 t=4388
-wǒ;pd,pp hái;zb jué;dj,jb dé;xc 	我还觉得	c=1 d=0.0720784 t=4388
-wǒ;pd,pp hái;zb méi;du 	我还没	c=1 d=0.0328764 t=4388
-wǒ;pd,pp hái;zb shì;op,ov 	我还是	c=3 d=0.540646 t=4388
-wǒ;pd,pp hái;zb yǐ;rd,ry wéi;dd 	我还以为	c=1 d=1 t=3236
-wǒ;pd,pp jiù;yj shuō;yd 	我就说	c=1 d=1 t=2784
-wǒ;pd,pp jué;dj,jb de;xc 	我觉得	c=3 d=0.104357 t=4388
-wǒ;pd,pp jì;yj dé;xc 	我记得	c=2 d=0.19692 t=4388
-wǒ;pd,pp kàn;ou,uo nǐ;re 	我看你	c=1 d=1 t=3344
-wǒ;pd,pp kào;fg,nf 	我靠	c=2 d=0.244941 t=4388
-wǒ;pd,pp lei;kl gè;ra,pa dòu;aa,aq 	我嘞个豆	c=1 d=0.133989 t=4388
-wǒ;pd,pp lián;zi 	我连	c=1 d=0.000649052 t=4388
-wǒ;pd,pp lái;am,wb kàn;ou,uo kàn;ou,uo 	我来看看	c=1 d=0.00192082 t=4388
-wǒ;pd,pp men;rm 	我们	c=11 d=0.850613 t=4388
-wǒ;pd,pp měi;pm,rm cì;dq 	我每次	c=1 d=0.12493 t=4388
-wǒ;pd,pp nǎ;kn zhī;uk,ku dào;zu 	我哪知道	c=1 d=0.0105672 t=4388
-wǒ;pd,pp qí;ba,ad,hb shí;bt 	我其实	c=1 d=0.0536647 t=4388
-wǒ;pd,pp qù;ts 	我去	c=1 d=0.565525 t=4388
-wǒ;pd,pp shì;op,ov 	我是	c=1 d=0.0010333 t=4388
-wǒ;pd,pp shì;op,ov shuō;yd 	我是说	c=2 d=0.0407622 t=4388
-wǒ;pd,pp shì;yu shì;yu 	我试试	c=2 d=0.0327487 t=4388
-wǒ;pd,pp shòu;vy,yb bù;ad,ax liǎo;aa,vu le;aa,vu 	我受不了了	c=1 d=0.0213864 t=4388
-wǒ;pd,pp suàn;vc shì;op,ov 	我算是	c=1 d=0.818731 t=4388
-wǒ;pd,pp xiǎng;xx 	我想	c=1 d=0.0037164 t=4388
-wǒ;pd,pp xiǎng;xx qǐ;zj lái;am,wb le;aa,vu 	我想起来了	c=1 d=0.155673 t=4388
-wǒ;pd,pp xī;ju,ib,ij wàng;wo 	我希望	c=1 d=1 t=4146
-wǒ;pd,pp yòu;vd,ad 	我又	c=3 d=0.640824 t=4388
-wǒ;pd,pp yě;gg bú;ad,ax tài;dd 	我也不太	c=1 d=0.0692522 t=4388
-wǒ;pd,pp yě;gg shì;op,ov 	我也是	c=1 d=0.000497954 t=4388
-wǒ;pd,pp yě;gg shì;yu guò;zc 	我也试过	c=1 d=0.0161635 t=4388
-wǒ;pd,pp yě;gg yǒu;ou,uo 	我也有	c=1 d=0.249075 t=4388
-wǒ;pd,pp yī;aa zhí;aa,uq 	我一直	c=1 d=0.00451658 t=4388
-wǒ;pd,pp zhè;zw 	我这	c=1 d=0.0266491 t=4388
-wǒ;pd,pp zhè;zw bú;ad,ax shì;op,ov 	我这不是	c=1 d=0.00402593 t=4388
-wǒ;pd,pp zhī;uk,ku dào;zu 	我知道	c=2 d=0.66411 t=4388
-wǒ;pd,pp zhǐ;kb 	我只	c=1 d=1 t=3044
-wǒ;pd,pp zài;ta,ut 	我在	c=1 d=0.127454 t=4388
-wǔ;aa bǐ;vm 	五笔	c=1 d=0.0223708 t=4388
-xià;ab,ad 	下	c=4 d=1.07488 t=4388
-xià;ab,ad cì;dq 	下次	c=3 d=0.538929 t=4388
-xià;ab,ad lái;am,wb 	下来	c=3 d=1.55026 t=4388
-xià;ab,ad miàn;aa 	下面	c=1 d=1 t=3193
-xià;ab,ad yí;aa gè;ra,pa 	下一个	c=1 d=0.133989 t=4388
-xià;ab,ad zài;gi,ig 	下载	c=11 d=4.03732 t=4388
-xiàn;eg zhì;dg,dv 	限制	c=1 d=0.440432 t=4388
-xiàn;wj zài;ta,ut 	现在	c=10 d=0.90228 t=4388
-xiàng;gy,yg 	项	c=1 d=0.140858 t=4388
-xiàng;gy,yg mù;aa,om,mu 	项目	c=1 d=0.0192547 t=4388
-xiàng;rx 	像	c=3 d=0.159307 t=4388
-xiào;vy 	笑	c=1 d=0.00315111 t=4388
-xiào;vy sǐ;db wǒ;pd,pp 	笑死我	c=1 d=1 t=4263
-xiào;vy sǐ;db wǒ;pd,pp le;aa,vu 	笑死我了	c=3 d=1.00001 t=4388
-xiào;wj guǒ;ad,tm 	效果	c=2 d=0.574078 t=4388
-xiào;wj lǜ;wu 	效率	c=2 d=0.500653 t=4388
-xiè;ea,ev,ex zǎi;gi,ig 	卸载	c=2 d=1.61316 t=4388
-xiè;yu xie;yu 	谢谢	c=1 d=1 t=3052
-xiān;ne,en 	先	c=6 d=1.68239 t=4388
-xiāo;dx shī;pf 	消失	c=2 d=1.956 t=4153
-xiāo;dx shī;pf dé;xc 	消失得	c=1 d=1 t=4154
-xiē;ec 	些	c=2 d=0.660347 t=4388
-xiě;by 	写	c=15 d=1.31293 t=4388
-xiě;by cuò;jx 	写错	c=1 d=0.00631393 t=4388
-xiě;by de;bu 	写的	c=4 d=1.18529 t=4388
-xiě;by de;bu bǐ;vm jì;yj 	写的笔记	c=1 d=0.00245409 t=4388
-xiě;by de;xc 	写得	c=2 d=1.9802 t=2913
-xiě;by fǎ;dq 	写法	c=4 d=0.0604744 t=4388
-xiě;by guò;zc 	写过	c=1 d=0.554327 t=4388
-xiě;by le;aa,vu 	写了	c=1 d=0.00400585 t=4388
-xiě;by le;aa,vu gè;ra,pa 	写了个	c=1 d=1 t=3407
-xiě;by quán;rw 	写全	c=1 d=0.00431784 t=4388
-xiě;by wán;by 	写完	c=1 d=0.0374406 t=4388
-xiě;by xiě;by xiě;by 	写写写	c=1 d=1 t=4287
-xiū;rm xi;xz,zx 	休息	c=1 d=1 t=4370
-xiū;rp fù;pw,rw,wo 	修复	c=10 d=2.55494 t=4253
-xiū;rp gǎi;wj,jw 	修改	c=7 d=0.252767 t=4388
-xiǎn;oy de;xc 	显得	c=4 d=0.40657 t=4388
-xiǎn;oy shì;ex,ad 	显示	c=10 d=3.37698 t=4241
-xiǎng;xx bú;ad,ax dào;dv 	想不到	c=1 d=0.440432 t=4388
-xiǎng;xx fǎ;dq 	想法	c=1 d=0.00831245 t=4388
-xiǎng;xx qǐ;zj lái;am,wb 	想起来	c=1 d=0.379083 t=4388
-xiǎng;xx yào;xn de;bu 	想要的	c=1 d=1 t=3129
-xiǎo;ad 	小	c=1 d=0.00307331 t=4388
-xiǎo;ad hè;nv 	小鹤	c=8 d=0.946289 t=4388
-xiǎo;ad lán;cj 	小蓝	c=0 d=0.1 t=3357
-xiǎo;ad lán;cj tiān;ad 	小蓝天	c=1 d=1 t=3358
-xiǎo;ad māo;qm 	小猫	c=2 d=0.212256 t=4388
-xiǎo;ad qǐ;rv é;nw 	小企鹅	c=1 d=1 t=3212
-xiǎo;ad shí;oc 	小时	c=1 d=1 t=4143
-xiǎo;ad zì;bz 	小字	c=0 d=0.000296761 t=4388
-xuàn;dx rǎn;mg,mj 	渲染	c=2 d=1.8311 t=4345
-xué;dz,zb de;bu 	学的	c=1 d=0.00367942 t=4388
-xué;dz,zb guò;zc 	学过	c=1 d=0.0141931 t=4388
-xué;dz,zb xí;ga tōng;zy 	学习通	c=2 d=1.01384 t=4330
-xuǎn;zx 	选	c=4 d=0.601975 t=4388
-xuǎn;zx cí;ys 	选词	c=7 d=1.3492 t=4388
-xuǎn;zx xiàng;gy,yg 	选项	c=3 d=1.46326 t=4388
-xuǎn;zx zhòng;aa,ka 	选中	c=2 d=1.8781 t=3725
-xuǎn;zx zé;ff 	选择	c=8 d=0.40599 t=4388
-xuǎn;zx zé;ff wén;wi,dd jiàn;rn 	选择文件	c=1 d=1 t=3596
-xì;ps tǒng;si 	系统	c=1 d=1 t=3143
-xí;ga guàn;xg 	习惯	c=3 d=0.0350434 t=4388
-xí;ly,yl jī;aa,eu,fk le;aa,vu 	袭击了	c=0 d=3.47412e-05 t=4388
-xí;ly,yl jī;aa,eu,fk le;aa,vu wǒ;pd,pp 	袭击了我	c=1 d=0.000349153 t=4388
-xíng;xd,xi wéi;dd 	行为	c=1 d=1 t=3582
-xī;ju,ib,ij wàng;wo 	希望	c=4 d=0.883387 t=4388
-xīn;jq 	新	c=4 d=0.944307 t=4388
-xīn;jq bǎn;pf běn;aa,ma 	新版本	c=1 d=0.147342 t=4388
-xīn;jq de;bu 	新的	c=1 d=0.148823 t=4388
-xīn;jq gǎi;wj,jw dòng;ly,yl 	新改动	c=1 d=0.000420108 t=4388
-xīn;lu kǔ;cg 	辛苦	c=1 d=0.00117675 t=4388
-xū;ye qiú;ad 	需求	c=3 d=0.402063 t=4388
-xū;ye qiě;aa 	需且	c=1 d=0.0884781 t=4388
-xū;ye yào;xn 	需要	c=6 d=0.829967 t=4388
-xǐ;dx dí;dt jì;dq 	洗涤剂	c=1 d=0.0939495 t=4388
-xǐ;uk huān;yq 	喜欢	c=3 d=1.42612 t=4275
-yuán;ix 	原	c=1 d=1 t=3827
-yuán;ix běn;aa,ma 	原本	c=2 d=0.980199 t=4388
-yuán;ix běn;aa,ma shì;op,ov 	原本是	c=1 d=0.00136037 t=4388
-yuán;ix lái;am,wb 	原来	c=7 d=1.3412 t=4388
-yuán;ix lái;am,wb shì;op,ov 	原来是	c=3 d=0.902185 t=4388
-yuán;ix yīn;kd 	原因	c=2 d=0.0247235 t=4388
-yuǎn;zy chéng;hi 	远程	c=1 d=0.565525 t=4388
-yuǎn;zy duān;le 	远端	c=1 d=0.318224 t=4388
-yàng;my 	样	c=1 d=1 t=2967
-yào;xn 	要	c=16 d=2.16069 t=4388
-yào;xn me;ps 	要么	c=2 d=1.98511 t=4342
-yào;xn zài;ta,ut 	要在	c=2 d=0.191094 t=4388
-yán;yy miàn;aa jìn;id shī;pf 	颜面尽失	c=1 d=0.0413782 t=4388
-yè;ab miàn;aa 	页面	c=3 d=2.26945 t=3719
-yì;aa bō;dp 	一波	c=2 d=0.431991 t=4388
-yì;aa diǎn;hv 	一点	c=1 d=0.0193512 t=4388
-yì;aa diǎn;hv diǎn;hv 	一点点	c=1 d=1 t=4079
-yì;aa dī;rd tóu;dd 	一低头	c=1 d=0.0528657 t=4388
-yì;aa kāi;ac shǐ;nt 	一开始	c=1 d=0.00535353 t=4388
-yì;aa mú;mm yí;aa yàng;my 	一模一样	c=2 d=1.97045 t=2775
-yì;aa tiáo;wm xìn;ry xī;xz,zx 	一条信息	c=1 d=0.053397 t=4388
-yì;aa xiē;ec 	一些	c=1 d=0.00210172 t=4388
-yì;aa zhí;aa,uq 	一直	c=11 d=0.925949 t=4388
-yì;aa zhǒng;hv 	一种	c=1 d=0.184519 t=4388
-yì;xy,lx si;tx,xt 	意思	c=4 d=0.810552 t=4388
-yìng;oy shè;cu,uc 	映射	c=2 d=0.0578586 t=4388
-yí;aa biàn;zb 	一遍	c=0 d=3.11223e-05 t=4388
-yí;aa cì;dq 	一次	c=13 d=1.60477 t=4388
-yí;aa dìng;bp 	一定	c=1 d=0.0193512 t=4388
-yí;aa gè;ra,pa 	一个	c=21 d=1.72036 t=4388
-yí;aa gè;ra,pa zì;bz 	一个字	c=1 d=0.00318278 t=4388
-yí;aa jiàn;jj 	一键	c=1 d=1 t=4107
-yí;aa xià;ab,ad 	一下	c=5 d=0.0834364 t=4388
-yí;aa yàng;my 	一样	c=3 d=0.0166862 t=4388
-yí;hd chū;ck,aa lái;am,wb 	移出来	c=1 d=0.0305009 t=4388
-yí;hd dòng;ly,yl 	移动	c=3 d=0.195983 t=4388
-yí;hd zhí;mv 	移植	c=2 d=1.71534 t=2807
-yí;hd zhí;mv dào;dv 	移植到	c=1 d=0.00267181 t=4388
-yíng;my yíng;my 	盈盈	c=0 d=0.00569829 t=4388
-yòng;kf 	用	c=23 d=3.08589 t=4388
-yòng;kf bù;ad,ax liǎo;aa,vu 	用不了	c=2 d=0.00141194 t=4388
-yòng;kf bù;ad,ax míng;oo bái;pa,po 	用不明白	c=2 d=0.000578173 t=4388
-yòng;kf bú;ad,ax shàng;aa,ba 	用不上	c=1 d=0.285076 t=4388
-yòng;kf fǎ;dq 	用法	c=2 d=1.90484 t=3247
-yòng;kf guò;zc 	用过	c=3 d=0.00321052 t=4388
-yòng;kf huí;kk 	用回	c=2 d=0.0130432 t=4388
-yòng;kf hù;dp,du 	用户	c=2 d=1.4975 t=4388
-yòng;kf shàng;aa,ba 	用上	c=1 d=0.771052 t=4388
-yòu;ku,uk biān;zl 	右边	c=1 d=0.020141 t=4388
-yòu;ry 	佑	c=1 d=0.0513033 t=4388
-yòu;vd,ad 	又	c=13 d=0.775438 t=4388
-yòu;vd,ad bú;ad,ax huì;ry 	又不会	c=1 d=0.436049 t=4388
-yòu;vd,ad děi;xc 	又得	c=1 d=0.00164503 t=4388
-yòu;vd,ad yǒu;ou,uo 	又有	c=0 d=0.000162053 t=4388
-yòu;vd,ad yǒu;ou,uo wèn;km,mk tí;uy,yu 	又有问题	c=1 d=0.00162865 t=4388
-yóu;aa,ao 	由	c=2 d=0.0738485 t=4388
-yóu;aa,ao yú;aa 	由于	c=2 d=1.5627 t=4213
-yù;hy 	煜	c=1 d=1 t=3386
-yù;zy bú;ad,ax dào;dv 	遇不到	c=1 d=0.810584 t=4388
-yùn;zy xíng;xd,xi 	运行	c=3 d=0.657492 t=4388
-yùn;zy yòng;kf 	运用	c=0 d=0.1 t=2815
-yùn;zy yòng;kf zài;ta,ut 	运用在	c=1 d=1 t=2816
-yā;id,it suō;ss bāo;gs 	压缩包	c=1 d=0.67368 t=4388
-yā;ky 	呀	c=10 d=1.02045 t=4388
-yě;gg 	也	c=15 d=3.19704 t=4388
-yě;gg bù;ad,ax kě;dk néng;sb 	也不可能	c=1 d=1 t=2720
-yě;gg bù;ad,ax xū;ye yào;xn 	也不需要	c=1 d=0.0773047 t=4388
-yě;gg bú;ad,ax huì;ry 	也不会	c=1 d=0.319819 t=4388
-yě;gg huì;ry 	也会	c=1 d=1 t=3262
-yě;gg jiù;yj shì;op,ov shuō;yd 	也就是说	c=1 d=0.302704 t=4388
-yě;gg kě;dk yǐ;rd,ry 	也可以	c=1 d=1 t=3887
-yě;gg méi;du 	也没	c=1 d=0.00600597 t=4388
-yě;gg méi;du yǒu;ou,uo 	也没有	c=1 d=0.000455097 t=4388
-yě;gg néng;sb 	也能	c=0 d=0.1 t=3241
-yě;gg shì;op,ov 	也是	c=7 d=0.411455 t=4388
-yě;gg yào;xn 	也要	c=1 d=0.103312 t=4388
-yě;gg yǒu;ou,uo 	也有	c=2 d=0.0934809 t=4388
-yī;aa 	一	c=2 d=0.00831254 t=4388
-yī;ry jiù;ao 	依旧	c=3 d=0.199722 t=4388
-yīn;kd cǐ;vb 	因此	c=2 d=0.0327128 t=4388
-yīn;kd wèi;dd 	因为	c=23 d=2.83084 t=4388
-yīn;lo diào;yv 	音调	c=2 d=0.604729 t=4388
-yīn;lo jié;ce 	音节	c=2 d=0.00103426 t=4388
-yīng;ga gāi;yh 	应该	c=6 d=0.759563 t=4388
-yīng;ga yuán;aw,ee 	应元	c=1 d=0.0553667 t=4388
-yōng;fy yǒu;ou,uo 	拥有	c=2 d=1.99005 t=4008
-yōu;ry huà;rb 	优化	c=1 d=0.0925507 t=4388
-yōu;ry kù;yg 	优酷	c=1 d=0.0230521 t=4388
-yǎn;og huā;ch liáo;sl,sx luàn;ug 	眼花缭乱	c=1 d=0.847894 t=4388
-yǎn;og lǐ;aa,tt 	眼里	c=1 d=0.0157644 t=4388
-yǐ;rd,ry hòu;pk 	以后	c=5 d=0.084163 t=4388
-yǐ;rd,ry qián;bd,qd 	以前	c=2 d=0.0122047 t=4388
-yǐ;rd,ry wéi;dd 	以为	c=2 d=0.0136801 t=4388
-yǐ;vg,ag jīng;sg 	已经	c=1 d=0.160414 t=4388
-yǐn;ej cáng;cg,ci 	隐藏	c=1 d=1 t=2888
-yǐn;ga dǎo;cs,sc 	引导	c=7 d=0.0438673 t=4388
-yǐn;ga dǎo;cs,sc cí;ys 	引导词	c=1 d=0.0151463 t=4388
-yǐn;ga dǎo;cs,sc jiàn;jj 	引导键	c=1 d=0.0403566 t=4388
-yǐng;pj xiǎng;kx 	影响	c=4 d=0.849093 t=4388
-yǒng;dd yuǎn;zy 	永远	c=1 d=0.0982734 t=4388
-yǒu;ou,uo 	有	c=21 d=0.786379 t=4388
-yǒu;ou,uo diǎn;hv 	有点	c=3 d=0.40969 t=4388
-yǒu;ou,uo dà;ad lǎo;rl 	有大佬	c=1 d=0.000249762 t=4388
-yǒu;ou,uo gè;ra,pa 	有个	c=3 d=0.398539 t=4388
-yǒu;ou,uo le;aa,vu 	有了	c=1 d=0.236928 t=4388
-yǒu;ou,uo me;ps 	有么	c=2 d=0.00586968 t=4388
-yǒu;ou,uo méi;du yǒu;ou,uo 	有没有	c=1 d=0.000854493 t=4388
-yǒu;ou,uo rén;pd 	有人	c=1 d=0.278037 t=4388
-yǒu;ou,uo shén;ru me;ps guān;bt,qd xì;ps 	有什么关系	c=1 d=1 t=4381
-yǒu;ou,uo wèn;km,mk tí;uy,yu 	有问题	c=2 d=0.0645729 t=4388
-yǒu;ou,uo xiē;ec 	有些	c=3 d=0.960789 t=4388
-yǒu;ou,uo xū;ye yào;xn 	有需要	c=1 d=0.0478349 t=4388
-yǒu;ou,uo yì;aa shuō;yd yī;aa 	有一说一	c=1 d=0.00285125 t=4388
-yǒu;ou,uo yòng;kf 	有用	c=1 d=0.000303539 t=4388
-yǔ;aa 	与	c=1 d=0.519442 t=4388
-yǔ;aa wǒ;pd,pp wú;ag,ay,ee guān;bt,qd 	与我无关	c=1 d=1 t=3299
-yǔ;yw fǎ;dq 	语法	c=6 d=0.961395 t=4388
-yǔ;yw jù;gk,kg,pk 	语句	c=1 d=0.0151463 t=4388
-yǔ;yw yán;da,dk,wk 	语言	c=1 d=0.0143357 t=4388
-zhuàng;jq,pq,qp tài;xt 	状态	c=2 d=1.8825 t=3726
-zhuī;zv jiā;lk,kl 	追加	c=6 d=0.0466302 t=4388
-zhuī;zv suí;ey,ez 	追随	c=1 d=0.0987662 t=4388
-zhàn;bk 	占	c=2 d=1.82696 t=3906
-zhàn;bk yòng;kf 	占用	c=2 d=1.04414 t=4388
-zhè;dv jiāng;dg 	浙江	c=1 d=1 t=3157
-zhè;zw 	这	c=6 d=0.0866776 t=4388
-zhè;zw biān;zl 	这边	c=2 d=0.000829239 t=4388
-zhè;zw bù;ek,ep fèn;bd,db 	这部分	c=1 d=1 t=3535
-zhè;zw bú;ad,ax shì;op,ov 	这不是	c=2 d=0.562705 t=4388
-zhè;zw běn;aa,ma shū;ad,vd 	这本书	c=2 d=1.91851 t=4374
-zhè;zw cì;dq 	这次	c=3 d=0.0905582 t=4388
-zhè;zw ge;ra,pa 	这个	c=57 d=3.69679 t=4388
-zhè;zw ge;ra,pa yì;xy,lx si;tx,xt 	这个意思	c=1 d=0.279431 t=4388
-zhè;zw ge;ra,pa zì;bz tǐ;rb méi;du yǒu;ou,uo xiǎo;ad zì;bz zhòng;pa,ql suō;ss xiǎo;ad le;aa,vu jiù;yj huì;ry biàn;wy,yy dé;xc jù;jj chǐ;vk le;aa,vu 	这个字体没有小字重缩小了就会变得锯齿了	c=1 d=0.00298248 t=4388
-zhè;zw hái;zb shì;op,ov 	这还是	c=1 d=0.00241755 t=4388
-zhè;zw hé;hk 	这和	c=1 d=1 t=4379
-zhè;zw jù;gk,kg,pk huà;yu 	这句话	c=1 d=0.0614213 t=4388
-zhè;zw liǎng;ad háng;xd,xi 	这两行	c=1 d=1 t=3187
-zhè;zw lǐ;aa,tt 	这里	c=8 d=0.403708 t=4388
-zhè;zw lǐ;aa,tt miàn;aa 	这里面	c=1 d=0.00465413 t=4388
-zhè;zw me;ps 	这么	c=7 d=0.0734516 t=4388
-zhè;zw me;ps diū;pq,ps rén;pd 	这么丢人	c=1 d=1 t=3266
-zhè;zw me;ps duō;xx 	这么多	c=1 d=0.0103063 t=4388
-zhè;zw me;ps hǎo;nz 	这么好	c=1 d=0.0502872 t=4388
-zhè;zw me;ps kāi;ac 	这么开	c=1 d=0.292293 t=4388
-zhè;zw me;ps lì;iw hai;bk 	这么厉害	c=1 d=0.146607 t=4388
-zhè;zw me;ps qiáng;gs 	这么强	c=1 d=0.049539 t=4388
-zhè;zw me;ps yòng;kf 	这么用	c=1 d=1 t=3314
-zhè;zw shì;op,ov 	这是	c=14 d=1.70116 t=4388
-zhè;zw shì;op,ov gè;ra,pa 	这是个	c=1 d=1 t=4184
-zhè;zw xiē;ec 	这些	c=4 d=0.470011 t=4388
-zhè;zw yàng;my 	这样	c=26 d=2.14743 t=4388
-zhè;zw yàng;my de;bu 	这样的	c=2 d=1.99005 t=3776
-zhè;zw yě;gg néng;sb 	这也能	c=1 d=1 t=2817
-zhè;zw zhǒng;hv 	这种	c=9 d=0.690742 t=4388
-zhè;zw zhǒng;hv dōng;ad,qx xi;aa 	这种东西	c=1 d=1 t=3285
-zhèn;yi 	震	c=1 d=0.0216013 t=4388
-zhèng;av cháng;jk,xd,dd 	正常	c=7 d=0.0818936 t=4388
-zhèng;av què;uj 	正确	c=5 d=0.727304 t=4388
-zhì;ov néng;sb 	智能	c=1 d=1 t=2832
-zhì;tv,vt shǎo;xp 	至少	c=2 d=0.00134549 t=4388
-zhí;aa,uq bō;ff jiān;mo,om 	直播间	c=1 d=0.22313 t=4388
-zhí;aa,uq dào;dv 	直到	c=3 d=0.1321 t=4388
-zhí;aa,uq jiē;fq 	直接	c=5 d=0.923172 t=4388
-zhí;aa,uq jiē;fq shàng;aa,ba pǐn;kk 	直接上品	c=1 d=0.00054485 t=4388
-zhí;fw xíng;xd,xi lì;gp 	执行力	c=1 d=0.0492919 t=4388
-zhí;rv 	值	c=2 d=0.549248 t=4388
-zhí;rv shǒu;bc 	值守	c=1 d=0.358796 t=4388
-zhòng;pa,ql 	重	c=0 d=0.000296761 t=4388
-zhù;dv shì;pf,bf 	注释	c=3 d=1.47489 t=4388
-zhāng;lz jié;ce 	章节	c=4 d=2.58172 t=3629
-zhāng;lz jié;ce cè;dz yàn;ma,mq 	章节测验	c=3 d=2.27263 t=3665
-zhēn;ju duì;cy,yc 	针对	c=1 d=1 t=3473
-zhēn;uj 	真	c=3 d=0.483338 t=4388
-zhēn;uj de;bu 	真的	c=3 d=0.372978 t=4388
-zhěng;vi,vw 	整	c=2 d=0.453845 t=4388
-zhěng;vi,vw gè;ra,pa 	整个	c=7 d=0.38038 t=4388
-zhěng;vi,vw gè;ra,pa jù;gk,kg,pk zi;aa,vh 	整个句子	c=2 d=0.152444 t=4388
-zhěng;vi,vw lǐ;wl 	整理	c=1 d=1 t=3372
-zhī;dd qián;bd,qd 	之前	c=11 d=0.710584 t=4388
-zhī;dd qián;bd,qd yí;aa yàng;my 	之前一样	c=1 d=0.000461975 t=4388
-zhī;uk,ku dào;zu 	知道	c=5 d=1.52151 t=4388
-zhōng;aa,ka 	中	c=11 d=1.19832 t=4388
-zhōng;aa,ka wén;wi,dd 	中文	c=1 d=0.873716 t=4388
-zhōng;aa,ka xìng;xu 	中性	c=1 d=1 t=3381
-zhōu;kj,kk jùn;rj,rw 	周俊	c=1 d=1 t=3022
-zhōu;kj,kk sì;aa,ke 	周四	c=1 d=0.0128424 t=4388
-zhǎi;xv,bv 	窄	c=1 d=1 t=3809
-zhǎo;fg 	找	c=1 d=0.382893 t=4388
-zhǎo;fg wǒ;pd,pp 	找我	c=0 d=0.00478349 t=4388
-zhǐ;fv dìng;bp 	指定	c=1 d=0.222017 t=4388
-zhǐ;kb 	只	c=7 d=1.77605 t=4388
-zhǐ;kb gǎi;wj,jw 	只改	c=1 d=0.0335406 t=4388
-zhǐ;kb néng;sb 	只能	c=4 d=0.628248 t=4388
-zhǐ;kb néng;sb shuō;yd 	只能说	c=1 d=0.289384 t=4388
-zhǐ;kb shì;op,ov 	只是	c=11 d=0.475771 t=4388
-zhǐ;kb shì;zu hé;rk 	只适合	c=1 d=0.000277414 t=4388
-zhǐ;kb yǒu;ou,uo 	只有	c=9 d=1.22326 t=4388
-zhǐ;kb àn;fa 	只按	c=1 d=0.000710174 t=4388
-zhǔ;dw dòng;ly,yl 	主动	c=1 d=1 t=2927
-zhǔ;dw tí;uy,yu 	主题	c=1 d=1 t=3215
-zhǔ;dw yào;xn 	主要	c=4 d=0.0706604 t=4388
-zuì;oq 	最	c=1 d=0.00032882 t=4388
-zuì;oq hǎo;nz 	最好	c=1 d=0.00683976 t=4388
-zuì;oq xiǎo;ad 	最小	c=1 d=0.188247 t=4388
-zuì;oq xīn;jq bǎn;pf 	最新版	c=1 d=0.000323925 t=4388
-zuò;rg 	做	c=1 d=0.0455019 t=4388
-zuò;rg dào;dv 	做到	c=1 d=0.138761 t=4388
-zuò;rg guò;zc 	做过	c=2 d=1.9802 t=4297
-zuò;rg hǎo;nz 	做好	c=1 d=0.000916452 t=4388
-zuò;rg le;aa,vu 	做了	c=1 d=0.0376283 t=4388
-zuò;rg shén;ru me;ps 	做什么	c=2 d=0.282221 t=4388
-zuò;rg shén;ru me;ps de;bu 	做什么的	c=1 d=0.000248517 t=4388
-zuò;rv 	作	c=1 d=0.092089 t=4388
-zuò;rv wéi;dd 	作为	c=3 d=0.470011 t=4388
-zuò;rv yè;aa 	作业	c=14 d=0.197538 t=4388
-zuò;tc,tr,rt 	坐	c=1 d=0.0515604 t=4388
-zuó;ov tiān;ad 	昨天	c=2 d=0.153892 t=4388
-zuǒ;gu,ug biān;zl 	左边	c=2 d=0.0476991 t=4388
-zài;aa,at 	再	c=12 d=0.511577 t=4388
-zài;aa,at qù;ts 	再去	c=2 d=0.0942454 t=4388
-zài;aa,at shì;yu shì;yu 	再试试	c=1 d=0.00344786 t=4388
-zài;ta,ut 	在	c=28 d=2.32364 t=4388
-zài;ta,ut shuō;yd shén;ru me;ps 	在说什么	c=1 d=0.00794669 t=4388
-zào;zg cí;ys 	造词	c=1 d=1 t=3197
-zé;bd,db 	则	c=2 d=0.718924 t=4388
-zì;bz 	字	c=3 d=0.0267434 t=4388
-zì;bz mǔ;ad,vd 	字母	c=8 d=1.18691 t=4388
-zì;bz tǐ;rb 	字体	c=1 d=0.00277551 t=4388
-zì;pa,po dài;jb 	自带	c=1 d=0.895834 t=4388
-zì;pa,po dìng;bp yì;di,id 	自定义	c=0 d=0.0481909 t=4388
-zì;pa,po dìng;bp yì;di,id cí;ys kù;gi 	自定义词库	c=1 d=0.484325 t=4388
-zì;pa,po dòng;ly,yl 	自动	c=7 d=1.39957 t=4388
-zì;pa,po dòng;ly,yl gēng;ad,ag xīn;jq 	自动更新	c=1 d=0.240508 t=4388
-zì;pa,po jǐ;ag,vg 	自己	c=14 d=1.27268 t=4388
-zì;pa,po rán;hq mǎ;um 	自然码	c=3 d=0.442416 t=4388
-zì;pa,po yòng;kf 	自用	c=2 d=0.0314298 t=4388
-zāo;zc 	遭	c=1 d=1 t=4034
-zěn;xv me;ps 	怎么	c=18 d=1.10105 t=4388
-zěn;xv me;ps gè;ra,pa 	怎么个	c=1 d=1 t=3332
-zěn;xv me;ps huí;kk shì;aa 	怎么回事	c=1 d=0.00334597 t=4388
-zěn;xv me;ps le;aa,vu 	怎么了	c=3 d=0.951229 t=4388
-zěn;xv me;ps xiě;by 	怎么写	c=1 d=0.0387742 t=4388
-zěn;xv me;ps yòng;kf 	怎么用	c=1 d=0.000422213 t=4388
-zī;bc yuán;dy guǎn;vg lǐ;wl qì;kk,qk 	资源管理器	c=1 d=1 t=3142
-zī;jc ma;km 	鈭吗	c=1 d=0.336216 t=4388
-zūn;cq,qc 	尊	c=1 d=0.0507928 t=4388
-zūn;zz xún;xd 	遵循	c=2 d=1.0059 t=4388
-àn;fa 	按	c=14 d=1.37218 t=4388
-àn;fa bú;ad,ax dào;dv 	按不到	c=1 d=0.000696112 t=4388
-àn;fa jiàn;jj 	按键	c=3 d=0.118284 t=4388
-àn;fa zhào;hv 	按照	c=1 d=0.0135686 t=4388
-áng;oe 	昂	c=1 d=0.0047009 t=4388
-èr;aa hé;dk 	二河	c=1 d=1 t=3265
-èr;aa zhě;lo,ol 	二者	c=1 d=0.474734 t=4388
-é;yk 	额	c=1 d=0.0247235 t=4388
-éi;yu,yy 	诶	c=7 d=0.65788 t=4388
-ér;aa 	而	c=5 d=0.401116 t=4388
-ér;aa qiě;aa 	而且	c=4 d=0.665396 t=4388
-ér;aa shì;op,ov 	而是	c=1 d=1 t=3989
-ó;kw 	哦	c=13 d=1.26146 t=4388
-ó;kw ó;kw 	哦哦	c=6 d=0.421789 t=4388
-ó;kw ó;kw ó;kw 	哦哦哦	c=3 d=1.316 t=4388
-ā;ek lǐ;aa,tt 	阿里	c=3 d=0.0793878 t=4388
-ā;ek lǐ;aa,tt bǎo;rd biāo;jp 	阿里保镖	c=1 d=0.0227089 t=4388
-ōu;qq bǎn;pf 	欧版	c=3 d=0.0779759 t=4388
-ōu;qq bǎn;pf jiàn;jj pán;mv,vm 	欧版键盘	c=1 d=0.0219278 t=4388
-ǒu;ry ěr;dx,xd 	偶尔	c=0 d=0.1 t=3241
-ǒu;ry ěr;dx,xd dǎ;fd 	偶尔打	c=0 d=0.000219846 t=4388
-ǒu;ry ěr;dx,xd dǎ;fd dǎ;fd 	偶尔打打	c=1 d=0.00220948 t=4388
-ǒu;ry ěr;dx,xd yě;gg néng;sb 	偶尔也能	c=1 d=1 t=3242
-ǹ;ke 	嗯	c=1 d=1 t=3316
+a;ka 	啊	c=9 d=1.45172 t=5109
+ba;kb 	吧	c=20 d=0.791579 t=5109
+biàn;wy,yy 	变	c=3 d=0.255381 t=5109
+biàn;wy,yy chéng;gg,wg 	变成	c=8 d=0.673361 t=5109
+biàn;wy,yy de;xc 	变得	c=1 d=1 t=4536
+biàn;wy,yy huí;kk 	变回	c=1 d=0.71177 t=5109
+biàn;wy,yy le;aa,vu 	变了	c=1 d=0.00124951 t=5109
+biàn;wy,yy liàng;ol 	变量	c=1 d=0.900325 t=5109
+biàn;zb 	遍	c=1 d=0.0026852 t=5109
+bié;dl 	别	c=2 d=0.0889928 t=5109
+bié;dl kàn;ou,uo 	别看	c=1 d=0.0309618 t=5109
+bié;dl rén;pd 	别人	c=2 d=0.345166 t=5109
+bié;dl shuō;yd huà;yu 	别说话	c=4 d=0.457563 t=5109
+biān;sb mǎ;um 	编码	c=1 d=0.0837434 t=5109
+biāo;mu qiān;va,vq 	标签	c=1 d=1 t=5028
+biǎo;fy dá;zd 	表达	c=1 d=0.000599149 t=5109
+bàn;bf chéng;gg,wg pǐn;kk 	半成品	c=1 d=0.362402 t=5109
+bào;fy cuò;jx 	报错	c=1 d=0.01649 t=5109
+bào;fy gào;kn,nk 	报告	c=2 d=0.0418223 t=5109
+bá;fb,fy xià;ab,ad lái;am,wb 	拔下来	c=1 d=0.752014 t=5109
+bái;pa,po tiān;ad 	白天	c=1 d=1 t=4472
+bèi;rk,rp sù;zu 	倍速	c=1 d=0.0343896 t=5109
+bèi;wt fèn;rf 	备份	c=10 d=1.29419 t=5109
+bèi;yp 	被	c=7 d=0.253716 t=5109
+bèn;vb dàn;ip,pi 	笨蛋	c=1 d=0.00327971 t=5109
+bì;bu,ub jìng;le 	毕竟	c=2 d=0.0142642 t=5109
+bì;cb,cw duān;le 	弊端	c=1 d=1 t=4587
+bìng;bk,qc 	并	c=6 d=0.751174 t=5109
+bìng;bk,qc bù;ad,ax zhí;aa,uq guān;jy,yj 	并不直观	c=1 d=1 t=4679
+bìng;bk,qc bú;ad,ax huì;ry 	并不会	c=1 d=0.031273 t=5109
+bìng;bk,qc qiě;aa 	并且	c=1 d=1 t=4518
+bìng;bk,qc wèi;ex,ad 	并未	c=1 d=0.143704 t=5109
+bìng;bk,qc xíng;xd,xi 	并行	c=1 d=1 t=4987
+bù;ad,ax 	不	c=10 d=0.935197 t=5109
+bù;ad,ax cún;uz,za zài;ta,ut 	不存在	c=1 d=0.0197421 t=5109
+bù;ad,ax dé;xc bù;ad,ax shuō;yd 	不得不说	c=1 d=0.265803 t=5109
+bù;ad,ax dōu;ev shì;op,ov 	不都是	c=1 d=0.0526023 t=5109
+bù;ad,ax fā;ay,fd,vy,yd yán;da,dk,wk 	不发言	c=1 d=0.205975 t=5109
+bù;ad,ax guǎn;vg 	不管	c=2 d=0.0880439 t=5109
+bù;ad,ax guǎn;vg le;aa,vu 	不管了	c=1 d=0.000212834 t=5109
+bù;ad,ax gāi;yh 	不该	c=1 d=0.00444934 t=5109
+bù;ad,ax gāo;wk xìng;ba,db 	不高兴	c=1 d=0.00504176 t=5109
+bù;ad,ax hǎo;nz 	不好	c=1 d=0.0703375 t=5109
+bù;ad,ax hǎo;nz yòng;kf 	不好用	c=1 d=0.210136 t=5109
+bù;ad,ax hǎo;nz àn;fa 	不好按	c=1 d=0.0143357 t=5109
+bù;ad,ax kě;dk 	不可	c=1 d=1 t=4537
+bù;ad,ax kě;dk néng;sb 	不可能	c=2 d=0.00895987 t=5109
+bù;ad,ax kě;dk yǐ;rd,ry 	不可以	c=2 d=0.153649 t=5109
+bù;ad,ax liǎo;aa,vu le;aa,vu 	不了了	c=0 d=2.35217e-05 t=5109
+bù;ad,ax míng;oo bái;pa,po 	不明白	c=1 d=0.194953 t=5109
+bù;ad,ax měi;dy,yd guān;jy,yj 	不美观	c=1 d=0.0982736 t=5109
+bù;ad,ax néng;sb 	不能	c=6 d=0.197583 t=5109
+bù;ad,ax qīng;dq chu;mp,pl 	不清楚	c=1 d=0.0412714 t=5109
+bù;ad,ax qīng;dq xī;ox 	不清晰	c=1 d=0.0212797 t=5109
+bù;ad,ax qǐ;zj zuò;rv yòng;kf 	不起作用	c=2 d=0.0303911 t=5109
+bù;ad,ax rán;hq 	不然	c=3 d=0.83527 t=5109
+bù;ad,ax rú;nk 	不如	c=1 d=0.0366992 t=5109
+bù;ad,ax shuō;yd 	不说	c=1 d=0.0049667 t=5109
+bù;ad,ax shú;hu xī;xm,xb 	不熟悉	c=1 d=0.142987 t=5109
+bù;ad,ax shēng;na xiào;wj 	不生效	c=2 d=0.0383895 t=5109
+bù;ad,ax tuán;kc duì;er 	不团队	c=1 d=0.000218221 t=5109
+bù;ad,ax tíng;rt 	不停	c=1 d=0.597501 t=5109
+bù;ad,ax tóng;kk 	不同	c=1 d=0.000389106 t=5109
+bù;ad,ax tóng;kk míng;xk 	不同名	c=1 d=0.000383949 t=5109
+bù;ad,ax xiě;by 	不写	c=1 d=0.000626726 t=5109
+bù;ad,ax xiǎng;xx 	不想	c=3 d=0.0117998 t=5109
+bù;ad,ax xíng;xd,xi 	不行	c=3 d=0.264607 t=5109
+bù;ad,ax xū;ye yào;xn 	不需要	c=3 d=0.937067 t=5109
+bù;ad,ax xǐ;uk huān;yq 	不喜欢	c=1 d=0.477114 t=5109
+bù;ad,ax yí;aa yàng;my 	不一样	c=3 d=1.33708 t=5109
+bù;ad,ax yǐng;pj xiǎng;kx 	不影响	c=1 d=0.249075 t=5109
+bù;ad,ax zhí;aa,uq guān;jy,yj 	不直观	c=0 d=0.1 t=4678
+bù;ad,ax zhī;uk,ku dào;zu 	不知道	c=5 d=0.548866 t=5109
+bù;ad,ax zú;kv 	不足	c=2 d=0.704617 t=5109
+bù;ad,ax zěn;xv me;ps 	不怎么	c=1 d=0.0862934 t=5109
+bù;ek,ep fèn;bd,db 	部分	c=4 d=0.348958 t=5109
+bù;ek,ep shǔ;sv 	部署	c=1 d=0.00538038 t=5109
+bú;ad,ax biàn;wy,yy 	不变	c=1 d=1 t=4790
+bú;ad,ax duì;cy,yc 	不对	c=2 d=0.299098 t=5109
+bú;ad,ax dào;dv 	不到	c=1 d=0.121846 t=5109
+bú;ad,ax guò;zc 	不过	c=1 d=0.179964 t=5109
+bú;ad,ax gòu;jd,xj 	不够	c=0 d=0.1 t=4704
+bú;ad,ax gòu;jd,xj zhí;aa,uq guān;jy,yj 	不够直观	c=1 d=1 t=4705
+bú;ad,ax huì;ry 	不会	c=4 d=0.079399 t=5109
+bú;ad,ax huì;ry ba;kb 	不会吧	c=2 d=0.126828 t=5109
+bú;ad,ax huì;ry ya;ky 	不会呀	c=1 d=0.00133343 t=5109
+bú;ad,ax huì;ry yòng;kf 	不会用	c=1 d=0.00460782 t=5109
+bú;ad,ax jiù;yj 	不就	c=1 d=0.860708 t=5109
+bú;ad,ax jiù;yj shì;op,ov 	不就是	c=1 d=0.00843809 t=5109
+bú;ad,ax kàn;ou,uo 	不看	c=2 d=0.0359725 t=5109
+bú;ad,ax luàn;ug 	不乱	c=1 d=0.0420036 t=5109
+bú;ad,ax shì;op,ov 	不是	c=17 d=1.06665 t=5109
+bú;ad,ax shì;op,ov me;ps 	不是么	c=1 d=0.00272578 t=5109
+bú;ad,ax shì;op,ov shuō;yd 	不是说	c=1 d=1 t=4473
+bú;ad,ax tài;dd 	不太	c=5 d=0.277946 t=5109
+bú;ad,ax tài;dd shú;hu liàn;sd,sj 	不太熟练	c=1 d=0.331211 t=5109
+bú;ad,ax xiàng;rx 	不像	c=1 d=0.0271875 t=5109
+bú;ad,ax xiàng;rx běn;aa,ma rén;pd 	不像本人	c=2 d=0.00769765 t=5109
+bú;ad,ax yòng;kf 	不用	c=1 d=0.0368832 t=5109
+bú;ad,ax àn;fa 	不按	c=1 d=0.000706633 t=5109
+bāng;jb 	帮	c=3 d=0.0872394 t=5109
+bāng;jb bāng;jb 	帮帮	c=1 d=1 t=4799
+bāng;jb wǒ;pd,pp 	帮我	c=2 d=0.00618895 t=5109
+bāo;gs de;bu 	包的	c=1 d=1 t=4417
+bāo;gs kuò;fu 	包括	c=1 d=0.0761538 t=5109
+bēng;up kuì;dg 	崩溃	c=1 d=0.00272578 t=5109
+běn;aa,ma dì;ty 	本地	c=3 d=0.645146 t=5109
+běn;aa,ma lái;am,wb 	本来	c=1 d=0.0043831 t=5109
+běn;aa,ma rén;pd 	本人	c=2 d=0.00833309 t=5109
+bǎ;fb 	把	c=22 d=1.22961 t=5109
+bǎ;fb wǒ;pd,pp 	把我	c=1 d=0.060205 t=5109
+bǎn;pf běn;aa,ma 	版本	c=7 d=1.22491 t=5109
+bǎng;mp 	榜	c=1 d=0.0417941 t=5109
+bǎo;rd biāo;jp 	保镖	c=0 d=0.00225956 t=5109
+bǎo;rd liú;td,tl,lt 	保留	c=2 d=0.16696 t=5109
+bǐ;bb 	比	c=2 d=0.0178779 t=5109
+bǐ;bb jiào;ij 	比较	c=1 d=0.0263839 t=5109
+bǐ;pg 	匕	c=1 d=0.00373503 t=5109
+bǐ;vm huà;ak 	笔画	c=1 d=1 t=4422
+bǐ;vm jì;yj 	笔记	c=0 d=0.000244185 t=5109
+chuàng;dc jiàn;zy le;aa,vu 	创建了	c=1 d=0.882497 t=5109
+chuán;rv 	传	c=2 d=0.710114 t=5109
+chuāng;xx,bx kǒu;aa 	窗口	c=1 d=0.389872 t=5109
+chà;yg píng;yp 	差评	c=1 d=0.0278757 t=5109
+chà;yg yì;aa xiē;ec 	差一些	c=1 d=0.105928 t=5109
+cháng;pd 	长	c=2 d=0.423089 t=5109
+cháng;pd jù;gk,kg,pk 	长句	c=2 d=0.00428064 t=5109
+cháng;pd le;aa,vu 	长了	c=2 d=0.000576074 t=5109
+chè;fw huí;kk 	撤回	c=1 d=0.00543443 t=5109
+chéng;gg,wg 	成	c=9 d=0.673015 t=5109
+chéng;gg,wg jù;gk,kg,pk zi;aa,vh 	成句子	c=1 d=1 t=4935
+chéng;hi xù;gy 	程序	c=1 d=1 t=4954
+chéng;hi xù;gy tǐ;rb 	程序体	c=1 d=1 t=4962
+chóng;pa,ql mìng;re míng;xk 	重命名	c=1 d=0.425283 t=5109
+chóng;pa,ql qǐ;hk,kh 	重启	c=1 d=0.0378169 t=5109
+chóng;pa,ql xīn;jq 	重新	c=2 d=0.130319 t=5109
+chóng;pa,ql xīn;jq lái;am,wb 	重新来	c=1 d=0.582748 t=5109
+chù;ij,ji fā;ay,fd,vy,yd 	触发	c=1 d=1 t=4615
+chù;ij,ji fā;ay,fd,vy,yd fāng;dg,wd,dp,dw shì;gy,yg 	触发方式	c=1 d=1 t=4648
+chú;ey fēi;aa 	除非	c=1 d=0.000685748 t=5109
+chú;ey le;aa,vu 	除了	c=2 d=0.609571 t=5109
+chún;st 	纯	c=1 d=0.715338 t=5109
+chún;st cuì;mz 	纯粹	c=1 d=0.000239969 t=5109
+chā;yg bié;dl 	差别	c=1 d=0.339596 t=5109
+chā;yg é;yk 	差额	c=1 d=0.0608101 t=5109
+chāi;fi 	拆	c=2 d=0.0275612 t=5109
+chāo;zv chū;ck,aa 	超出	c=1 d=0.203926 t=5109
+chāo;zv chū;ck,aa qù;ts 	超出去	c=1 d=0.212248 t=5109
+chī;kq gè;ra,pa fàn;uf 	吃个饭	c=1 d=1 t=4486
+chī;kq shàng;aa,ba fàn;uf 	吃上饭	c=1 d=0.882497 t=5109
+chōng;dv tū;xq,bq 	冲突	c=2 d=0.316195 t=5109
+chū;ck,aa 	出	c=2 d=0.198891 t=5109
+chū;ck,aa cuò;jx 	出错	c=1 d=0.00173804 t=5109
+chū;ck,aa xiàn;wj 	出现	c=6 d=0.535239 t=5109
+chū;yd dài;ry 	初代	c=1 d=0.0287246 t=5109
+chū;yd zhōng;aa,ka 	初中	c=2 d=0.00680573 t=5109
+chǎn;dp,li,wp shēng;na 	产生	c=3 d=0.035388 t=5109
+chǎn;md shù;zu 	阐述	c=1 d=1 t=5024
+chǔ;wb yú;aa 	处于	c=2 d=0.06756 t=5109
+chǔn;ii wèn;km,mk tí;uy,yu 	蠢问题	c=1 d=0.0428521 t=5109
+cuò;jx 	错	c=1 d=0.00158052 t=5109
+cuò;jx le;aa,vu 	错了	c=2 d=0.0658508 t=5109
+cuò;jx luàn;ug 	错乱	c=1 d=0.158025 t=5109
+cuò;jx wù;yw 	错误	c=2 d=0.0644515 t=5109
+cài;cc dān;ba,bd 	菜单	c=3 d=0.188808 t=5109
+cái;ap 	才	c=6 d=1.16803 t=5109
+cái;mc liào;md 	材料	c=2 d=1.34796 t=5109
+cè;dz 	测	c=3 d=0.134156 t=5109
+cè;dz fǎ;dq 	测法	c=2 d=0.0102874 t=5109
+cè;dz yàn;ma,mq 	测验	c=3 d=0.0421654 t=5109
+cì;dq 	次	c=1 d=0.250324 t=5109
+cí;ys 	词	c=3 d=0.30898 t=5109
+cí;ys diǎn;ba,bd 	词典	c=1 d=0.631284 t=5109
+cí;ys jù;gk,kg,pk 	词句	c=1 d=0.00128757 t=5109
+cí;ys kù;gi 	词库	c=12 d=1.15514 t=5109
+cóng;rr 	从	c=2 d=0.0203776 t=5109
+cóng;rr bú;ad,ax yòng;kf 	从不用	c=1 d=1 t=4436
+cóng;rr lái;am,wb 	从来	c=1 d=0.00146632 t=5109
+cóng;rr méi;du 	从没	c=1 d=0.000871757 t=5109
+cún;uz,za chǔ;rv 	存储	c=1 d=0.551563 t=5109
+cún;uz,za zài;ta,ut 	存在	c=10 d=1.35906 t=5109
+cān;sp kǎo;lk 	参考	c=1 d=0.384812 t=5109
+cāng;re kù;gi 	仓库	c=9 d=4.08003 t=5109
+cǎi;mv,vm nà;sn 	采纳	c=1 d=0.082085 t=5109
+cǎi;mv,vm yòng;kf 	采用	c=1 d=0.0173355 t=5109
+cǐ;vb qián;bd,qd 	此前	c=1 d=0.00112497 t=5109
+cǐ;vb shí;oc 	此时	c=1 d=0.0187793 t=5109
+de;bu 	的	c=249 d=14.4436 t=5109
+de;ty 	地	c=1 d=0.600496 t=5109
+diàn;ag,og lì;gp diàn;ag,og zǐ;aa,vh 	电力电子	c=0 d=0.0843665 t=5109
+diàn;ag,og lì;gp diàn;ag,og zǐ;aa,vh hé;hk diàn;ag,og lì;gp tuō;fy dòng;ly,yl kòng;fk zhì;dg,dv xì;ps tǒng;si de;bu 	电力电子和电力拖动控制系统的	c=1 d=0.847894 t=5109
+diàn;ag,og lì;gp tuō;fy dòng;ly,yl 	电力拖动	c=0 d=0.0843665 t=5109
+diàn;ag,og nǎo;ox 	电脑	c=5 d=0.198891 t=5109
+diàn;ag,og nǎo;ox shàng;aa,ba 	电脑上	c=1 d=0.0200405 t=5109
+diào;yv huàn;fh 	调换	c=3 d=0.0328495 t=5109
+diū;pq,ps rén;pd 	丢人	c=0 d=0.000364281 t=5109
+diǎn;hv 	点	c=4 d=0.0992534 t=5109
+diǎn;hv dào;dv 	点到	c=1 d=0.278037 t=5109
+diǎn;hv jìn;zj lái;am,wb 	点进来	c=1 d=0.88692 t=5109
+diǎn;hv jī;aa,eu,fk 	点击	c=11 d=0.389192 t=5109
+diǎn;hv jī;aa,eu,fk shì;aa jiàn;rn 	点击事件	c=1 d=0.286505 t=5109
+diǎn;hv zhé;fj 	点折	c=1 d=1 t=4460
+duì;cy,yc 	对	c=6 d=0.396892 t=5109
+duì;cy,yc bǐ;bb yí;aa xià;ab,ad 	对比一下	c=1 d=0.000608205 t=5109
+duì;cy,yc de;bu 	对的	c=1 d=0.000920728 t=5109
+duì;cy,yc duì;cy,yc duì;cy,yc 	对对对	c=0 d=0.1 t=4462
+duì;cy,yc wǒ;pd,pp 	对我	c=2 d=0.00453101 t=5109
+duì;cy,yc ya;ky 	对呀	c=1 d=0.574072 t=5109
+duì;er yǒu;yu,uy 	队友	c=3 d=0.979153 t=5109
+duō;xx 	多	c=4 d=0.744811 t=5109
+duō;xx gè;ra,pa 	多个	c=2 d=0.637575 t=5109
+duō;xx gōng;gl,lg néng;sb 	多功能	c=1 d=0.0294518 t=5109
+duō;xx hǎo;nz 	多好	c=1 d=0.00375375 t=5109
+duō;xx shǎo;xp 	多少	c=1 d=0.0689068 t=5109
+duō;xx xuǎn;zx 	多选	c=2 d=1.91851 t=4941
+duō;xx xuǎn;zx tí;uy,yu 	多选题	c=1 d=0.697676 t=5109
+duō;xx yì;di,id cí;ys 	多义词	c=1 d=0.25284 t=5109
+duō;xx yí;aa cì;dq 	多一次	c=1 d=0.254107 t=5109
+duō;xx yú;rb,rd,rh 	多余	c=5 d=1.62762 t=5109
+dà;ad 	大	c=3 d=2.9178 t=4404
+dà;ad bù;ek,ep fèn;bd,db 	大部分	c=1 d=0.0117959 t=5109
+dà;ad bù;ek,ep fēn;bd,db rén;pd 	大部分人	c=1 d=1 t=5077
+dà;ad jiā;bu 	大家	c=1 d=0.0432828 t=5109
+dà;ad liàng;ol 	大量	c=1 d=0.429557 t=5109
+dà;ad lǎo;rl 	大佬	c=14 d=1.26957 t=5109
+dà;ad shī;ab,aj,db,dj 	大师	c=1 d=1 t=4835
+dà;ad sì;aa,ke 	大四	c=1 d=1 t=4898
+dà;ad wén;wi,dd jiàn;rn 	大文件	c=1 d=0.782705 t=5109
+dà;ad xiǎo;ad 	大小	c=4 d=2.53499 t=5109
+dà;ad yùn;zy 	大运	c=1 d=1 t=5094
+dài;jb lái;am,wb 	带来	c=2 d=0.313486 t=5109
+dài;ry mǎ;um 	代码	c=16 d=1.56637 t=5109
+dàn;rd 	但	c=12 d=1.05652 t=5109
+dàn;rd shì;op,ov 	但是	c=17 d=0.26621 t=5109
+dàng;xx chéng;gg,wg 	当成	c=1 d=1 t=4932
+dào;dv 	到	c=10 d=0.195218 t=5109
+dào;dv chù;wb zhǎo;fg 	到处找	c=0 d=0.0110803 t=5109
+dào;dv chù;wb zhǎo;fg zhǎo;fg 	到处找找	c=1 d=0.111359 t=5109
+dào;dv dǐ;gd 	到底	c=1 d=0.40657 t=5109
+dào;dv shí;oc hòu;ru 	到时候	c=2 d=0.865835 t=5109
+dá;vh àn;bm,ma 	答案	c=19 d=2.97481 t=5109
+dá;vh àn;bm,ma kuàng;mk 	答案框	c=1 d=0.292293 t=5109
+dá;vh àn;bm,ma qū;ki 	答案区	c=2 d=1.956 t=4517
+dé;xc 	得	c=0 d=0.000296761 t=5109
+dé;xc dào;dv 	得到	c=1 d=0.0206508 t=5109
+dé;xc le;aa,vu 	得了	c=3 d=0.218181 t=5109
+dì;ty fāng;dg,wd,dp,dw 	地方	c=3 d=0.116321 t=5109
+dì;vp jǐ;py gè;ra,pa 	第几个	c=1 d=0.139018 t=5109
+dì;vp jǐ;py gè;ra,pa zì;bz 	第几个字	c=1 d=0.238116 t=5109
+dì;vp yī;aa cì;dq 	第一次	c=3 d=0.45773 t=5109
+dì;vp yī;aa gè;ra,pa 	第一个	c=4 d=0.382722 t=5109
+dì;vp yī;aa wèi;rl 	第一位	c=2 d=0.452277 t=5109
+dì;vp èr;aa gè;ra,pa 	第二个	c=5 d=0.06721 t=5109
+dì;vp èr;aa jù;gk,kg,pk huà;yu 	第二句话	c=1 d=0.442639 t=5109
+dìng;bp 	定	c=1 d=0.114178 t=5109
+dìng;bp wèi;rl 	定位	c=2 d=0.00105032 t=5109
+dìng;bp wèi;rl bù;ad,ax liǎo;aa,vu le;aa,vu 	定位不了了	c=1 d=0.000236397 t=5109
+dìng;bp zì;bz 	定字	c=1 d=0.0672054 t=5109
+dòng;ly,yl tài;xt 	动态	c=1 d=0.438235 t=5109
+dòng;ly,yl tài;xt tiáo;yv pín;yb 	动态调频	c=1 d=0.000278804 t=5109
+dòu;aa,aq bāo;gs 	豆包	c=1 d=0.0443785 t=5109
+dùn;yt hào;kk 	顿号	c=1 d=0.0257325 t=5109
+dú;qi lì;da 	独立	c=2 d=0.745107 t=5109
+dú;qi lì;da chuāng;xx,bx kǒu;aa 	独立窗口	c=1 d=0.348193 t=5109
+dān;ba,bd dú;qi 	单独	c=3 d=1.44534 t=5109
+dān;ba,bd gè;ra,pa 	单个	c=1 d=0.208045 t=5109
+dān;ba,bd háng;xd,xi 	单行	c=2 d=1.956 t=4984
+dāng;xx 	当	c=4 d=0.433912 t=5109
+dāng;xx shí;oc 	当时	c=1 d=0.00244185 t=5109
+děi;xc 	得	c=3 d=0.115346 t=5109
+děng;vs 	等	c=5 d=0.215319 t=5109
+děng;vs děng;vs 	等等	c=6 d=0.419543 t=5109
+děng;vs wǒ;pd,pp 	等我	c=1 d=0.254107 t=5109
+děng;vs yāo;oy 	等腰	c=1 d=1 t=4869
+dōng;ad,qx xi;aa 	东西	c=2 d=0.0824965 t=5109
+dōu;ev 	都	c=21 d=1.93296 t=5109
+dōu;ev bèi;yp 	都被	c=1 d=0.0478349 t=5109
+dōu;ev shì;op,ov 	都是	c=13 d=2.85615 t=5109
+dōu;ev yí;aa yàng;my 	都一样	c=1 d=0.423162 t=5109
+dǎ;fd 	打	c=11 d=0.948602 t=5109
+dǎ;fd chéng;gg,wg 	打成	c=1 d=0.0132999 t=5109
+dǎ;fd jù;gk,kg,pk zi;aa,vh 	打句子	c=1 d=0.00099776 t=5109
+dǎ;fd kāi;ac 	打开	c=1 d=0.231078 t=5109
+dǎ;fd quán;rw 	打全	c=1 d=0.0137049 t=5109
+dǎ;fd suàn;vc 	打算	c=1 d=0.079659 t=5109
+dǎ;fd yí;aa biàn;zb 	打一遍	c=1 d=0.00264522 t=5109
+dǎ;fd zì;bz 	打字	c=4 d=0.279431 t=5109
+dǎo;cs,sc zhì;wv 	导致	c=9 d=1.17583 t=5109
+dǐng;dy,yd bù;ek,ep 	顶部	c=1 d=0.0122161 t=5109
+dǒng;xd 	懂	c=1 d=0.0485578 t=5109
+dǒng;xd la;kl 	懂啦	c=1 d=0.183599 t=5109
+fàng;wf,fw 	放	c=3 d=1.84772 t=5109
+fàng;wf,fw nǎ;kn 	放哪	c=1 d=0.516851 t=5109
+fàng;wf,fw qì;cw,wc 	放弃	c=1 d=0.0155297 t=5109
+fàng;wf,fw zhe;yo 	放着	c=2 d=0.0880883 t=5109
+fàng;wf,fw zài;ta,ut 	放在	c=4 d=0.367472 t=5109
+fá;sd chāo;fu 	罚抄	c=0 d=3.11223e-05 t=5109
+fá;sd chāo;fu yí;aa biàn;zb 	罚抄一遍	c=1 d=0.000312784 t=5109
+fán;hy 	烦	c=1 d=0.346456 t=5109
+fán;sm tǐ;rb 	繁体	c=1 d=0.0023461 t=5109
+fù;df,dt zuò;rv yòng;kf 	副作用	c=1 d=1 t=4582
+fù;pw,rw,wo zhì;dg,dv 	复制	c=8 d=0.829321 t=5109
+fù;pw,rw,wo zhì;dg,dv le;aa,vu 	复制了	c=1 d=0.144424 t=5109
+fù;xf gài;my,ym 	覆盖	c=14 d=1.99176 t=5109
+fú;jf,jt dù;gy 	幅度	c=1 d=0.187308 t=5109
+fú;vf hào;kk 	符号	c=1 d=0.00263203 t=5109
+fā;ay,fd,vy,yd 	发	c=1 d=0.00527382 t=5109
+fā;ay,fd,vy,yd la;kl 	发啦	c=1 d=1 t=5058
+fā;ay,fd,vy,yd le;aa,vu 	发了	c=1 d=1 t=4805
+fā;ay,fd,vy,yd xiàn;wj 	发现	c=5 d=1.21268 t=5109
+fān;yf dào;dv 	翻到	c=1 d=1 t=5054
+fān;yf yè;ab 	翻页	c=4 d=0.0167852 t=5109
+fān;yf yè;ab le;aa,vu 	翻页了	c=1 d=0.00331267 t=5109
+fāng;dg,wd,dp,dw biàn;rg 	方便	c=4 d=0.265286 t=5109
+fāng;dg,wd,dp,dw shì;gy,yg 	方式	c=1 d=1 t=4616
+fāng;dg,wd,dp,dw xiàng;pk jiàn;jj 	方向键	c=1 d=0.122456 t=5109
+fāng;dg,wd,dp,dw àn;bm,ma 	方案	c=9 d=1.24243 t=5109
+fēi;yd chū;ck,aa qù;ts 	飞出去	c=1 d=0.00126207 t=5109
+fēn;bd,db kāi;ac 	分开	c=2 d=0.860708 t=5109
+fēn;bd,db xiǎng;wz,zk yí;aa xià;ab,ad 	分享一下	c=1 d=0.00086741 t=5109
+fěn;mf sī;aa 	粉丝	c=1 d=0.218712 t=5109
+fǎ;dq 	法	c=1 d=0.0246002 t=5109
+fǎn;py chá;md 	反查	c=1 d=0.00256704 t=5109
+fǎn;py fù;pw,rw,wo 	反复	c=1 d=0.00177315 t=5109
+fǎn;py kuì;ug 	反馈	c=2 d=0.104407 t=5109
+fǎn;py rén;pd lèi;md 	反人类	c=1 d=0.0265162 t=5109
+fǎn;py zhèng;av 	反正	c=2 d=0.0845847 t=5109
+fǎn;py zhí;aa,uq jué;dj,jb 	反直觉	c=3 d=0.0306775 t=5109
+fǎn;py ér;aa 	反而	c=1 d=0.232236 t=5109
+fǎng;rf zhēn;uj 	仿真	c=1 d=0.852144 t=5109
+fǒu;kb dìng;bp 	否定	c=3 d=0.00503772 t=5109
+fǔ;if 	辅	c=0 d=0.00031042 t=5109
+fǔ;if zhù;lq,ql 	辅助	c=1 d=0.0160767 t=5109
+fǔ;if zhù;lq,ql mǎ;um 	辅助码	c=14 d=0.863632 t=5109
+fǔ;if zhù;lq,ql yǐn;ga dǎo;cs,sc 	辅助引导	c=1 d=0.0298969 t=5109
+guà;fg 	挂	c=1 d=0.000902809 t=5109
+guà;fg jiē;fq 	挂接	c=2 d=0.0014795 t=5109
+guò;zc dào;zu shàng;aa,ba 	过道上	c=1 d=1 t=5098
+guò;zc qī;oq,qo le;aa,vu 	过期了	c=1 d=0.00238156 t=5109
+guó;ky dào;zu shàng;aa,ba 	国道上	c=1 d=1 t=5099
+guó;ky wài;xb 	国外	c=1 d=0.0273237 t=5109
+guān;bt,qd bì;mc 	关闭	c=2 d=0.0234204 t=5109
+guān;bt,qd yú;aa 	关于	c=1 d=0.00207043 t=5109
+guāng;ea,xw biāo;mu 	光标	c=4 d=0.158152 t=5109
+guī;fj,jf zé;bd,db 	规则	c=1 d=0.011109 t=5109
+guō;ex qí;lq lín;ll 	郭麒麟	c=2 d=0.0577479 t=5109
+guǎn;vg nà;el 	管那	c=0 d=0.1 t=5095
+guǎn;vg zhè;zw 	管这	c=0 d=0.1 t=5095
+guǎn;vg zhè;zw guǎn;vg nà;el 	管这管那	c=1 d=1 t=5096
+guǒ;ad,tm hé;mh 	果核	c=1 d=0.0224829 t=5109
+guǒ;ad,tm miē;ky 	果咩	c=1 d=0.000987829 t=5109
+guǒ;ad,tm rán;hq 	果然	c=2 d=0.396535 t=5109
+gài;mj bù;ad,ax 	概不	c=0 d=0.000690853 t=5109
+gài;mj bù;ad,ax míng;oo bái;pa,po 	概不明白	c=1 d=0.00694315 t=5109
+gàn;aa shá;ku 	干啥	c=2 d=0.83527 t=5109
+gàn;aa shén;ru me;ps 	干什么	c=2 d=0.691584 t=5109
+gào;kn,nk sù;yi 	告诉	c=1 d=1 t=4717
+gào;kn,nk sù;yi wǒ;pd,pp 	告诉我	c=1 d=0.511709 t=5109
+gè;ra,pa 	个	c=16 d=0.895842 t=5109
+gè;ra,pa rén;pd 	个人	c=3 d=0.574388 t=5109
+gè;wk zhǒng;hv gè;wk yàng;my 	各种各样	c=1 d=0.687289 t=5109
+gèng;ad,ag hǎo;nz 	更好	c=1 d=0.0808629 t=5109
+gèng;ad,ag xíng;xd,xi 	更行	c=2 d=0.267141 t=5109
+gé;mg shì;gy,yg 	格式	c=17 d=3.12062 t=5109
+gòng;bc,cb yòng;kf 	共用	c=1 d=0.000309671 t=5109
+gòu;jd,xj dà;ad 	够大	c=1 d=0.000925663 t=5109
+gòu;jd,xj le;aa,vu 	够了	c=1 d=0.241714 t=5109
+gù;kg dìng;bp 	固定	c=1 d=0.000523486 t=5109
+gāi;yh 	该	c=7 d=2.68067 t=5109
+gāi;yh gàn;aa shén;ru me;ps 	该干什么	c=1 d=0.0231853 t=5109
+gān;aa jìng;dv 	干净	c=1 d=0.0338776 t=5109
+gāng;dg 	刚	c=3 d=0.173758 t=5109
+gāng;dg gāng;dg 	刚刚	c=1 d=1 t=4803
+gāng;dg yòng;kf 	刚用	c=1 d=0.32628 t=5109
+gāo;wk zhōng;aa,ka 	高中	c=2 d=0.00687413 t=5109
+gēn;zg 	跟	c=1 d=1 t=5083
+gēn;zg zhe;yo 	跟着	c=1 d=0.182684 t=5109
+gēng;ad,ag gǎi;wj,jw 	更改	c=1 d=0.0459593 t=5109
+gēng;ad,ag huàn;fh 	更换	c=1 d=0.0124629 t=5109
+gēng;ad,ag xīn;jq 	更新	c=28 d=3.13981 t=5109
+gēng;ad,ag xīn;jq zhī;dd qián;bd,qd 	更新之前	c=1 d=0.000777056 t=5109
+gěi;sh 	给	c=11 d=0.320736 t=5109
+gěi;sh chū;ck,aa 	给出	c=10 d=0.991188 t=5109
+gěi;sh chū;ck,aa yí;aa cì;dq 	给出一次	c=1 d=1 t=4810
+gěi;sh nǐ;re 	给你	c=1 d=0.00557201 t=5109
+gěi;sh wǒ;pd,pp 	给我	c=4 d=0.0497871 t=5109
+gōng;gl,lg néng;sb 	功能	c=11 d=1.27013 t=5109
+gōng;sb,bs shì;gy,yg 	公式	c=1 d=1 t=4712
+gōu;gs 	勾	c=1 d=1 t=4429
+gǎi;wj,jw 	改	c=11 d=0.360829 t=5109
+gǎi;wj,jw biàn;wy,yy 	改变	c=2 d=0.48106 t=5109
+gǎi;wj,jw chéng;gg,wg 	改成	c=7 d=0.208786 t=5109
+gǎi;wj,jw de;xc 	改得	c=1 d=0.0500364 t=5109
+gǎi;wj,jw dòng;ly,yl 	改动	c=1 d=1 t=4574
+gǎi;wj,jw guò;zc 	改过	c=1 d=0.0330412 t=5109
+gǎi;wj,jw huí;kk qù;ts 	改回去	c=1 d=0.247833 t=5109
+gǎi;wj,jw le;aa,vu 	改了	c=1 d=0.00571304 t=5109
+gǎn;xx jué;dj,jb 	感觉	c=8 d=0.429881 t=5109
+gǎn;xx jué;dj,jb huì;ry 	感觉会	c=1 d=0.0206508 t=5109
+gǎn;xx jué;dj,jb le;aa,vu 	感觉了	c=1 d=0.00474813 t=5109
+gǎn;xx jué;dj,jb tài;dd 	感觉太	c=1 d=0.00384878 t=5109
+gǎn;xx xiè;yu 	感谢	c=1 d=0.66034 t=5109
+gǎo;fg bù;ad,ax dǒng;xd 	搞不懂	c=1 d=0.00701291 t=5109
+gǎo;fg chū;ck,aa lái;am,wb 	搞出来	c=1 d=0.0266491 t=5109
+gǎo;fg dǒng;xd 	搞懂	c=1 d=0.054204 t=5109
+gǎo;fg qīng;dq chǔ;mp,pl 	搞清楚	c=1 d=0.00618889 t=5109
+gǔ;uk 	古	c=3 d=0.00463141 t=5109
+gǔ;uk cí;ys 	古词	c=2 d=0.0026937 t=5109
+huà;ak de;bu 	画的	c=0 d=0.0031117 t=5109
+huà;ak de;bu shá;ku 	画的啥	c=1 d=0.031273 t=5109
+huà;dg,gd zhōng;aa,ka 	划中	c=1 d=0.0317456 t=5109
+huà;rb 	化	c=1 d=0.00657159 t=5109
+huà;yu 	话	c=7 d=0.454732 t=5109
+huà;yu shuō;yd 	话说	c=2 d=0.600519 t=5109
+huài;tb xiāo;dx xi;xz,zx 	坏消息	c=1 d=0.0254765 t=5109
+huàn;fh 	换	c=2 d=0.0323525 t=5109
+huàn;fh háng;xd,xi 	换行	c=10 d=4.37506 t=5109
+huàn;fh le;aa,vu 	换了	c=1 d=0.00123091 t=5109
+huàn;fh yè;ab 	换页	c=1 d=0.0303488 t=5109
+huá;dg dòng;ly,yl 	滑动	c=1 d=0.00227676 t=5109
+huì;ry 	会	c=23 d=1.62431 t=5109
+huì;ry biàn;wy,yy 	会变	c=0 d=0.000296761 t=5109
+huì;ry bèi;yp 	会被	c=1 d=0.594521 t=5109
+huì;ry bǎ;fb 	会把	c=1 d=1 t=4952
+huí;kk 	回	c=1 d=0.194952 t=5109
+huí;kk dào;dv 	回到	c=4 d=0.0705935 t=5109
+huí;kk lái;am,wb 	回来	c=1 d=0.00227676 t=5109
+huò;cq qǔ;ey,ye 	获取	c=1 d=0.315058 t=5109
+huò;gk zhě;lo,ol 	或者	c=11 d=0.757872 t=5109
+huī;xh fù;pw,rw,wo 	恢复	c=1 d=0.0742736 t=5109
+hào;nz qí;dk 	好奇	c=1 d=0.0169922 t=5109
+hái;zb 	还	c=16 d=0.952021 t=5109
+hái;zb bù;ad,ax pǎo;zb 	还不跑	c=1 d=0.00367942 t=5109
+hái;zb děi;xc 	还得	c=5 d=0.726243 t=5109
+hái;zb huì;ry 	还会	c=2 d=0.0278313 t=5109
+hái;zb hǎo;nz 	还好	c=1 d=0.00145173 t=5109
+hái;zb kě;dk yǐ;rd,ry 	还可以	c=2 d=0.214101 t=5109
+hái;zb méi;du 	还没	c=2 d=0.276651 t=5109
+hái;zb méi;du kàn;ou,uo 	还没看	c=1 d=0.000399619 t=5109
+hái;zb néng;sb 	还能	c=1 d=0.0473589 t=5109
+hái;zb shì;op,ov 	还是	c=33 d=0.723841 t=5109
+hái;zb shǔ;uy 	还属	c=0 d=0.000115923 t=5109
+hái;zb shǔ;uy yīn;lo jié;ce ne;kn 	还属音节呢	c=1 d=0.00116504 t=5109
+hái;zb tǐng;ft hǎo;nz 	还挺好	c=1 d=0.00101284 t=5109
+hái;zb xíng;xd,xi 	还行	c=1 d=0.00301246 t=5109
+hái;zb yǒu;ou,uo 	还有	c=12 d=1.69891 t=5109
+hái;zb zài;ta,ut 	还在	c=2 d=0.612626 t=5109
+háng;vk xiàn;sj 	航线	c=1 d=0.0023935 t=5109
+hè;nv hè;nv 	鹤鹤	c=1 d=0.208045 t=5109
+hè;nv hè;nv shì;op,ov zhè;zw yàng;my de;bu 	鹤鹤是这样的	c=1 d=0.00491728 t=5109
+hé;hk 	和	c=36 d=2.65214 t=5109
+hé;rk bìng;bk,qc 	合并	c=1 d=0.0162445 t=5109
+hé;rk jiě;jn 	何解	c=1 d=1 t=4948
+hòu;pk 	后	c=10 d=0.984488 t=5109
+hòu;pk miàn;aa 	后面	c=2 d=0.482714 t=5109
+hòu;pk mén;dg 	后门	c=1 d=0.00319873 t=5109
+hòu;pk tái;sk 	后台	c=1 d=0.304221 t=5109
+hòu;ru xuǎn;zx cí;ys 	候选词	c=1 d=0.000685749 t=5109
+hún;dj hún;dj è;wk è;wk 	浑浑噩噩	c=1 d=1 t=5030
+hā;kh 	哈	c=2 d=0.813515 t=5109
+hā;kh hā;kh 	哈哈	c=2 d=0.494464 t=5109
+hā;kh hā;kh hā;kh 	哈哈哈	c=0 d=0.0362575 t=5109
+hā;kh hā;kh hā;kh hā;kh 	哈哈哈哈	c=2 d=0.740818 t=5109
+hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh 	哈哈哈哈哈哈	c=1 d=0.00198925 t=5109
+hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh hā;kh 	哈哈哈哈哈哈哈哈	c=1 d=0.362403 t=5109
+hěn;qg rén;pd 	狠人	c=1 d=0.000642594 t=5109
+hěn;xg 	很	c=12 d=0.509423 t=5109
+hěn;xg bù;ad,ax 	很不	c=1 d=1 t=4946
+hěn;xg cháng;pd 	很长	c=1 d=0.0569831 t=5109
+hěn;xg duō;xx 	很多	c=2 d=0.0907334 t=5109
+hěn;xg fán;hy 	很烦	c=1 d=0.000515692 t=5109
+hěn;xg màn;xm 	很慢	c=1 d=0.501576 t=5109
+hěn;xg shuǎng;dy 	很爽	c=1 d=0.0207543 t=5109
+hěn;xg shǎ;rw 	很傻	c=1 d=0.000754089 t=5109
+hěn;xg xǐ;uk huān;yq 	很喜欢	c=1 d=0.00256704 t=5109
+hěn;xg yǒu;ou,uo 	很有	c=1 d=0.00585769 t=5109
+hū;xw shì;ju,uj 	忽视	c=1 d=0.831104 t=5109
+hǎn;kx 	喊	c=1 d=0.99005 t=5109
+hǎo;nz 	好	c=5 d=0.412532 t=5109
+hǎo;nz de;bu 	好的	c=11 d=1.64644 t=5109
+hǎo;nz de;bu ba;kb 	好的吧	c=2 d=0.115877 t=5109
+hǎo;nz de;bu hǎo;nz de;bu 	好的好的	c=2 d=0.802535 t=5109
+hǎo;nz dǎi;ad,ax 	好歹	c=1 d=1 t=4413
+hǎo;nz hǎo;nz hǎo;nz 	好好好	c=1 d=0.0500366 t=5109
+hǎo;nz le;aa,vu 	好了	c=6 d=0.430977 t=5109
+hǎo;nz ma;km 	好嘛	c=1 d=0.00562801 t=5109
+hǎo;nz tú;kd 	好图	c=1 d=0.00199921 t=5109
+hǎo;nz xiàng;rx 	好像	c=4 d=0.171011 t=5109
+hǎo;nz xiāo;dx xī;xz,zx 	好消息	c=1 d=0.0238732 t=5109
+hǎo;nz yòng;kf 	好用	c=2 d=0.192241 t=5109
+hǎo;nz àn;oy 	好暗	c=0 d=0.00403566 t=5109
+jiàn;jj 	键	c=1 d=0.0040672 t=5109
+jiàn;jj pán;mv,vm 	键盘	c=9 d=0.355226 t=5109
+jiàn;mo,om jiē;fq 	间接	c=5 d=0.0560993 t=5109
+jiàn;mo,om jiē;fq fǔ;if 	间接辅	c=2 d=0.00635065 t=5109
+jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql 	间接辅助	c=0 d=0.00232837 t=5109
+jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql ma;km 	间接辅助吗	c=3 d=0.0234005 t=5109
+jiàn;vq tóu;dd 	箭头	c=2 d=0.179066 t=5109
+jiàn;zy yì;yy 	建议	c=2 d=0.113471 t=5109
+jiào;kj 	叫	c=5 d=0.389204 t=5109
+jiào;kj fǎ;dq 	叫法	c=1 d=1 t=4462
+jiào;wx 	教	c=1 d=0.00414854 t=5109
+jiè;tj miàn;aa 	界面	c=12 d=0.218816 t=5109
+jié;sj guǒ;ad,tm 	结果	c=3 d=0.308153 t=5109
+jiù;ao 	旧	c=4 d=0.379594 t=5109
+jiù;ao bǎn;pf 	旧版	c=2 d=0.692947 t=5109
+jiù;yj 	就	c=41 d=2.23129 t=5109
+jiù;yj huì;ry 	就会	c=1 d=0.0739031 t=5109
+jiù;yj hǎo;nz le;aa,vu 	就好了	c=6 d=0.746621 t=5109
+jiù;yj shì;op,ov 	就是	c=18 d=1.18384 t=5109
+jiù;yj shì;op,ov le;aa,vu 	就是了	c=1 d=0.0273237 t=5109
+jiù;yj shì;op,ov wǒ;pd,pp 	就是我	c=1 d=0.00127475 t=5109
+jiù;yj wǒ;pd,pp 	就我	c=1 d=0.000473668 t=5109
+jiù;yj xíng;xd,xi 	就行	c=1 d=0.0183156 t=5109
+jiā;lk,kl 	加	c=5 d=0.0834539 t=5109
+jiā;lk,kl gè;ra,pa 	加个	c=1 d=1 t=4981
+jiā;lk,kl le;aa,vu 	加了	c=3 d=0.38248 t=5109
+jiā;lk,kl rù;pd 	加入	c=1 d=1 t=4646
+jiā;lk,kl yóu;dy 	加油	c=1 d=0.00118265 t=5109
+jiān;bd,bj,qd,qj gù;ye 	兼顾	c=1 d=0.025223 t=5109
+jiān;bd,bj,qd,qj róng;bg 	兼容	c=1 d=0.00810722 t=5109
+jiāng;dc,jc,pc 	将	c=6 d=0.444836 t=5109
+jiāo;li,wf,df 	交	c=1 d=0.00412784 t=5109
+jiē;fq xià;ab,ad lái;am,wb 	接下来	c=2 d=1.74453 t=4654
+jiě;jn jué;dd,dg 	解决	c=8 d=1.14696 t=5109
+jiě;jn jué;dd,dg bàn;lb fǎ;dq 	解决办法	c=1 d=0.0147723 t=5109
+jiě;jn shì;pf,bf yí;aa xià;ab,ad 	解释一下	c=1 d=0.00021605 t=5109
+jiū;sj jié;sj 	纠结	c=1 d=0.0141223 t=5109
+jiǎ;rj,ry shè;yu 	假设	c=1 d=0.000257369 t=5109
+jiǎn;dq qiē;dq,qd bǎn;mf 	剪切板	c=1 d=0.00201931 t=5109
+jiǎn;dx sù;zu dài;jb 	减速带	c=1 d=1 t=5101
+jiǎn;ma,mq chá;md 	检查	c=4 d=0.0599164 t=5109
+jiǎn;vj chún;st 	简纯	c=1 d=0.208045 t=5109
+jiǎn;vj cí;ys 	简词	c=2 d=0.608438 t=5109
+jiǎn;vj dān;ba,bd 	简单	c=1 d=1 t=4832
+jiǎn;vj lòu;ea,ev 	简陋	c=1 d=0.226502 t=5109
+jiǎn;vj mǎ;um 	简码	c=3 d=0.384812 t=5109
+jiǎn;vj pīn;fb 	简拼	c=2 d=0.271172 t=5109
+jiǎn;vj yuē;su 	简约	c=1 d=0.00259285 t=5109
+jiǎng;yj 	讲	c=1 d=0.000593188 t=5109
+jiǎng;yj jiǎng;yj 	讲讲	c=1 d=0.000253537 t=5109
+jiǎo;oq běn;aa,ma 	脚本	c=22 d=1.58388 t=5109
+jiǔ;py tiān;ad 	九天	c=0 d=0.00507928 t=5109
+jiǔ;py tiān;ad yīng;ga yuán;aw,ee léi;yt shēng;um pǔ;ob,bo huà;rb tiān;ad zūn;cq,qc 	九天应元雷声普化天尊	c=1 d=0.0510474 t=5109
+jué;dj,jb de;xc 	觉得	c=4 d=0.988154 t=5109
+jué;ss dà;ad duō;xx shù;wl 	绝大多数	c=1 d=1 t=5088
+jì;sa,sv xù;sm 	继续	c=3 d=0.139963 t=5109
+jì;yj de;xc 	记得	c=1 d=1 t=4443
+jì;yj lù;au,ua,vu 	记录	c=3 d=0.138688 t=5109
+jì;yj yì;xy 	记忆	c=1 d=0.0466538 t=5109
+jì;yj zhù;rv 	记住	c=2 d=0.097862 t=5109
+jìn;zj 	进	c=3 d=0.946485 t=5109
+jìn;zj lái;am,wb 	进来	c=1 d=1 t=4647
+jìn;zj qù;ts 	进去	c=0 d=0.00875977 t=5109
+jí;xi,xx ma;km 	急吗	c=1 d=1 t=4830
+jù;ba,bq,qb tǐ;rb 	具体	c=5 d=0.583844 t=5109
+jù;fj 	据	c=1 d=0.00440507 t=5109
+jù;gk,kg,pk fǎ;dq 	句法	c=1 d=0.017249 t=5109
+jù;gk,kg,pk zi;aa,vh 	句子	c=9 d=0.466659 t=5109
+jù;jj chǐ;vk 	锯齿	c=0 d=0.000296761 t=5109
+jú;uk bù;ek,ep biàn;wy,yy liàng;ol 	局部变量	c=1 d=0.878095 t=5109
+jī;mj fáng;hf 	机房	c=1 d=1 t=5082
+jī;py hū;pa 	几乎	c=1 d=1 t=5104
+jī;tq,qt běn;aa,ma 	基本	c=3 d=0.064786 t=5109
+jīn;ra,rv tiān;ad 	今天	c=3 d=0.0179691 t=5109
+jīng;mq jiǎn;vj 	精简	c=1 d=0.337902 t=5109
+jīng;mq shen;uu 	精神	c=1 d=0.00119453 t=5109
+jīng;sg cháng;jk,xd,dd 	经常	c=1 d=0.00571306 t=5109
+jǐ;py gè;ra,pa 	几个	c=1 d=0.0867261 t=5109
+jǐ;py jù;gk,kg,pk huà;yu 	几句话	c=1 d=0.071719 t=5109
+jǐn;id guǎn;vg 	尽管	c=3 d=0.0585778 t=5109
+jǐn;sy zhāng;gi 	紧张	c=1 d=1 t=4857
+jǔ;df,xf ge;ra,pa lì;rl zi;aa,vh 	举个例子	c=1 d=0.000219315 t=5109
+kuài;xd,xg 	快	c=2 d=0.316697 t=5109
+kuài;xd,xg dào;dv 	快到	c=1 d=1 t=5089
+kuài;xd,xg jié;fj jiàn;jj 	快捷键	c=1 d=0.299692 t=5109
+kuàng;mk 	框	c=2 d=0.520273 t=5109
+kuàng;mk kuàng;mk 	框框	c=1 d=0.0547488 t=5109
+kuān;bj,jb 	宽	c=2 d=0.284178 t=5109
+kàn;ou,uo 	看	c=8 d=3.46637 t=5109
+kàn;ou,uo bù;ad,ax chū;ck,aa 	看不出	c=2 d=0.122461 t=5109
+kàn;ou,uo bù;ad,ax dǒng;xd 	看不懂	c=1 d=0.822835 t=5109
+kàn;ou,uo bú;ad,ax tài;dd dǒng;xd 	看不太懂	c=1 d=0.509156 t=5109
+kàn;ou,uo chū;ck,aa lái;am,wb 	看出来	c=2 d=0.00237763 t=5109
+kàn;ou,uo de;xc 	看得	c=2 d=0.839457 t=5109
+kàn;ou,uo de;xc chū;ck,aa lái;am,wb 	看得出来	c=1 d=0.0154523 t=5109
+kàn;ou,uo de;xc wǒ;pd,pp dōu;ev tóu;dd tòng;by 	看得我都头痛	c=1 d=0.0159229 t=5109
+kàn;ou,uo dào;dv 	看到	c=3 d=0.771325 t=5109
+kàn;ou,uo dǒng;xd 	看懂	c=2 d=0.0243415 t=5109
+kàn;ou,uo jiàn;ag,ek,ke 	看见	c=1 d=0.00419023 t=5109
+kàn;ou,uo kàn;ou,uo 	看看	c=11 d=1.03973 t=5109
+kàn;ou,uo le;aa,vu 	看了	c=2 d=0.23137 t=5109
+kàn;ou,uo le;aa,vu bàn;bf tiān;ad 	看了半天	c=1 d=0.535261 t=5109
+kàn;ou,uo qǐ;zj lái;am,wb 	看起来	c=1 d=0.0182243 t=5109
+kào;fg,nf 	靠	c=1 d=1 t=5071
+kè;eg,ux 	克	c=1 d=1 t=5109
+kè;eg,ux lóng;eu 	克隆	c=2 d=1.41944 t=5109
+kè;yg 	课	c=0 d=0.000562801 t=5109
+kòng;fk jiàn;rn 	控件	c=2 d=1.99005 t=4553
+kòng;fk zhì;dg,dv xì;ps tǒng;si 	控制系统	c=0 d=0.0843665 t=5109
+kòng;xg,bg gé;mg 	空格	c=1 d=1 t=4879
+kùn;km rǎo;fy 	困扰	c=1 d=0.316637 t=5109
+kāi;ac 	开	c=2 d=0.31507 t=5109
+kāi;ac bù;ad,ax kāi;ac 	开不开	c=1 d=0.000439444 t=5109
+kāi;ac guān;bt,qd 	开关	c=1 d=0.215456 t=5109
+kāi;ac le;aa,vu 	开了	c=2 d=0.00130703 t=5109
+kāi;ac qǐ;hk,kh 	开启	c=1 d=0.327915 t=5109
+kāi;ac shàng;aa,ba guà;fg 	开上挂	c=1 d=1 t=4480
+kāi;ac shǐ;nt 	开始	c=2 d=0.0206537 t=5109
+kāi;ac tóu;dd 	开头	c=1 d=0.00951389 t=5109
+kāi;ac yí;aa xià;ab,ad 	开一下	c=1 d=0.0129715 t=5109
+kē;hd mù;aa,om,mu yī;aa 	科目一	c=1 d=1 t=5085
+kě;dk 	可	c=2 d=0.319819 t=5109
+kě;dk dìng;bp 	可定	c=1 d=0.00035443 t=5109
+kě;dk lè;pd,px 	可乐	c=1 d=0.00226541 t=5109
+kě;dk néng;sb 	可能	c=4 d=1.07376 t=5109
+kě;dk shì;op,ov 	可是	c=4 d=0.0546716 t=5109
+kě;dk wù;xy 	可恶	c=1 d=0.000581439 t=5109
+kě;dk wǒ;pd,pp 	可我	c=1 d=1 t=4456
+kě;dk yǐ;rd,ry 	可以	c=18 d=1.36439 t=5109
+kě;dk yǐ;rd,ry de;bu 	可以的	c=1 d=0.000291637 t=5109
+kě;dk yǐ;rd,ry le;aa,vu 	可以了	c=1 d=0.000982902 t=5109
+kěn;ov,vo dìng;bp 	肯定	c=3 d=0.842146 t=5109
+kōng;xg,bg háng;xd,xi 	空行	c=1 d=1 t=4744
+kōng;xg,bg jiān;mo,om 	空间	c=1 d=0.0911727 t=5109
+kǎ;bx,ub piàn;pa,pv 	卡片	c=10 d=1.50191 t=5109
+kǎo;lk diǎn;hv 	考点	c=1 d=0.000347412 t=5109
+kǎo;lk lǜ;hx,xh guò;zc 	考虑过	c=1 d=0.0510476 t=5109
+le;aa,vu 	了	c=98 d=5.47191 t=5109
+liàng;ol 	量	c=1 d=0.000921047 t=5109
+lián;eg xì;ps fāng;dg,wd,dp,dw shì;gy,yg 	联系方式	c=1 d=1 t=5039
+liè;dd 	列	c=5 d=4.34136 t=4802
+liú;td,tl,lt 	留	c=2 d=1.95123 t=5048
+liú;td,tl,lt le;aa,vu gè;ra,pa 	留了个	c=1 d=0.00316691 t=5109
+liú;td,tl,lt zhe;yo 	留着	c=1 d=1 t=5060
+liǎng;ad biān;zl 	两边	c=1 d=0.00267181 t=5109
+liǎng;ad gè;ra,pa 	两个	c=14 d=0.350539 t=5109
+liǎng;ad tóu;dd 	两头	c=1 d=0.0253494 t=5109
+liǎng;ad zhǒng;hv 	两种	c=1 d=0.101206 t=5109
+liǎng;ad zhǒng;hv xí;ga guàn;xg 	两种习惯	c=1 d=0.0916298 t=5109
+liǎo;aa,vu jiě;jn 	了解	c=3 d=0.00221799 t=5109
+luàn;ug 	乱	c=1 d=0.0439374 t=5109
+luàn;ug gǎi;wj,jw 	乱改	c=2 d=0.104142 t=5109
+luàn;ug yìng;oy shè;cu,uc 	乱映射	c=1 d=0.0306538 t=5109
+luó;zl jí;ie,iq 	逻辑	c=5 d=0.349817 t=5109
+lái;am,wb 	来	c=19 d=1.04639 t=5109
+lái;am,wb ba;kb 	来吧	c=1 d=1 t=4855
+lái;am,wb bù;ad,ax jí;nd,pd 	来不及	c=1 d=1 t=5091
+lái;am,wb de;xc 	来得	c=1 d=0.0566989 t=5109
+lái;am,wb dào;dv 	来到	c=1 d=0.0958472 t=5109
+lái;am,wb zhe;yo 	来着	c=8 d=0.600551 t=5109
+lái;cl 	莱	c=1 d=0.00201931 t=5109
+lán;cj píng;ub 	蓝屏	c=4 d=0.0979719 t=5109
+lèi;md 	类	c=3 d=2.96531 t=4434
+léi;yt 	雷	c=1 d=0.0505395 t=5109
+léi;yt shēng;um 	雷声	c=0 d=0.00507928 t=5109
+lì;hd,dh luò;cl 	利落	c=1 d=0.0340475 t=5109
+lì;rl rú;nk 	例如	c=11 d=0.826395 t=5109
+lì;rl zi;aa,vh 	例子	c=2 d=0.00967547 t=5109
+lì;rl zi;aa,vh zhōng;aa,ka 	例子中	c=1 d=0.000953854 t=5109
+lìng;kl 	另	c=1 d=0.000450569 t=5109
+lìng;kl wài;xb 	另外	c=2 d=0.151314 t=5109
+lìng;kl yí;aa gè;ra,pa 	另一个	c=2 d=0.0953797 t=5109
+lù;au,ua,vu gè;ra,pa 	录个	c=1 d=0.00192083 t=5109
+lù;au,ua,vu shì;ju,uj pín;yb 	录视频	c=1 d=0.640824 t=5109
+lù;ej 	陆	c=1 d=0.00660109 t=5109
+lù;ej yíng;my yíng;my 	陆盈盈	c=1 d=0.0572686 t=5109
+lù;zg jìng;xg 	路径	c=1 d=0.000455097 t=5109
+lù;zg rén;pd 	路人	c=1 d=0.00112497 t=5109
+lùn;yl 	论	c=1 d=0.0422141 t=5109
+lún;il xún;yx 	轮询	c=10 d=0.345132 t=5109
+lā;fl qǔ;ey,ye 	拉取	c=4 d=1.81062 t=5109
+lā;fl wǒ;pd,pp 	拉我	c=0 d=0.00523397 t=5109
+lā;fl wǒ;pd,pp de;bu 	拉我的	c=1 d=0.0526021 t=5109
+lǎo;bl,lb bǎn;mf 	老板	c=1 d=0.0483156 t=5109
+lǎo;bl,lb huáng;ad,cb niú;pa 	老黄牛	c=1 d=0.000257369 t=5109
+lǎo;bl,lb shí;bt shuō;yd 	老实说	c=1 d=0.00778932 t=5109
+lǎo;bl,lb shī;ab,aj,db,dj 	老师	c=1 d=0.257947 t=5109
+lǎo;bl,lb tóu;dd 	老头	c=1 d=1 t=4899
+lǎo;rl 	佬	c=1 d=0.0992613 t=5109
+lǐ;aa,tt 	里	c=11 d=2.02316 t=5109
+lǐ;ug mào;ve,vm 	礼貌	c=1 d=0.00509243 t=5109
+lǐ;wl jiě;jn 	理解	c=4 d=0.831495 t=5109
+lǐ;wl jiě;jn yí;aa xià;ab,ad 	理解一下	c=1 d=0.000221519 t=5109
+ma;km 	吗	c=24 d=1.81123 t=5109
+ma;km 	嘛	c=18 d=1.62153 t=5109
+me;ps 	么	c=30 d=1.90965 t=5109
+me;ps kàn;ou,uo lái;am,wb 	么看来	c=0 d=2.91637e-05 t=5109
+mài;fw dāng;xx láo;cl,lb 	麦当劳	c=1 d=0.00499159 t=5109
+mài;fw lǐ;aa,tt 	麦里	c=1 d=0.985112 t=5109
+mài;um 	卖	c=1 d=0.0146986 t=5109
+máng;ow dǎ;fd 	盲打	c=1 d=0.035437 t=5109
+méi;du 	没	c=26 d=0.624748 t=5109
+méi;du bèi;yp 	没被	c=2 d=0.324871 t=5109
+méi;du huà;yu shuō;yd 	没话说	c=1 d=1 t=4470
+méi;du kàn;ou,uo dǒng;xd 	没看懂	c=2 d=0.524759 t=5109
+méi;du le;aa,vu 	没了	c=1 d=0.585669 t=5109
+méi;du lǐ;wl jiě;jn 	没理解	c=1 d=0.00740947 t=5109
+méi;du shá;ku 	没啥	c=1 d=0.337902 t=5109
+méi;du shá;ku chā;yg bié;dl 	没啥差别	c=1 d=0.000441647 t=5109
+méi;du shá;ku yòng;kf 	没啥用	c=1 d=0.00304273 t=5109
+méi;du shì;aa 	没事	c=6 d=0.456071 t=5109
+méi;du shì;aa de;bu 	没事的	c=1 d=1 t=5068
+méi;du tài;dd kàn;ou,uo dǒng;xd 	没太看懂	c=1 d=0.000581442 t=5109
+méi;du wèn;km,mk tí;uy,yu 	没问题	c=1 d=0.00818871 t=5109
+méi;du xiě;by 	没写	c=1 d=0.985112 t=5109
+méi;du yòng;kf guò;zc 	没用过	c=1 d=0.204948 t=5109
+méi;du yǒu;ou,uo 	没有	c=10 d=0.918362 t=5109
+mì;ub,bu mǎ;um 	密码	c=1 d=1 t=4670
+mìng;re míng;xk 	命名	c=2 d=1.8825 t=4703
+mí;zm hu;mh 	迷糊	c=1 d=0.0678809 t=5109
+mí;zm mí;zm hū;mh hū;mh de;bu 	迷迷糊糊的	c=1 d=0.138069 t=5109
+míng;oo bái;pa,po 	明白	c=0 d=0.000690853 t=5109
+míng;oo míng;oo 	明明	c=2 d=0.0988096 t=5109
+míng;xk 	名	c=0 d=3.82034e-05 t=5109
+míng;xk zì;bz 	名字	c=6 d=0.12509 t=5109
+mò;ad,am wěi;um 	末尾	c=4 d=0.00504506 t=5109
+mò;dm rán;hq 	漠然	c=1 d=0.00067217 t=5109
+mò;hq rèn;yr 	默认	c=4 d=1.10785 t=5109
+mó;gm,mg rán;hq 	魔然	c=6 d=0.0339596 t=5109
+mó;gm,mg rán;hq mǎ;um 	魔然码	c=2 d=0.446648 t=5109
+mó;mm bǎn;pf 	模版	c=2 d=0.0172381 t=5109
+mó;mm hu;mh yīn;lo 	模糊音	c=1 d=0.000880519 t=5109
+mó;mm shì;gy,yg 	模式	c=2 d=0.494268 t=5109
+mó;mm xíng;tx 	模型	c=3 d=2.24519 t=5109
+mù;aa,om,mu lù;au,ua,vu 	目录	c=5 d=1.919 t=5109
+mù;aa,om,mu lù;au,ua,vu xià;ab,ad 	目录下	c=1 d=0.0728029 t=5109
+mù;aa,om,mu qián;bd,qd 	目前	c=1 d=0.00100276 t=5109
+mā;nm ma;nm 	妈妈	c=1 d=0.995012 t=5109
+měi;dy,yd guān;jy,yj 	美观	c=5 d=1.19198 t=5109
+měi;dy,yd hǎo;nz 	美好	c=1 d=0.228779 t=5109
+měi;pm,rm cì;dq 	每次	c=15 d=3.12173 t=5109
+měi;pm,rm gè;ra,pa zì;bz 	每个字	c=1 d=0.282239 t=5109
+mǎ;um 	码	c=3 d=0.807461 t=5109
+mǎi;at,vt wán;by 	买完	c=1 d=0.00224287 t=5109
+mǒu;gm,mg zhǒng;hv yì;xy,lx yì;di,id shàng;aa,ba 	某种意义上	c=1 d=0.00171216 t=5109
+ne;kn 	呢	c=4 d=0.966677 t=5109
+nián;ra,pa 	年	c=1 d=0.869358 t=5109
+nián;ra,pa qīng;ig 	年轻	c=1 d=0.000393669 t=5109
+niú;pa 	牛	c=2 d=0.00429639 t=5109
+niú;pa zi;aa,vh 	牛子	c=1 d=0.0217096 t=5109
+nuó;fn 	挪	c=0 d=0.00875977 t=5109
+nuó;fn jìn;zj qù;ts 	挪进去	c=1 d=0.0880368 t=5109
+nà;el 	那	c=31 d=1.86242 t=5109
+nà;el bù;ek,ep fèn;bd,db 	那部分	c=1 d=0.826959 t=5109
+nà;el bú;ad,ax jiù;yj 	那不就	c=1 d=0.115903 t=5109
+nà;el cì;dq 	那次	c=1 d=0.726149 t=5109
+nà;el ge;ra,pa 	那个	c=5 d=0.78935 t=5109
+nà;el ge;ra,pa me;ps 	那个么	c=1 d=0.386741 t=5109
+nà;el jiù;yj 	那就	c=3 d=0.439604 t=5109
+nà;el jiù;yj shì;op,ov 	那就是	c=3 d=0.625909 t=5109
+nà;el lǐ;aa,tt 	那里	c=1 d=0.0520788 t=5109
+nà;el lǐ;aa,tt yǒu;ou,uo 	那里有	c=0 d=6.14315e-05 t=5109
+nà;el lǐ;aa,tt yǒu;ou,uo wèn;km,mk tí;uy,yu 	那里有问题	c=1 d=0.000617396 t=5109
+nà;el me;ps 	那么	c=3 d=0.00301456 t=5109
+nà;el nǐ;re 	那你	c=2 d=0.000640948 t=5109
+nà;el nǐ;re zì;pa,po jǐ;ag,vg 	那你自己	c=1 d=0.000623599 t=5109
+nà;el qí;ba,ad,hb shí;bt 	那其实	c=2 d=0.744532 t=5109
+nà;el wǒ;pd,pp 	那我	c=5 d=0.394412 t=5109
+nà;el wǒ;pd,pp bù;ad,ax qīng;dq chu;mp,pl 	那我不清楚	c=1 d=0.414783 t=5109
+nà;el wǒ;pd,pp gǎn;xx jué;dj,jb 	那我感觉	c=1 d=0.33454 t=5109
+nà;el wǒ;pd,pp hái;zb shì;op,ov 	那我还是	c=1 d=0.00612728 t=5109
+nà;el wǒ;pd,pp jiù;yj hái;zb shì;op,ov 	那我就还是	c=1 d=0.0389686 t=5109
+nà;el wǒ;pd,pp jué;dj,jb de;xc 	那我觉得	c=1 d=0.00144449 t=5109
+nà;el yàng;my 	那样	c=1 d=0.0136366 t=5109
+nà;el yì;aa háng;xd,xi 	那一行	c=1 d=0.00255424 t=5109
+nà;el yí;aa kuài;td,tg 	那一块	c=1 d=0.0293049 t=5109
+nà;el zhè;zw 	那这	c=0 d=2.91637e-05 t=5109
+nà;el zhè;zw me;ps kàn;ou,uo lái;am,wb 	那这么看来	c=1 d=0.000293099 t=5109
+nà;el zhè;zw shí;oc 	那这时	c=1 d=0.00530026 t=5109
+nà;fn 	捺	c=1 d=1 t=4416
+nà;kn 	呐	c=2 d=0.0713613 t=5109
+ná;uh 	拿	c=2 d=0.631315 t=5109
+ná;uh lái;am,wb 	拿来	c=1 d=0.0315873 t=5109
+nán;tl hái;zh 	男孩	c=1 d=0.00100779 t=5109
+nán;yv dào;zu 	难道	c=1 d=0.000471309 t=5109
+nán;yv dǎ;fd 	难打	c=1 d=0.00290884 t=5109
+nèi;ad,kr biān;zl jù;zj 	内边距	c=2 d=0.185288 t=5109
+nèi;ad,kr róng;bg 	内容	c=9 d=0.576718 t=5109
+néng;sb 	能	c=14 d=0.90098 t=5109
+néng;sb bù;ad,ax néng;sb 	能不能	c=2 d=0.822835 t=5109
+néng;sb bǎ;fb 	能把	c=1 d=0.0288686 t=5109
+néng;sb fǒu;kb 	能否	c=12 d=1.55833 t=5109
+néng;sb pǎo;zb 	能跑	c=1 d=0.0182243 t=5109
+néng;sb yòng;kf 	能用	c=1 d=0.000841775 t=5109
+nǎ;kn 	哪	c=2 d=0.0160209 t=5109
+nǎ;kn bù;ek,ep fèn;bd,db 	哪部分	c=1 d=1 t=4816
+nǎ;kn ge;ra,pa 	哪个	c=4 d=0.514909 t=5109
+nǎ;kn ge;ra,pa shì;op,ov 	哪个是	c=0 d=3.12784e-05 t=5109
+nǎ;kn ge;ra,pa shì;op,ov a;ka 	哪个是啊	c=1 d=0.000314351 t=5109
+nǎ;kn lǐ;aa,tt 	哪里	c=9 d=0.923233 t=5109
+nǎ;kn pà;xb 	哪怕	c=1 d=0.436049 t=5109
+nǎi;nn chá;cm 	奶茶	c=1 d=0.0160027 t=5109
+nǐ;re 	你	c=34 d=1.75377 t=5109
+nǐ;re bāng;jb 	你帮	c=1 d=1 t=4759
+nǐ;re de;bu 	你的	c=1 d=0.18452 t=5109
+nǐ;re de;bu huà;yu 	你的话	c=1 d=0.0347353 t=5109
+nǐ;re huì;ry 	你会	c=1 d=1 t=4836
+nǐ;re hái;zb 	你还	c=1 d=0.0220377 t=5109
+nǐ;re hǎo;nz 	你好	c=8 d=0.688509 t=5109
+nǐ;re jué;dj,jb de;xc ne;kn 	你觉得呢	c=1 d=0.364219 t=5109
+nǐ;re kàn;ou,uo 	你看	c=1 d=1 t=5105
+nǐ;re men;rm 	你们	c=1 d=0.00193046 t=5109
+nǐ;re néng;sb 	你能	c=2 d=1.63763 t=4888
+nǐ;re néng;sb fǒu;kb 	你能否	c=1 d=0.460704 t=5109
+nǐ;re qù;ts 	你去	c=1 d=0.00166156 t=5109
+nǐ;re shén;ru me;ps 	你什么	c=1 d=0.0520787 t=5109
+nǐ;re shì;bv yǒu;yu,uy 	你室友	c=1 d=0.00637737 t=5109
+nǐ;re shì;op,ov 	你是	c=1 d=1 t=4833
+nǐ;re shì;op,ov wǒ;pd,pp 	你是我	c=1 d=0.217621 t=5109
+nǐ;re xiàn;wj zài;ta,ut 	你现在	c=1 d=0.0561346 t=5109
+nǐ;re yì;aa shuō;yd 	你一说	c=1 d=0.373439 t=5109
+nǐ;re yě;gg shì;op,ov 	你也是	c=1 d=0.0218184 t=5109
+nǐ;re yǒu;ou,uo 	你有	c=1 d=1 t=5106
+nǐ;re zì;pa,po jǐ;ag,vg 	你自己	c=1 d=0.0987662 t=5109
+nǚ;aa,vh hái;zh 	女孩	c=1 d=0.00101284 t=5109
+piào;dp liang;wj,jb 	漂亮	c=1 d=0.0145524 t=5109
+pián;rg yi;bq 	便宜	c=1 d=0.00559994 t=5109
+piē;fb,fw 	撇	c=2 d=1.90937 t=4433
+pà;xb 	怕	c=1 d=0.343009 t=5109
+pào;db miàn;aa 	泡面	c=1 d=0.00225411 t=5109
+pái;ff bǎn;pf 	排版	c=10 d=1.12919 t=5109
+pèi;yj zhì;sv 	配置	c=7 d=0.225717 t=5109
+pèi;yj zhì;sv me;ps 	配置么	c=1 d=0.00048324 t=5109
+pèi;yj zhì;sv wén;wi,dd jiàn;rn 	配置文件	c=1 d=0.0812682 t=5109
+péng;oo you;yu,uy 	朋友	c=2 d=0.177536 t=5109
+pí;ad,ay,vd,vy,ya fū;of 	皮肤	c=5 d=0.210178 t=5109
+pín;yb lǜ;wu 	频率	c=1 d=0.0977834 t=5109
+píng;aa,gb tái;sk 	平台	c=1 d=0.109701 t=5109
+pēi;kp 	呸	c=1 d=0.000403635 t=5109
+pīn;fb yīn;lo 	拼音	c=1 d=0.000464291 t=5109
+pǎo;zb 	跑	c=1 d=0.020141 t=5109
+pǐ;ke pèi;yj 	匹配	c=3 d=0.473311 t=5109
+pǔ;ob,bo huà;rb tiān;ad zūn;cq,qc 	普化天尊	c=0 d=0.00507928 t=5109
+pǔ;ob,bo tōng;zy 	普通	c=1 d=0.000296045 t=5109
+qián;bd,qd 	前	c=1 d=1 t=4885
+qián;bd,qd zhuì;su,sv 	前缀	c=2 d=1.35169 t=5005
+qiè;dq,qd 	切	c=1 d=0.0110536 t=5109
+qiē;dq,qd huàn;fh 	切换	c=3 d=0.260749 t=5109
+qiě;aa 	且	c=2 d=0.517503 t=5109
+qiǎng;gs pò;zb zhèng;bv 	强迫症	c=1 d=0.108067 t=5109
+quán;rw 	全	c=1 d=0.0006362 t=5109
+quán;rw bù;ek,ep 	全部	c=2 d=0.118841 t=5109
+quán;rw jú;uk 	全局	c=2 d=1.89583 t=5109
+quán;rw píng;ub 	全屏	c=1 d=0.0328764 t=5109
+quán;rw pīn;fb 	全拼	c=1 d=0.000270565 t=5109
+quán;rw shān;dc 	全删	c=1 d=0.170333 t=5109
+què;uj bǎo;rd 	确保	c=1 d=0.600496 t=5109
+què;uj dìng;bp 	确定	c=1 d=0.0695995 t=5109
+què;uj rèn;yr 	确认	c=1 d=0.0125881 t=5109
+què;uj shí;bt 	确实	c=5 d=0.32476 t=5109
+qí;ba,ad,hb 	其	c=1 d=0.603506 t=5109
+qí;ba,ad,hb cì;dq 	其次	c=1 d=0.028297 t=5109
+qí;ba,ad,hb shí;bt 	其实	c=13 d=1.05232 t=5109
+qí;ba,ad,hb tā;ry 	其他	c=5 d=0.20655 t=5109
+qí;ba,ad,hb zhōng;aa,ka 	其中	c=5 d=0.473954 t=5109
+qí;dk guài;xu 	奇怪	c=1 d=0.228779 t=5109
+qíng;xq kuàng;dx 	情况	c=5 d=1.31013 t=5109
+qù;ts 	去	c=9 d=0.96634 t=5109
+qù;ts chú;ey 	去除	c=4 d=1.38091 t=5109
+qún;yj yǒu;yu,uy 	群友	c=2 d=0.101774 t=5109
+qī;oq,qo mò;ad,am 	期末	c=2 d=1.42956 t=5073
+qī;oq,qo wàng;wo 	期望	c=1 d=0.680451 t=5109
+qīng;dq chǔ;mp,pl 	清楚	c=1 d=0.0695994 t=5109
+qīng;dq kōng;xg,bg 	清空	c=2 d=0.518471 t=5109
+qīng;of,fo chūn;of,fo 	青春	c=1 d=0.00213348 t=5109
+qū;aa,oa xiàn;sj jiù;wq guó;ky 	曲线救国	c=1 d=0.400517 t=5109
+qū;ki 	区	c=0 d=0.1 t=4507
+qū;ki bié;dl 	区别	c=7 d=0.796244 t=5109
+qū;ki yù;th 	区域	c=0 d=0.1 t=4534
+qǐ;zj shǒu;pa,ub 	起手	c=1 d=0.104874 t=5109
+qǐ;zj zuò;rv yòng;kf 	起作用	c=1 d=0.0193512 t=5109
+qǐng;yq 	请	c=2 d=0.579842 t=5109
+qǐng;yq nǐ;re 	请你	c=4 d=0.690594 t=5109
+qǐng;yq qiú;ad 	请求	c=3 d=0.525205 t=5109
+qǔ;ey,ye xiāo;dx 	取消	c=2 d=0.0175989 t=5109
+ràng;yu 	让	c=4 d=0.655476 t=5109
+ràng;yu wǒ;pd,pp 	让我	c=2 d=0.0411719 t=5109
+rán;hq 	然	c=2 d=0.274202 t=5109
+rán;hq hòu;pk 	然后	c=6 d=0.932394 t=5109
+rèn;rr hé;rk 	任何	c=1 d=0.04573 t=5109
+rèn;yr shi;yv 	认识	c=1 d=1 t=4477
+rén;pd 	人	c=2 d=0.0672095 t=5109
+rén;pd jī;mj 	人机	c=1 d=0.410656 t=5109
+rén;pd míng;xk 	人名	c=3 d=0.393143 t=5109
+réng;rn 	仍	c=1 d=0.0405589 t=5109
+rì;aa,or,ri cháng;jk,xd,dd 	日常	c=1 d=0.0002139 t=5109
+rì;aa,or,ri chéng;hi 	日程	c=1 d=1 t=4399
+rì;aa,or,ri qī;oq,qo 	日期	c=3 d=2.82898 t=4702
+rì;aa,or,ri zhì;ux,xu 	日志	c=1 d=0.0197421 t=5109
+róng;cm,mb yù;yx 	荣誉	c=1 d=0.00386807 t=5109
+rú;nk 	如	c=3 d=0.516492 t=5109
+rú;nk guǒ;ad,tm 	如果	c=23 d=2.30394 t=5109
+rú;nk guǒ;wy,yg 	如裹	c=1 d=0.00292342 t=5109
+rú;nk hé;rk 	如何	c=9 d=2.6792 t=5109
+rú;nk shàng;aa,ba 	如上	c=2 d=0.607095 t=5109
+rú;nk shí;bt 	如实	c=1 d=0.0248474 t=5109
+rú;nk tú;kd 	如图	c=3 d=0.378235 t=5109
+rú;nk xià;ab,ad 	如下	c=1 d=1 t=4550
+rú;zx zǐ;aa,vh niú;pa 	孺子牛	c=1 d=0.000256085 t=5109
+rǒng;bj yú;rb,rd,rh 	冗余	c=5 d=1.59146 t=5109
+shuā;dj 	刷	c=2 d=1.81423 t=5109
+shuā;dj kè;bg 	刷客	c=1 d=0.00588705 t=5109
+shuā;dj kè;yg de;bu me;ps 	刷课的么	c=1 d=0.00594622 t=5109
+shuā;dj tí;uy,yu 	刷题	c=1 d=1 t=5075
+shuā;dj tí;uy,yu kù;gi 	刷题库	c=1 d=1 t=4905
+shuā;dj xīn;jq 	刷新	c=1 d=1 t=5092
+shuāng;yy jī;aa,eu,fk 	双击	c=2 d=0.358797 t=5109
+shuāng;yy pīn;fb 	双拼	c=3 d=0.00131459 t=5109
+shuō;yd 	说	c=7 d=0.904874 t=5109
+shuō;yd de;bu 	说的	c=3 d=0.222431 t=5109
+shuō;yd de;xc 	说得	c=1 d=1 t=4588
+shuō;yd míng;oo 	说明	c=1 d=0.697676 t=5109
+shuǎng;dy 	爽	c=1 d=0.0968104 t=5109
+shuǐ;ad,uv yǒu;yu,uy sài;bb 	水友赛	c=1 d=0.923116 t=5109
+shàng;aa,ba 	上	c=11 d=0.540314 t=5109
+shàng;aa,ba chuán;rv 	上传	c=7 d=3.02315 t=5109
+shàng;aa,ba guà;fg 	上挂	c=0 d=0.1 t=4479
+shàng;aa,ba miàn;aa 	上面	c=1 d=0.00568457 t=5109
+shàng;aa,ba píng;ub 	上屏	c=8 d=0.643105 t=5109
+shàng;aa,ba pǐn;kk 	上品	c=1 d=0.144479 t=5109
+shàng;aa,ba xià;ab,ad 	上下	c=2 d=0.197089 t=5109
+shá;ku 	啥	c=10 d=0.534834 t=5109
+shá;ku yòng;kf 	啥用	c=1 d=0.00118265 t=5109
+shè;yu bèi;wt 	设备	c=1 d=0.00037447 t=5109
+shè;yu wéi;dd 	设为	c=1 d=1 t=4617
+shè;yu zhì;sv 	设置	c=2 d=0.34649 t=5109
+shè;yu zhì;sv duì;cy,yc de;bu 	设置对的	c=1 d=0.000359786 t=5109
+shè;yu zhì;sv wéi;dd 	设置为	c=1 d=1 t=4650
+shén;ru me;ps 	什么	c=24 d=2.33014 t=5109
+shén;ru me;ps qíng;xq kuàng;dx 	什么情况	c=1 d=0.955997 t=5109
+shén;ru me;ps yì;xy,lx si;tx,xt 	什么意思	c=2 d=0.390628 t=5109
+shén;uu 	神	c=1 d=1 t=4397
+shì;bv yǒu;yu,uy 	室友	c=1 d=0.0072265 t=5109
+shì;ju,uj pín;yb 	视频	c=5 d=0.190238 t=5109
+shì;op,ov 	是	c=102 d=3.83717 t=5109
+shì;op,ov ba;kb 	是吧	c=1 d=0.00143728 t=5109
+shì;op,ov de;bu 	是的	c=5 d=0.655818 t=5109
+shì;op,ov fǒu;kb 	是否	c=6 d=0.548106 t=5109
+shì;op,ov huì;ry 	是会	c=1 d=0.373439 t=5109
+shì;op,ov ma;km 	是吗	c=1 d=0.00289433 t=5109
+shì;op,ov me;ps 	是么	c=3 d=0.843364 t=5109
+shì;op,ov shá;ku 	是啥	c=4 d=0.795516 t=5109
+shì;op,ov yào;xn 	是要	c=2 d=0.860118 t=5109
+shì;op,ov yí;aa yàng;my 	是一样	c=1 d=0.000228266 t=5109
+shì;op,ov yīn;kd wèi;dd 	是因为	c=1 d=0.00477195 t=5109
+shì;op,ov yǒu;ou,uo 	是有	c=1 d=0.29523 t=5109
+shì;op,ov zhè;zw yàng;my 	是这样	c=3 d=0.233266 t=5109
+shì;op,ov zài;ta,ut 	是在	c=1 d=0.182684 t=5109
+shì;yu shì;yu 	试试	c=5 d=0.46659 t=5109
+shì;zu hé;rk 	适合	c=1 d=0.00278085 t=5109
+shì;zu hé;rk wǒ;pd,pp 	适合我	c=1 d=0.000531398 t=5109
+shì;zu pèi;yj 	适配	c=2 d=0.256183 t=5109
+shí;bt jì;eu 	实际	c=3 d=0.393583 t=5109
+shí;bt jì;eu shàng;aa,ba 	实际上	c=1 d=0.0315873 t=5109
+shí;bt xiàn;wj 	实现	c=5 d=0.580327 t=5109
+shí;oc bù;ad,ax shí;oc 	时不时	c=1 d=0.447088 t=5109
+shí;oc hou;ru 	时候	c=16 d=1.32158 t=5109
+shí;oc jiān;mo,om 	时间	c=2 d=0.000573201 t=5109
+shí;oc jiān;mo,om chuō;gd,gv 	时间戳	c=2 d=0.931729 t=5109
+shí;rl,pd táng;tk,dt,xt 	食堂	c=1 d=0.0162445 t=5109
+shí;yv bié;dl 	识别	c=5 d=0.334872 t=5109
+shù;ly wān;gy,yg gōu;jg 	竖弯钩	c=1 d=1 t=4446
+shù;wl 	数	c=2 d=0.432881 t=5109
+shù;wl jù;fj kù;gi 	数据库	c=1 d=0.000251014 t=5109
+shù;wl liàng;ol 	数量	c=1 d=0.421051 t=5109
+shù;wl zì;bz 	数字	c=13 d=1.14818 t=5109
+shùn;yi xù;gy 	顺序	c=3 d=0.0288296 t=5109
+shú;hu liàn;sd,sj 	熟练	c=0 d=0.0329559 t=5109
+shān;dc 	删	c=1 d=1 t=5051
+shān;dc chú;ey 	删除	c=2 d=1.34214 t=5109
+shān;dc chú;ey le;aa,vu 	删除了	c=1 d=0.562705 t=5109
+shān;dc diào;fv 	删掉	c=3 d=0.155276 t=5109
+shān;dc le;aa,vu 	删了	c=1 d=0.0639279 t=5109
+shēn;aa,oa qǐng;yq 	申请	c=1 d=0.000564259 t=5109
+shēng;na chéng;gg,wg 	生成	c=2 d=0.551508 t=5109
+shēng;na xiào;wj 	生效	c=5 d=0.10855 t=5109
+shī;pf xiào;wj 	失效	c=1 d=0.00362464 t=5109
+shū;ad,vd 	书	c=1 d=1 t=4439
+shū;iy chū;ck,aa 	输出	c=7 d=1.15994 t=5109
+shū;iy chū;ck,aa gé;mg shì;gy,yg 	输出格式	c=2 d=0.21689 t=5109
+shū;iy rù;pd 	输入	c=13 d=2.14122 t=5109
+shū;iy rù;pd fǎ;dq 	输入法	c=3 d=0.0395575 t=5109
+shū;iy rù;pd gé;mg shì;gy,yg 	输入格式	c=11 d=1.16676 t=5109
+shū;iy rù;pd qū;ki yù;th 	输入区域	c=1 d=1 t=4535
+shū;yu,uy fu;oy yì;aa diǎn;hv 	舒服一点	c=1 d=0.0183156 t=5109
+shǎo;xp yí;aa cì;dq 	少一次	c=1 d=0.257947 t=5109
+shǐ;pd,pt,rd 	矢	c=1 d=0.0037164 t=5109
+shǐ;rl de;xc 	使得	c=4 d=0.296905 t=5109
+shǐ;rl yòng;kf 	使用	c=14 d=0.482277 t=5109
+shǒu;pa,ub 	手	c=2 d=0.186138 t=5109
+shǒu;pa,ub dòng;ly,yl 	手动	c=2 d=0.346549 t=5109
+shǒu;pa,ub gǎn;xx 	手感	c=1 d=0.00228818 t=5109
+shǒu;pa,ub jī;mj 	手机	c=4 d=0.185444 t=5109
+shǒu;pa,ub jī;mj shàng;aa,ba 	手机上	c=1 d=0.00275318 t=5109
+shǒu;pa,ub shàng;aa,ba 	手上	c=1 d=0.612626 t=5109
+shǒu;pa,ub xīn;dd 	手心	c=2 d=0.00538387 t=5109
+shǒu;qz xuǎn;zx 	首选	c=1 d=0.0015648 t=5109
+shǒu;qz xuǎn;zx wèi;rl 	首选位	c=1 d=0.00141589 t=5109
+shǒu;qz xuǎn;zx xiàng;gy,yg 	首选项	c=1 d=0.00179994 t=5109
+shǔ;ju biāo;mu 	鼠标	c=1 d=0.0337087 t=5109
+suàn;vc 	算	c=1 d=0.000389752 t=5109
+suàn;vc le;aa,vu 	算了	c=2 d=0.0605971 t=5109
+suàn;vc shì;op,ov 	算是	c=1 d=0.0259911 t=5109
+suí;ey,ez shí;oc 	随时	c=0 d=0.00478349 t=5109
+suí;ey,ez shí;oc zhǎo;fg wǒ;pd,pp 	随时找我	c=1 d=0.0480746 t=5109
+suō;ss xiǎo;ad le;aa,vu 	缩小了	c=0 d=0.000296761 t=5109
+suǒ;hj,jh jiàn;ag,ek,ke jí;eg,ge suǒ;hj,jh dé;xc 	所见即所得	c=1 d=0.0587186 t=5109
+suǒ;hj,jh yǐ;rd,ry 	所以	c=13 d=2.14181 t=5109
+suǒ;hj,jh yǒu;ou,uo 	所有	c=6 d=0.599197 t=5109
+sān;aa jiǎo;dy xíng;pk 	三角形	c=1 d=1 t=4868
+sān;aa niú;pa 	三牛	c=1 d=0.00118857 t=5109
+sān;aa sì;aa,ke tiān;ad 	三四天	c=1 d=0.329559 t=5109
+sī;hs mì;ub,bu mǎ;aa,vh sài;bb 	私密马赛	c=1 d=0.0409665 t=5109
+sī;tx,xt wéi;sv 	思维	c=1 d=0.0015415 t=5109
+sōu;fs,fy bú;ad,ax dào;dv 	搜不到	c=2 d=0.2334 t=5109
+sōu;fs,fy gǒu;qj 	搜狗	c=2 d=0.0262867 t=5109
+sōu;fs,fy suǒ;sb,us 	搜索	c=1 d=0.00200924 t=5109
+sǎo;fx 	扫	c=1 d=0.256661 t=5109
+tiào;zv dòng;ly,yl 	跳动	c=1 d=0.00050296 t=5109
+tián;tv kòng;xg,bg 	填空	c=1 d=0.236928 t=5109
+tiáo;wm jiàn;rn 	条件	c=1 d=1 t=4988
+tiáo;yv pín;yb 	调频	c=2 d=0.441119 t=5109
+tiáo;yv zhěng;vi,vw 	调整	c=1 d=0.186374 t=5109
+tiān;ad 	天	c=0 d=0.000577048 t=5109
+tiāo;fv zhe;yo 	挑着	c=2 d=1.65959 t=5109
+tuán;kc duì;er 	团队	c=0 d=2.17133e-05 t=5109
+tuò;fu huāng;ci niú;pa 	拓荒牛	c=1 d=0.000308126 t=5109
+tuī;fv sòng;zg 	推送	c=2 d=0.285804 t=5109
+tài;dd 	太	c=6 d=0.66816 t=5109
+tài;dd bàng;mf le;aa,vu 	太棒了	c=1 d=1 t=4671
+tài;dd cháng;pd 	太长	c=1 d=0.0692522 t=5109
+tài;dd duō;xx 	太多	c=2 d=0.767352 t=5109
+tài;dd dà;ad le;aa,vu 	太大了	c=2 d=0.186705 t=5109
+tài;dd gāo;wk le;aa,vu 	太高了	c=1 d=0.0982736 t=5109
+tài;dd lì;iw hai;bk 	太厉害	c=1 d=0.010358 t=5109
+tài;dd wán;by měi;dy,yd 	太完美	c=1 d=1.09371 t=4694
+tài;dd wán;by měi;dy,yd le;aa,vu 	太完美了	c=1 d=1 t=4682
+tán;gd chuāng;xx,bx 	弹窗	c=1 d=0.0350844 t=5109
+tán;gd chū;ck,aa 	弹出	c=2 d=0.0421616 t=5109
+tán;yy tán;yy 	谈谈	c=1 d=0.172907 t=5109
+tè;ns bié;dl 	特别	c=1 d=1 t=5044
+tè;ns bié;dl chà;yg 	特别差	c=1 d=0.00231117 t=5109
+tì;of,fo huàn;fh 	替换	c=3 d=0.37783 t=5109
+tí;fu chū;ck,aa lái;am,wb 	提出来	c=1 d=0.0902655 t=5109
+tí;fu gōng;rg 	提供	c=4 d=0.136744 t=5109
+tí;fu gōng;rg yǒu;ou,uo 	提供有	c=1 d=0.202909 t=5109
+tí;fu quán;my 	提权	c=2 d=0.000674636 t=5109
+tí;fu qǔ;ey,ye 	提取	c=8 d=1.38729 t=5109
+tí;uy,yu gàn;aa 	题干	c=2 d=0.159956 t=5109
+tí;uy,yu kù;gi 	题库	c=17 d=3.26693 t=5109
+tí;uy,yu kù;gi zhōng;aa,ka 	题库中	c=2 d=0.189497 t=5109
+tí;uy,yu mù;aa,om,mu 	题目	c=9 d=1.61557 t=5109
+tí;uy,yu mù;aa,om,mu yāo;xn qiú;ad 	题目要求	c=1 d=1 t=4839
+tóng;kk 	同	c=1 d=0.000343955 t=5109
+tóng;kk bù;vx 	同步	c=10 d=0.522046 t=5109
+tóng;kk bù;vx le;aa,vu 	同步了	c=1 d=0.529935 t=5109
+tóng;kk bù;vx luó;zl jí;ie,iq 	同步逻辑	c=1 d=0.0547488 t=5109
+tóng;kk míng;xk 	同名	c=2 d=0.000474157 t=5109
+tóng;kk shí;oc 	同时	c=5 d=0.38593 t=5109
+tóng;kk wèn;km,mk 	同问	c=1 d=0.00214418 t=5109
+tóng;kk wén;wi,dd 	同文	c=2 d=0.00444161 t=5109
+tóng;kk xué;dz,zb 	同学	c=2 d=0.798708 t=5109
+tóu;dd tòng;by 	头痛	c=1 d=0.852144 t=5109
+tú;kd 	图	c=2 d=0.151306 t=5109
+tú;kd piàn;pa,pv 	图片	c=1 d=0.0424258 t=5109
+tā;bb 	它	c=7 d=1.20227 t=5109
+tā;ry bú;ad,ax shì;op,ov 	他不是	c=1 d=0.000542133 t=5109
+tā;ry men;rm 	他们	c=4 d=1.21642 t=5109
+tīng;kj guò;zc 	听过	c=1 d=1 t=4459
+tīng;kj jiàn;ag,ek,ke 	听见	c=1 d=0.895834 t=5109
+tīng;kj zhe;yo 	听着	c=1 d=0.970446 t=5109
+tōng;zy 	通	c=1 d=0.00891518 t=5109
+tōng;zy guò;zc 	通过	c=6 d=1.36811 t=5109
+tōng;zy sú;rg yì;ow dǒng;xd 	通俗易懂	c=0 d=0.1 t=4588
+tōng;zy sú;rg yì;ow dǒng;xd yī;aa diǎn;hv 	通俗易懂一点	c=1 d=1 t=4589
+tōu;ry le;aa,vu 	偷了	c=1 d=0.00200924 t=5109
+tǎo;yc lùn;yl 	讨论	c=1 d=0.183599 t=5109
+tǐng;ft 	挺	c=1 d=0.0304586 t=5109
+tǐng;ft hǎo;nz àn;oy 	挺好暗	c=1 d=0.0405589 t=5109
+tǐng;ft kuài;xd,xg 	挺快	c=1 d=0.256661 t=5109
+tǐng;ft má;gl fan;hy 	挺麻烦	c=2 d=0.0311825 t=5109
+tǐng;ft shuǎng;dy 	挺爽	c=1 d=0.0300468 t=5109
+tǐng;ft shū;yu,uy fu;oy 	挺舒服	c=0 d=0.000110269 t=5109
+tǐng;ft shū;yu,uy fu;oy de;bu 	挺舒服的	c=1 d=0.00110822 t=5109
+tǐng;ft zhèng;av cháng;jk,xd,dd 	挺正常	c=1 d=0.00319873 t=5109
+wài;xb 	外	c=1 d=0.327915 t=5109
+wài;xb háng;xd,xi rén;pd 	外行人	c=1 d=0.0152985 t=5109
+wài;xb miàn;aa 	外面	c=1 d=0.224249 t=5109
+wàn;ag,ap xiàng;du,pd,ua 	万象	c=15 d=0.432908 t=5109
+wàn;ag,ap yī;aa 	万一	c=2 d=0.003547 t=5109
+wán;by 	完	c=2 d=0.349955 t=5109
+wán;by chéng;gg,wg 	完成	c=2 d=0.344759 t=5109
+wán;by měi;dy,yd 	完美	c=3 d=0.523092 t=5109
+wán;by quán;rw 	完全	c=2 d=0.0320676 t=5109
+wán;by zhěng;vi,vw 	完整	c=6 d=1.15809 t=5109
+wán;wy 	玩	c=2 d=0.12938 t=5109
+wáng;aa hè;bj 	王贺	c=1 d=0.0471225 t=5109
+wáng;aa zhě;lo,ol 	王者	c=1 d=0.0010701 t=5109
+wèi;dd 	为	c=4 d=0.391293 t=5109
+wèi;dd le;aa,vu 	为了	c=2 d=0.38868 t=5109
+wèi;dd nín;xn fú;oy wù;wl 	为您服务	c=1 d=0.00506703 t=5109
+wèi;dd nǐ;re 	为你	c=2 d=1.16041 t=5023
+wèi;dd shén;ru me;ps 	为什么	c=5 d=2.06461 t=5109
+wèi;rl 	位	c=1 d=0.377332 t=5109
+wèi;rl zhì;sv 	位置	c=1 d=0.00122485 t=5109
+wèi;rl zhì;sv cuò;jx le;aa,vu 	位置错了	c=1 d=0.00336274 t=5109
+wèn;km,mk 	问	c=5 d=1.59074 t=5109
+wèn;km,mk tí;uy,yu 	问题	c=27 d=2.20925 t=5109
+wèn;km,mk yí;aa xià;ab,ad 	问一下	c=1 d=0.00511798 t=5109
+wéi;kv yī;aa xìng;xu 	唯一性	c=1 d=0.000254808 t=5109
+wéi;sv xiū;rp 	维修	c=1 d=0.00210172 t=5109
+wén;wi,dd 	文	c=1 d=0.00215492 t=5109
+wén;wi,dd běn;aa,ma 	文本	c=3 d=0.719405 t=5109
+wén;wi,dd jiàn;rn 	文件	c=22 d=6.28924 t=5109
+wén;wi,dd jiàn;rn guǎn;vg lǐ;wl qì;kk,qk 	文件管理器	c=1 d=0.142274 t=5109
+wén;wi,dd jiàn;rn jiā;fb,ar 	文件夹	c=6 d=0.225373 t=5109
+wù;nw dì;ty shēng;na 	物地生	c=2 d=0.0016995 t=5109
+wù;nw lǐ;wl 	物理	c=1 d=0.00146632 t=5109
+wú;ag,ay,ee fǎ;dq 	无法	c=8 d=0.488554 t=5109
+wú;ag,ay,ee fǎ;dq shū;iy rù;pd 	无法输入	c=1 d=1 t=4568
+wú;ag,ay,ee lùn;yl 	无论	c=1 d=0.0167392 t=5109
+wú;ag,ay,ee rén;pd 	无人	c=1 d=0.357007 t=5109
+wú;ag,ay,ee suǒ;hj,jh wèi;yw 	无所谓	c=1 d=0.0340475 t=5109
+wú;ag,ay,ee yí;bp 	无疑	c=1 d=0.0349094 t=5109
+wú;ag,ay,ee yòng;kf 	无用	c=2 d=0.449665 t=5109
+wān;gy,yg gōu;jg 	弯钩	c=0 d=0.1 t=4466
+wǎn;uw 	碗	c=1 d=0.0930147 t=5109
+wǎng;ki shàng;aa,ba 	网上	c=1 d=1 t=5043
+wǎng;ki yì;ow yún;es,se 	网易云	c=4 d=0.0195471 t=5109
+wǎng;ki zhǐ;tv 	网址	c=3 d=0.0292259 t=5109
+wǒ;pd,pp 	我	c=183 d=10.3706 t=5109
+wǒ;pd,pp bù;ad,ax 	我不	c=1 d=0.694211 t=5109
+wǒ;pd,pp bù;ad,ax shuā;dj kè;yg 	我不刷课	c=1 d=0.00565622 t=5109
+wǒ;pd,pp bù;ad,ax xíng;xd,xi le;aa,vu 	我不行了	c=4 d=0.0404332 t=5109
+wǒ;pd,pp bú;ad,ax huì;ry 	我不会	c=1 d=0.00282287 t=5109
+wǒ;pd,pp bú;ad,ax shì;op,ov 	我不是	c=1 d=1 t=4440
+wǒ;pd,pp běn;aa,ma lái;am,wb 	我本来	c=2 d=0.0789831 t=5109
+wǒ;pd,pp de;bu 	我的	c=4 d=0.382576 t=5109
+wǒ;pd,pp dì;vp yī;aa cì;dq 	我第一次	c=1 d=0.13466 t=5109
+wǒ;pd,pp děng;vs děng;vs 	我等等	c=1 d=0.136014 t=5109
+wǒ;pd,pp dōu;ev yòng;kf 	我都用	c=1 d=0.00048566 t=5109
+wǒ;pd,pp fā;ay,fd,vy,yd de;bu 	我发的	c=1 d=0.00582849 t=5109
+wǒ;pd,pp fā;ay,fd,vy,yd xiàn;wj 	我发现	c=5 d=1.07675 t=5109
+wǒ;pd,pp gāi;yh 	我该	c=1 d=0.031117 t=5109
+wǒ;pd,pp gāi;yh gàn;aa shén;ru me;ps 	我该干什么	c=1 d=0.0212797 t=5109
+wǒ;pd,pp gāng;dg 	我刚	c=1 d=0.878095 t=5109
+wǒ;pd,pp gǎi;wj,jw 	我改	c=1 d=0.00232276 t=5109
+wǒ;pd,pp gǎn;xx jué;dj,jb 	我感觉	c=2 d=0.00224296 t=5109
+wǒ;pd,pp hái;zb jué;dj,jb dé;xc 	我还觉得	c=1 d=0.0720784 t=5109
+wǒ;pd,pp hái;zb méi;du 	我还没	c=1 d=0.0328764 t=5109
+wǒ;pd,pp hái;zb shì;op,ov 	我还是	c=3 d=0.540646 t=5109
+wǒ;pd,pp hái;zb yǐ;rd,ry wéi;dd 	我还以为	c=2 d=0.956084 t=5109
+wǒ;pd,pp jiù;yj shuō;yd 	我就说	c=1 d=0.00032882 t=5109
+wǒ;pd,pp jiāng;dc,jc,pc 	我将	c=1 d=1 t=5022
+wǒ;pd,pp jué;dj,jb de;xc 	我觉得	c=4 d=0.104357 t=5109
+wǒ;pd,pp jì;yj dé;xc 	我记得	c=2 d=0.19692 t=5109
+wǒ;pd,pp kàn;ou,uo nǐ;re 	我看你	c=1 d=0.00540733 t=5109
+wǒ;pd,pp kào;fg,nf 	我靠	c=2 d=0.244941 t=5109
+wǒ;pd,pp lei;kl gè;ra,pa 	我嘞个	c=1 d=1 t=4437
+wǒ;pd,pp lei;kl gè;ra,pa dòu;aa,aq 	我嘞个豆	c=1 d=0.133989 t=5109
+wǒ;pd,pp lián;zi 	我连	c=1 d=0.000649052 t=5109
+wǒ;pd,pp lái;am,wb kàn;ou,uo kàn;ou,uo 	我来看看	c=1 d=0.00192082 t=5109
+wǒ;pd,pp men;rm 	我们	c=12 d=0.850613 t=5109
+wǒ;pd,pp měi;pm,rm cì;dq 	我每次	c=1 d=0.12493 t=5109
+wǒ;pd,pp nǎ;kn zhī;uk,ku dào;zu 	我哪知道	c=1 d=0.0105672 t=5109
+wǒ;pd,pp qí;ba,ad,hb shí;bt 	我其实	c=1 d=0.0536647 t=5109
+wǒ;pd,pp qù;ts 	我去	c=1 d=0.565525 t=5109
+wǒ;pd,pp shì;op,ov 	我是	c=1 d=0.0010333 t=5109
+wǒ;pd,pp shì;op,ov shuō;yd 	我是说	c=2 d=0.0407622 t=5109
+wǒ;pd,pp shì;yu shì;yu 	我试试	c=2 d=0.0327487 t=5109
+wǒ;pd,pp shòu;vy,yb bù;ad,ax liǎo;aa,vu le;aa,vu 	我受不了了	c=1 d=0.0213864 t=5109
+wǒ;pd,pp suàn;vc shì;op,ov 	我算是	c=1 d=0.818731 t=5109
+wǒ;pd,pp xiǎng;xx 	我想	c=1 d=0.0037164 t=5109
+wǒ;pd,pp xiǎng;xx qǐ;zj lái;am,wb le;aa,vu 	我想起来了	c=1 d=0.155673 t=5109
+wǒ;pd,pp xiǎo;ad xué;dz,zb 	我小学	c=1 d=1 t=4442
+wǒ;pd,pp xī;ju,ib,ij wàng;wo 	我希望	c=1 d=0.298197 t=5109
+wǒ;pd,pp xǐ;uk huān;yq 	我喜欢	c=1 d=1 t=4783
+wǒ;pd,pp yòu;vd,ad 	我又	c=5 d=1.25513 t=5109
+wǒ;pd,pp yě;gg bú;ad,ax tài;dd 	我也不太	c=1 d=0.0692522 t=5109
+wǒ;pd,pp yě;gg shì;op,ov 	我也是	c=1 d=0.000497954 t=5109
+wǒ;pd,pp yě;gg shì;yu guò;zc 	我也试过	c=1 d=0.0161635 t=5109
+wǒ;pd,pp yě;gg yǒu;ou,uo 	我也有	c=1 d=0.249075 t=5109
+wǒ;pd,pp yī;aa zhí;aa,uq 	我一直	c=1 d=0.00451658 t=5109
+wǒ;pd,pp zhè;zw 	我这	c=1 d=0.0266491 t=5109
+wǒ;pd,pp zhè;zw bú;ad,ax shì;op,ov 	我这不是	c=1 d=0.00402593 t=5109
+wǒ;pd,pp zhí;aa,uq jiē;fq 	我直接	c=1 d=1 t=4555
+wǒ;pd,pp zhī;uk,ku dào;zu 	我知道	c=2 d=0.66411 t=5109
+wǒ;pd,pp zhǐ;kb 	我只	c=1 d=0.00120654 t=5109
+wǒ;pd,pp zhǐ;kb jì;yj dé;xc 	我只记得	c=1 d=1 t=4420
+wǒ;pd,pp zài;ta,ut 	我在	c=2 d=0.242774 t=5109
+wǔ;aa bǐ;vm 	五笔	c=1 d=0.0223708 t=5109
+wǔ;aa fēn;bd,db zhōng;jv 	五分钟	c=1 d=1 t=4853
+xià;ab,ad 	下	c=6 d=1.07488 t=5109
+xià;ab,ad cì;dq 	下次	c=3 d=0.538929 t=5109
+xià;ab,ad lái;am,wb 	下来	c=3 d=1.55026 t=5109
+xià;ab,ad miàn;aa 	下面	c=5 d=0.896048 t=5109
+xià;ab,ad yí;aa gè;ra,pa 	下一个	c=1 d=0.133989 t=5109
+xià;ab,ad zài;gi,ig 	下载	c=14 d=4.03732 t=5109
+xiàn;eg zhì;dg,dv 	限制	c=1 d=0.440432 t=5109
+xiàn;wj zài;ta,ut 	现在	c=10 d=0.90228 t=5109
+xiàng;gy,yg 	项	c=1 d=0.140858 t=5109
+xiàng;gy,yg mù;aa,om,mu 	项目	c=1 d=0.0192547 t=5109
+xiàng;rx 	像	c=4 d=0.160784 t=5109
+xiào;vy 	笑	c=1 d=0.00315111 t=5109
+xiào;vy sǐ;db wǒ;pd,pp 	笑死我	c=1 d=0.535261 t=5109
+xiào;vy sǐ;db wǒ;pd,pp le;aa,vu 	笑死我了	c=3 d=1.00001 t=5109
+xiào;wj guǒ;ad,tm 	效果	c=2 d=0.574078 t=5109
+xiào;wj lǜ;wu 	效率	c=2 d=0.500653 t=5109
+xiè;ea,ev,ex zǎi;gi,ig 	卸载	c=2 d=1.61316 t=5109
+xiè;yu xie;yu 	谢谢	c=1 d=0.00125578 t=5109
+xiān;ne,en 	先	c=7 d=1.68239 t=5109
+xiān;ne,en qù;ts 	先去	c=1 d=1 t=4484
+xiāo;dx shī;pf 	消失	c=2 d=0.60405 t=5109
+xiāo;dx shī;pf dé;xc 	消失得	c=1 d=0.310367 t=5109
+xiāo;dx xi;xz,zx jì;yj lù;au,ua,vu 	消息记录	c=0 d=0.1 t=5051
+xiāo;dx xi;xz,zx jì;yj lù;au,ua,vu lǐ;aa,tt 	消息记录里	c=1 d=1 t=5052
+xiē;ec 	些	c=2 d=0.660347 t=5109
+xiě;by 	写	c=17 d=1.31293 t=5109
+xiě;by cuò;jx 	写错	c=1 d=0.00631393 t=5109
+xiě;by de;bu 	写的	c=6 d=1.18529 t=5109
+xiě;by de;bu bǐ;vm jì;yj 	写的笔记	c=1 d=0.00245409 t=5109
+xiě;by de;xc 	写得	c=2 d=0.00124104 t=5109
+xiě;by fǎ;dq 	写法	c=5 d=0.455488 t=5109
+xiě;by guò;zc 	写过	c=1 d=0.554327 t=5109
+xiě;by le;aa,vu 	写了	c=1 d=0.00400585 t=5109
+xiě;by le;aa,vu gè;ra,pa 	写了个	c=1 d=0.00740944 t=5109
+xiě;by quán;rw 	写全	c=1 d=0.00431784 t=5109
+xiě;by wán;by 	写完	c=1 d=0.0374406 t=5109
+xiě;by xiě;by xiě;by 	写写写	c=1 d=0.603506 t=5109
+xiū;rm xi;xz,zx 	休息	c=1 d=0.913931 t=5109
+xiū;rp fù;pw,rw,wo 	修复	c=11 d=1.30086 t=5109
+xiū;rp fù;pw,rw,wo bǎn;pf běn;aa,ma 	修复版本	c=1 d=1 t=4716
+xiū;rp gǎi;wj,jw 	修改	c=8 d=0.252767 t=5109
+xiǎn;oy de;xc 	显得	c=4 d=0.40657 t=5109
+xiǎn;oy shì;ex,ad 	显示	c=13 d=1.61928 t=5109
+xiǎng;xx bú;ad,ax dào;dv 	想不到	c=1 d=0.440432 t=5109
+xiǎng;xx fǎ;dq 	想法	c=1 d=0.00831245 t=5109
+xiǎng;xx qǐ;zj lái;am,wb 	想起来	c=1 d=0.379083 t=5109
+xiǎng;xx yào;xn de;bu 	想要的	c=1 d=0.00184551 t=5109
+xiǎo;ad 	小	c=1 d=0.00307331 t=5109
+xiǎo;ad hè;nv 	小鹤	c=8 d=0.946289 t=5109
+xiǎo;ad lán;cj 	小蓝	c=0 d=0.000577048 t=5109
+xiǎo;ad lán;cj tiān;ad 	小蓝天	c=1 d=0.0057994 t=5109
+xiǎo;ad māo;qm 	小猫	c=2 d=0.212256 t=5109
+xiǎo;ad qǐ;rv é;nw 	小企鹅	c=1 d=0.00279479 t=5109
+xiǎo;ad shì;aa 	小事	c=0 d=0.1 t=4490
+xiǎo;ad shì;aa xiǎo;ad shì;aa 	小事小事	c=2 d=1.12431 t=4908
+xiǎo;ad shí;oc 	小时	c=1 d=0.293758 t=5109
+xiǎo;ad zì;bz 	小字	c=0 d=0.000296761 t=5109
+xuàn;dx rǎn;mg,mj 	渲染	c=2 d=1.47686 t=5109
+xué;dz,zb de;bu 	学的	c=1 d=0.00367942 t=5109
+xué;dz,zb guò;zc 	学过	c=1 d=0.0141931 t=5109
+xué;dz,zb xí;ga tōng;zy 	学习通	c=2 d=0.75862 t=5109
+xuǎn;zx 	选	c=4 d=0.601975 t=5109
+xuǎn;zx cí;ys 	选词	c=7 d=1.3492 t=5109
+xuǎn;zx xiàng;gy,yg 	选项	c=5 d=1.46326 t=5109
+xuǎn;zx zhòng;aa,ka 	选中	c=2 d=0.068239 t=5109
+xuǎn;zx zé;ff 	选择	c=8 d=0.40599 t=5109
+xuǎn;zx zé;ff wén;wi,dd jiàn;rn 	选择文件	c=1 d=0.0190631 t=5109
+xì;ps tǒng;si 	系统	c=1 d=0.00197932 t=5109
+xí;ga guàn;xg 	习惯	c=3 d=0.0350434 t=5109
+xí;ly,yl jī;aa,eu,fk le;aa,vu 	袭击了	c=0 d=3.47412e-05 t=5109
+xí;ly,yl jī;aa,eu,fk le;aa,vu wǒ;pd,pp 	袭击了我	c=1 d=0.000349153 t=5109
+xíng;pk shì;gy,yg 	形式	c=1 d=1 t=4921
+xíng;xd,xi wéi;dd 	行为	c=1 d=0.0177743 t=5109
+xī;ju,ib,ij wàng;wo 	希望	c=8 d=0.883387 t=5109
+xīn;jq 	新	c=4 d=0.944307 t=5109
+xīn;jq bǎn;pf běn;aa,ma 	新版本	c=1 d=0.147342 t=5109
+xīn;jq de;bu 	新的	c=3 d=1.26046 t=5109
+xīn;jq gǎi;wj,jw dòng;ly,yl 	新改动	c=1 d=0.000420108 t=5109
+xīn;lu kǔ;cg 	辛苦	c=1 d=0.00117675 t=5109
+xū;ye qiú;ad 	需求	c=3 d=0.402063 t=5109
+xū;ye qiě;aa 	需且	c=1 d=0.0884781 t=5109
+xū;ye yào;xn 	需要	c=7 d=1.01261 t=5109
+xǐ;dx dí;dt jì;dq 	洗涤剂	c=1 d=0.0939495 t=5109
+xǐ;dx shù;dq,du 	洗漱	c=1 d=1 t=4485
+xǐ;uk huān;yq 	喜欢	c=4 d=0.81055 t=5109
+yuán;aw,ee sù;sf,fs 	元素	c=2 d=1.45384 t=4710
+yuán;ix 	原	c=2 d=0.0605068 t=5109
+yuán;ix běn;aa,ma 	原本	c=2 d=0.980199 t=5109
+yuán;ix běn;aa,ma shì;op,ov 	原本是	c=1 d=0.00136037 t=5109
+yuán;ix lái;am,wb 	原来	c=7 d=1.3412 t=5109
+yuán;ix lái;am,wb shì;op,ov 	原来是	c=3 d=0.902185 t=5109
+yuán;ix yīn;kd 	原因	c=2 d=0.0247235 t=5109
+yuǎn;zy chéng;hi 	远程	c=1 d=0.565525 t=5109
+yuǎn;zy duān;le 	远端	c=1 d=0.318224 t=5109
+yàng;my 	样	c=2 d=0.60052 t=5109
+yào;xn 	要	c=16 d=2.16069 t=5109
+yào;xn me;ps 	要么	c=2 d=1.57724 t=5109
+yào;xn zài;ta,ut 	要在	c=2 d=0.191094 t=5109
+yán;ap,yp gé;mg 	严格	c=3 d=1.82473 t=5026
+yán;yy miàn;aa jìn;id shī;pf 	颜面尽失	c=1 d=0.0413782 t=5109
+yè;ab miàn;aa 	页面	c=5 d=0.191072 t=5109
+yì;aa bān;vu 	一般	c=1 d=1 t=5047
+yì;aa bō;dp 	一波	c=2 d=0.431991 t=5109
+yì;aa diǎn;hv 	一点	c=1 d=0.0193512 t=5109
+yì;aa diǎn;hv diǎn;hv 	一点点	c=1 d=0.213312 t=5109
+yì;aa dī;rd tóu;dd 	一低头	c=1 d=0.0528657 t=5109
+yì;aa háng;xd,xi 	一行	c=4 d=3.49567 t=4985
+yì;aa kāi;ac shǐ;nt 	一开始	c=1 d=0.00535353 t=5109
+yì;aa mú;mm yí;aa yàng;my 	一模一样	c=2 d=0.000619413 t=5109
+yì;aa tiáo;wm xìn;ry xī;xz,zx 	一条信息	c=1 d=0.053397 t=5109
+yì;aa xiē;ec 	一些	c=2 d=0.458461 t=5109
+yì;aa zhí;aa,uq 	一直	c=11 d=0.925949 t=5109
+yì;aa zhǒng;hv 	一种	c=1 d=0.184519 t=5109
+yì;xy,lx si;tx,xt 	意思	c=4 d=0.810552 t=5109
+yìng;oy shè;cu,uc 	映射	c=2 d=0.0578586 t=5109
+yí;aa biàn;zb 	一遍	c=0 d=3.11223e-05 t=5109
+yí;aa cì;dq 	一次	c=15 d=1.60477 t=5109
+yí;aa dìng;bp 	一定	c=1 d=0.0193512 t=5109
+yí;aa gè;ra,pa 	一个	c=24 d=1.72036 t=5109
+yí;aa gè;ra,pa zì;bz 	一个字	c=1 d=0.00318278 t=5109
+yí;aa jiàn;jj 	一键	c=1 d=0.245367 t=5109
+yí;aa xià;ab,ad 	一下	c=5 d=0.0834364 t=5109
+yí;aa yàng;my 	一样	c=4 d=0.891821 t=5109
+yí;hd chū;ck,aa lái;am,wb 	移出来	c=1 d=0.0305009 t=5109
+yí;hd dòng;ly,yl 	移动	c=3 d=0.195983 t=5109
+yí;hd zhí;mv 	移植	c=2 d=0.000632779 t=5109
+yí;hd zhí;mv dào;dv 	移植到	c=1 d=0.00267181 t=5109
+yíng;my yíng;my 	盈盈	c=0 d=0.00569829 t=5109
+yòng;kf 	用	c=26 d=3.08589 t=5109
+yòng;kf bù;ad,ax liǎo;aa,vu 	用不了	c=2 d=0.00141194 t=5109
+yòng;kf bù;ad,ax míng;oo bái;pa,po 	用不明白	c=2 d=0.000578173 t=5109
+yòng;kf bú;ad,ax shàng;aa,ba 	用不上	c=1 d=0.285076 t=5109
+yòng;kf fǎ;dq 	用法	c=2 d=0.00634174 t=5109
+yòng;kf guò;zc 	用过	c=3 d=0.00321052 t=5109
+yòng;kf huí;kk 	用回	c=2 d=0.0130432 t=5109
+yòng;kf hù;dp,du 	用户	c=3 d=1.4975 t=5109
+yòng;kf shàng;aa,ba 	用上	c=1 d=0.771052 t=5109
+yòu;ku,uk biān;zl 	右边	c=1 d=0.020141 t=5109
+yòu;ry 	佑	c=1 d=0.0513033 t=5109
+yòu;vd,ad 	又	c=14 d=0.775438 t=5109
+yòu;vd,ad bú;ad,ax huì;ry 	又不会	c=1 d=0.436049 t=5109
+yòu;vd,ad děi;xc 	又得	c=1 d=0.00164503 t=5109
+yòu;vd,ad yǒu;ou,uo 	又有	c=0 d=0.000162053 t=5109
+yòu;vd,ad yǒu;ou,uo wèn;km,mk tí;uy,yu 	又有问题	c=1 d=0.00162865 t=5109
+yóu;aa,ao 	由	c=2 d=0.0738485 t=5109
+yóu;aa,ao yú;aa 	由于	c=2 d=0.65143 t=5109
+yù;hy 	煜	c=1 d=0.0066709 t=5109
+yù;zy bú;ad,ax dào;dv 	遇不到	c=1 d=0.810584 t=5109
+yù;zy dào;dv 	遇到	c=1 d=1 t=5017
+yùn;zy xíng;xd,xi 	运行	c=3 d=0.657492 t=5109
+yùn;zy yòng;kf 	运用	c=0 d=3.83949e-05 t=5109
+yùn;zy yòng;kf zài;ta,ut 	运用在	c=1 d=0.000385874 t=5109
+yā;id,it suō;ss bāo;gs 	压缩包	c=1 d=0.67368 t=5109
+yā;ky 	呀	c=10 d=1.02045 t=5109
+yě;gg 	也	c=17 d=3.19704 t=5109
+yě;gg bù;ad,ax kě;dk néng;sb 	也不可能	c=1 d=0.000238772 t=5109
+yě;gg bù;ad,ax xū;ye yào;xn 	也不需要	c=1 d=0.0773047 t=5109
+yě;gg bù;ad,ax zhī;uk,ku dào;zu 	也不知道	c=1 d=1 t=5032
+yě;gg bú;ad,ax huì;ry 	也不会	c=1 d=0.319819 t=5109
+yě;gg huì;ry 	也会	c=1 d=0.00358858 t=5109
+yě;gg jiù;yj shì;op,ov shuō;yd 	也就是说	c=1 d=0.302704 t=5109
+yě;gg kě;dk yǐ;rd,ry 	也可以	c=1 d=0.0816756 t=5109
+yě;gg méi;du 	也没	c=1 d=0.00600597 t=5109
+yě;gg méi;du yǒu;ou,uo 	也没有	c=1 d=0.000455097 t=5109
+yě;gg néng;sb 	也能	c=0 d=0.000323088 t=5109
+yě;gg shì;op,ov 	也是	c=11 d=0.411455 t=5109
+yě;gg yào;xn 	也要	c=1 d=0.103312 t=5109
+yě;gg yí;aa yàng;my 	也一样	c=1 d=1 t=4903
+yě;gg yǒu;ou,uo 	也有	c=2 d=0.0934809 t=5109
+yī;aa 	一	c=4 d=0.0648141 t=5109
+yī;ry jiù;ao 	依旧	c=3 d=0.199722 t=5109
+yīn;kd cǐ;vb 	因此	c=2 d=0.0327128 t=5109
+yīn;kd wèi;dd 	因为	c=24 d=2.83084 t=5109
+yīn;lo diào;yv 	音调	c=2 d=0.604729 t=5109
+yīn;lo jié;ce 	音节	c=2 d=0.00103426 t=5109
+yīng;ga gāi;yh 	应该	c=7 d=0.759563 t=5109
+yīng;ga gāi;yh shì;op,ov 	应该是	c=1 d=1 t=4866
+yīng;ga yuán;aw,ee 	应元	c=1 d=0.0553667 t=5109
+yōng;fy yǒu;ou,uo 	拥有	c=2 d=0.297649 t=5109
+yōu;ry huà;rb 	优化	c=3 d=0.621749 t=5109
+yōu;ry kù;yg 	优酷	c=1 d=0.0230521 t=5109
+yōu;ry měi;dy,yd 	优美	c=1 d=1 t=4850
+yǎn;og huā;ch liáo;sl,sx luàn;ug 	眼花缭乱	c=1 d=0.847894 t=5109
+yǎn;og lǐ;aa,tt 	眼里	c=1 d=0.0157644 t=5109
+yǐ;rd,ry 	以	c=1 d=1 t=4918
+yǐ;rd,ry hòu;pk 	以后	c=6 d=0.788917 t=5109
+yǐ;rd,ry jí;nd,pd 	以及	c=2 d=1.81058 t=4791
+yǐ;rd,ry qián;bd,qd 	以前	c=2 d=0.0122047 t=5109
+yǐ;rd,ry wéi;dd 	以为	c=2 d=0.0136801 t=5109
+yǐ;vg,ag jīng;sg 	已经	c=1 d=0.160414 t=5109
+yǐn;ej cáng;cg,ci 	隐藏	c=1 d=0.000553084 t=5109
+yǐn;ga dǎo;cs,sc 	引导	c=7 d=0.0438673 t=5109
+yǐn;ga dǎo;cs,sc cí;ys 	引导词	c=1 d=0.0151463 t=5109
+yǐn;ga dǎo;cs,sc jiàn;jj 	引导键	c=1 d=0.0403566 t=5109
+yǐng;pj xiǎng;kx 	影响	c=7 d=0.849093 t=5109
+yǒng;dd yuǎn;zy 	永远	c=1 d=0.0982734 t=5109
+yǒu;ou,uo 	有	c=24 d=1.59022 t=5109
+yǒu;ou,uo de;bu 	有的	c=1 d=1 t=4900
+yǒu;ou,uo diǎn;hv 	有点	c=3 d=0.40969 t=5109
+yǒu;ou,uo dà;ad lǎo;rl 	有大佬	c=1 d=0.000249762 t=5109
+yǒu;ou,uo dào;zu lǐ;wl 	有道理	c=1 d=1 t=4452
+yǒu;ou,uo gè;ra,pa 	有个	c=3 d=0.398539 t=5109
+yǒu;ou,uo le;aa,vu 	有了	c=1 d=0.236928 t=5109
+yǒu;ou,uo me;ps 	有么	c=2 d=0.00586968 t=5109
+yǒu;ou,uo méi;du yǒu;ou,uo 	有没有	c=1 d=0.000854493 t=5109
+yǒu;ou,uo rén;pd 	有人	c=1 d=0.278037 t=5109
+yǒu;ou,uo shén;ru me;ps guān;bt,qd xì;ps 	有什么关系	c=1 d=0.965605 t=5109
+yǒu;ou,uo wèn;km,mk tí;uy,yu 	有问题	c=2 d=0.0645729 t=5109
+yǒu;ou,uo xiē;ec 	有些	c=4 d=0.960789 t=5109
+yǒu;ou,uo xū;ye yào;xn 	有需要	c=1 d=0.0478349 t=5109
+yǒu;ou,uo yì;aa shuō;yd yī;aa 	有一说一	c=1 d=0.00285125 t=5109
+yǒu;ou,uo yòng;kf 	有用	c=1 d=0.000303539 t=5109
+yǔ;aa 	与	c=1 d=0.519442 t=5109
+yǔ;aa wǒ;pd,pp wú;ag,ay,ee guān;bt,qd 	与我无关	c=1 d=0.00431784 t=5109
+yǔ;yw fǎ;dq 	语法	c=6 d=0.961395 t=5109
+yǔ;yw jù;gk,kg,pk 	语句	c=1 d=0.0151463 t=5109
+yǔ;yw yán;da,dk,wk 	语言	c=1 d=0.0143357 t=5109
+zhuàng;jq,pq,qp tài;xt 	状态	c=2 d=0.0687417 t=5109
+zhuī;zv jiā;lk,kl 	追加	c=6 d=0.0466302 t=5109
+zhuī;zv suí;ey,ez 	追随	c=1 d=0.0987662 t=5109
+zhàn;bk 	占	c=2 d=0.164089 t=5109
+zhàn;bk yòng;kf 	占用	c=2 d=1.04414 t=5109
+zhè;dv jiāng;dg 	浙江	c=1 d=0.00212284 t=5109
+zhè;zw 	这	c=6 d=0.0866776 t=5109
+zhè;zw biān;zl 	这边	c=2 d=0.000829239 t=5109
+zhè;zw bù;ek,ep fèn;bd,db 	这部分	c=1 d=0.0140519 t=5109
+zhè;zw bú;ad,ax shì;op,ov 	这不是	c=2 d=0.562705 t=5109
+zhè;zw běn;aa,ma shū;ad,vd 	这本书	c=2 d=1.78881 t=5109
+zhè;zw cì;dq 	这次	c=3 d=0.0905582 t=5109
+zhè;zw ge;ra,pa 	这个	c=67 d=3.69679 t=5109
+zhè;zw ge;ra,pa yì;xy,lx si;tx,xt 	这个意思	c=1 d=0.279431 t=5109
+zhè;zw ge;ra,pa zì;bz tǐ;rb méi;du yǒu;ou,uo xiǎo;ad zì;bz zhòng;pa,ql suō;ss xiǎo;ad le;aa,vu jiù;yj huì;ry biàn;wy,yy dé;xc jù;jj chǐ;vk le;aa,vu 	这个字体没有小字重缩小了就会变得锯齿了	c=1 d=0.00298248 t=5109
+zhè;zw hái;zb shì;op,ov 	这还是	c=1 d=0.00241755 t=5109
+zhè;zw hé;hk 	这和	c=1 d=0.955997 t=5109
+zhè;zw jù;gk,kg,pk huà;yu 	这句话	c=1 d=0.0614213 t=5109
+zhè;zw liǎng;ad háng;xd,xi 	这两行	c=1 d=0.00246639 t=5109
+zhè;zw lǐ;aa,tt 	这里	c=8 d=0.403708 t=5109
+zhè;zw lǐ;aa,tt miàn;aa 	这里面	c=1 d=0.00465413 t=5109
+zhè;zw me;ps 	这么	c=7 d=0.0734516 t=5109
+zhè;zw me;ps diū;pq,ps rén;pd 	这么丢人	c=1 d=0.00366107 t=5109
+zhè;zw me;ps duō;xx 	这么多	c=1 d=0.0103063 t=5109
+zhè;zw me;ps hǎo;nz 	这么好	c=1 d=0.0502872 t=5109
+zhè;zw me;ps kāi;ac 	这么开	c=1 d=0.292293 t=5109
+zhè;zw me;ps lì;iw hai;bk 	这么厉害	c=1 d=0.146607 t=5109
+zhè;zw me;ps qiáng;gs 	这么强	c=1 d=0.049539 t=5109
+zhè;zw me;ps yòng;kf 	这么用	c=1 d=0.00465413 t=5109
+zhè;zw shì;op,ov 	这是	c=17 d=1.70116 t=5109
+zhè;zw shì;op,ov gè;ra,pa 	这是个	c=1 d=0.360595 t=5109
+zhè;zw xiē;ec 	这些	c=4 d=0.470011 t=5109
+zhè;zw yàng;my 	这样	c=32 d=2.14743 t=5109
+zhè;zw yàng;my de;bu 	这样的	c=2 d=0.0933089 t=5109
+zhè;zw yě;gg néng;sb 	这也能	c=1 d=0.000387808 t=5109
+zhè;zw zhǒng;hv 	这种	c=11 d=0.690742 t=5109
+zhè;zw zhǒng;hv dōng;ad,qx xi;aa 	这种东西	c=1 d=0.00402593 t=5109
+zhèn;yi 	震	c=1 d=0.0216013 t=5109
+zhèng;av cháng;jk,xd,dd 	正常	c=7 d=0.0818936 t=5109
+zhèng;av què;uj 	正确	c=5 d=0.727304 t=5109
+zhé;fj 	折	c=0 d=0.1 t=4466
+zhé;fj wān;gy,yg gōu;jg 	折弯钩	c=1 d=1 t=4467
+zhì;ov néng;sb 	智能	c=1 d=0.000418012 t=5109
+zhì;tv,vt shǎo;xp 	至少	c=2 d=0.00134549 t=5109
+zhí;aa,uq bō;ff jiān;mo,om 	直播间	c=1 d=0.22313 t=5109
+zhí;aa,uq dào;dv 	直到	c=3 d=0.1321 t=5109
+zhí;aa,uq guān;jy,yj 	直观	c=1 d=1.04649 t=4704
+zhí;aa,uq jiē;fq 	直接	c=6 d=0.923172 t=5109
+zhí;aa,uq jiē;fq shàng;aa,ba pǐn;kk 	直接上品	c=1 d=0.00054485 t=5109
+zhí;fw xíng;xd,xi lì;gp 	执行力	c=1 d=0.0492919 t=5109
+zhí;rv 	值	c=2 d=0.549248 t=5109
+zhí;rv shǒu;bc 	值守	c=1 d=0.358796 t=5109
+zhòng;pa,ql 	重	c=0 d=0.000296761 t=5109
+zhù;dv shì;pf,bf 	注释	c=4 d=1.47489 t=5109
+zhān;mv tiē;bv 	粘贴	c=2 d=1.83946 t=4549
+zhāng;lz jié;ce 	章节	c=4 d=0.0580446 t=5109
+zhāng;lz jié;ce cè;dz yàn;ma,mq 	章节测验	c=3 d=0.0611722 t=5109
+zhēn;ju duì;cy,yc 	针对	c=1 d=0.0103063 t=5109
+zhēn;uj 	真	c=4 d=0.483338 t=5109
+zhēn;uj de;bu 	真的	c=3 d=0.372978 t=5109
+zhěng;vi,vw 	整	c=2 d=0.453845 t=5109
+zhěng;vi,vw gè;ra,pa 	整个	c=7 d=0.38038 t=5109
+zhěng;vi,vw gè;ra,pa jù;gk,kg,pk zi;aa,vh 	整个句子	c=2 d=0.152444 t=5109
+zhěng;vi,vw lǐ;wl 	整理	c=1 d=0.00621991 t=5109
+zhī;dd qián;bd,qd 	之前	c=13 d=0.710584 t=5109
+zhī;dd qián;bd,qd yí;aa yàng;my 	之前一样	c=1 d=0.000461975 t=5109
+zhī;uk,ku dào;zu 	知道	c=6 d=1.52151 t=5109
+zhōng;aa,ka 	中	c=15 d=1.3073 t=5109
+zhōng;aa,ka wén;wi,dd 	中文	c=1 d=0.873716 t=5109
+zhōng;aa,ka xìng;xu 	中性	c=1 d=0.0065062 t=5109
+zhōu;kj,kk jùn;rj,rw 	周俊	c=1 d=0.00108086 t=5109
+zhōu;kj,kk sì;aa,ke 	周四	c=1 d=0.0128424 t=5109
+zhǎi;xv,bv 	窄	c=1 d=0.055299 t=5109
+zhǎo;fg 	找	c=1 d=0.382893 t=5109
+zhǎo;fg wǒ;pd,pp 	找我	c=0 d=0.00478349 t=5109
+zhǐ;fv dìng;bp 	指定	c=1 d=0.222017 t=5109
+zhǐ;fv dǎo;cs,sc 	指导	c=1 d=1 t=4813
+zhǐ;kb 	只	c=7 d=1.77605 t=5109
+zhǐ;kb gǎi;wj,jw 	只改	c=1 d=0.0335406 t=5109
+zhǐ;kb néng;sb 	只能	c=4 d=0.628248 t=5109
+zhǐ;kb néng;sb shuō;yd 	只能说	c=1 d=0.289384 t=5109
+zhǐ;kb shì;op,ov 	只是	c=14 d=0.475771 t=5109
+zhǐ;kb shì;zu hé;rk 	只适合	c=1 d=0.000277414 t=5109
+zhǐ;kb yǒu;ou,uo 	只有	c=11 d=1.22326 t=5109
+zhǐ;kb zuò;rg 	只做	c=1 d=1 t=5103
+zhǐ;kb àn;fa 	只按	c=1 d=0.000710174 t=5109
+zhǔ;dw dòng;ly,yl 	主动	c=1 d=0.00067217 t=5109
+zhǔ;dw tí;uy,yu 	主题	c=2 d=0.0371451 t=5109
+zhǔ;dw yào;xn 	主要	c=4 d=0.0706604 t=5109
+zuì;oq 	最	c=2 d=0.27254 t=5109
+zuì;oq dǐ;gd xià;ab,ad 	最底下	c=1 d=1 t=4873
+zuì;oq fāng;dg,wd,dp,dw biàn;rg 	最方便	c=1 d=1 t=4418
+zuì;oq hǎo;nz 	最好	c=1 d=0.00683976 t=5109
+zuì;oq xiǎo;ad 	最小	c=1 d=0.188247 t=5109
+zuì;oq xīn;jq bǎn;pf 	最新版	c=1 d=0.000323925 t=5109
+zuò;rg 	做	c=2 d=0.0462863 t=5109
+zuò;rg dào;dv 	做到	c=1 d=0.138761 t=5109
+zuò;rg guò;zc 	做过	c=2 d=1.25633 t=5109
+zuò;rg hǎo;nz 	做好	c=1 d=0.000916452 t=5109
+zuò;rg le;aa,vu 	做了	c=1 d=0.0376283 t=5109
+zuò;rg shén;ru me;ps 	做什么	c=2 d=0.282221 t=5109
+zuò;rg shén;ru me;ps de;bu 	做什么的	c=1 d=0.000248517 t=5109
+zuò;rv 	作	c=1 d=0.092089 t=5109
+zuò;rv wéi;dd 	作为	c=4 d=0.470011 t=5109
+zuò;rv yè;aa 	作业	c=15 d=0.197538 t=5109
+zuò;tc,tr,rt 	坐	c=1 d=0.0515604 t=5109
+zuó;ov tiān;ad 	昨天	c=2 d=0.153892 t=5109
+zuǒ;gu,ug biān;zl 	左边	c=2 d=0.0476991 t=5109
+zuǒ;gu,ug cè;rz 	左侧	c=1 d=1 t=4877
+zài;aa,at 	再	c=13 d=0.511577 t=5109
+zài;aa,at bāng;jb 	再帮	c=1 d=1 t=4487
+zài;aa,at qù;ts 	再去	c=2 d=0.0942454 t=5109
+zài;aa,at shuō;yd 	再说	c=1 d=1 t=4593
+zài;aa,at shì;yu shì;yu 	再试试	c=1 d=0.00344786 t=5109
+zài;ta,ut 	在	c=32 d=2.32364 t=5109
+zài;ta,ut shuō;yd shén;ru me;ps 	在说什么	c=1 d=0.00794669 t=5109
+zào;zg cí;ys 	造词	c=1 d=0.00259284 t=5109
+zé;bd,db 	则	c=2 d=0.718924 t=5109
+zì;bz 	字	c=3 d=0.0267434 t=5109
+zì;bz mǔ;ad,vd 	字母	c=8 d=1.18691 t=5109
+zì;bz tǐ;rb 	字体	c=1 d=0.00277551 t=5109
+zì;pa,po dài;jb 	自带	c=1 d=0.895834 t=5109
+zì;pa,po dìng;bp yì;di,id 	自定义	c=0 d=0.0481909 t=5109
+zì;pa,po dìng;bp yì;di,id cí;ys kù;gi 	自定义词库	c=1 d=0.484325 t=5109
+zì;pa,po dòng;ly,yl 	自动	c=7 d=1.39957 t=5109
+zì;pa,po dòng;ly,yl gēng;ad,ag xīn;jq 	自动更新	c=1 d=0.240508 t=5109
+zì;pa,po jǐ;ag,vg 	自己	c=15 d=1.27268 t=5109
+zì;pa,po rán;hq 	自然	c=2 d=1.96561 t=4408
+zì;pa,po rán;hq mǎ;um 	自然码	c=3 d=0.442416 t=5109
+zì;pa,po yòng;kf 	自用	c=2 d=0.0314298 t=5109
+zāo;zc 	遭	c=1 d=0.170333 t=5109
+zěn;xv me;ps 	怎么	c=18 d=1.10105 t=5109
+zěn;xv me;ps gè;ra,pa 	怎么个	c=1 d=0.00509243 t=5109
+zěn;xv me;ps huí;kk shì;aa 	怎么回事	c=1 d=0.00334597 t=5109
+zěn;xv me;ps le;aa,vu 	怎么了	c=3 d=0.951229 t=5109
+zěn;xv me;ps xiě;by 	怎么写	c=1 d=0.0387742 t=5109
+zěn;xv me;ps yòng;kf 	怎么用	c=1 d=0.000422213 t=5109
+zī;bc yuán;dy guǎn;vg lǐ;wl qì;kk,qk 	资源管理器	c=1 d=0.00196945 t=5109
+zī;jc ma;km 	鈭吗	c=1 d=0.336216 t=5109
+zūn;cq,qc 	尊	c=1 d=0.0507928 t=5109
+zūn;zz xún;xd 	遵循	c=2 d=1.0059 t=5109
+zǒng;bx,xk shì;op,ov 	总是	c=3 d=2.68957 t=4794
+ài;vy 	爱	c=1 d=1 t=5037
+àn;fa 	按	c=14 d=1.37218 t=5109
+àn;fa bú;ad,ax dào;dv 	按不到	c=1 d=0.000696112 t=5109
+àn;fa jiàn;jj 	按键	c=3 d=0.118284 t=5109
+àn;fa zhào;hv 	按照	c=5 d=1.20857 t=5109
+áng;oe 	昂	c=1 d=0.0047009 t=5109
+èr;aa hé;dk 	二河	c=1 d=0.00364281 t=5109
+èr;aa zhě;lo,ol 	二者	c=1 d=0.474734 t=5109
+é;yk 	额	c=1 d=0.0247235 t=5109
+éi;yu,yy 	诶	c=9 d=0.65788 t=5109
+ér;aa 	而	c=6 d=0.413429 t=5109
+ér;aa qiě;aa 	而且	c=4 d=0.665396 t=5109
+ér;aa shì;op,ov 	而是	c=1 d=0.136014 t=5109
+ó;kw 	哦	c=13 d=1.26146 t=5109
+ó;kw duì;cy,yc duì;cy,yc duì;cy,yc de;bu 	哦对对对的	c=1 d=1 t=4463
+ó;kw ó;kw 	哦哦	c=6 d=0.421789 t=5109
+ó;kw ó;kw ó;kw 	哦哦哦	c=3 d=1.316 t=5109
+ā;ek lǐ;aa,tt 	阿里	c=3 d=0.0793878 t=5109
+ā;ek lǐ;aa,tt bǎo;rd biāo;jp 	阿里保镖	c=1 d=0.0227089 t=5109
+ōu;qq bǎn;pf 	欧版	c=3 d=0.0779759 t=5109
+ōu;qq bǎn;pf jiàn;jj pán;mv,vm 	欧版键盘	c=1 d=0.0219278 t=5109
+ǒu;ry ěr;dx,xd 	偶尔	c=0 d=0.000323088 t=5109
+ǒu;ry ěr;dx,xd dǎ;fd 	偶尔打	c=0 d=0.000219846 t=5109
+ǒu;ry ěr;dx,xd dǎ;fd dǎ;fd 	偶尔打打	c=1 d=0.00220948 t=5109
+ǒu;ry ěr;dx,xd yě;gg néng;sb 	偶尔也能	c=1 d=0.00324708 t=5109
+ǹ;ke 	嗯	c=1 d=0.00470091 t=5109

@@ -2,109 +2,115 @@
 #@/db_name	zc
 #@/db_type	userdb
 #@/rime_version	1.13.1
-#@/tick	81
+#@/tick	87
 #@/user_id	arsiendle_pc
-bái;pa,po xiě;by 	白写	c=1 d=0.900324 t=81
-bù;ad,ax 	不	c=0 d=0.190246 t=81
-bù;ad,ax méi;du yòng;kf 	不没用	c=2 d=1.90722 t=81
-bù;ad,ax tóng;kk míng;xk 	不同名	c=1 d=1 t=76
-bú;ad,ax xiàng;rx běn;aa,ma rén;pd 	不像本人	c=1 d=1 t=79
-chén;ed jiā;rg yù;ad,wd 	陈佳玉	c=3 d=2.87642 t=81
-chén;ed yàn;dp,ip,wp yún;es,se 	陈彦云	c=1 d=0.802519 t=81
-chéng;hi yà;ay jī;tq,qt 	程亚基	c=1 d=0.722527 t=81
-chóng;pa,ql qǐ;hk,kh zī;bc yuán;dy guǎn;vg lǐ;wl qì;kk,qk 	重启资源管理器	c=1 d=0.927743 t=81
-chū;ck,aa lái;am,wb 	出来	c=0 d=0.199002 t=81
-cài;cj jiā;rg xīn;dd 	蔡佳心	c=1 d=0.718924 t=81
-cè;dz fǎ;dq 	测法	c=1 d=1 t=80
-cǐ;vb ān;bn zhuāng;yv bāo;gs wú;ag,ay,ee fǎ;dq ān;bn zhuāng;yv 	此安装包无法安装	c=1 d=0.839457 t=81
-duàn;ja,jm,jv yè;ab huàn;fh háng;xd,xi 	断页换行	c=1 d=0.856415 t=81
-dìng;bp zì;bz 	定字	c=1 d=0.975309 t=81
-dǎ;fd huí;kk lái;am,wb le;aa,vu 	打回来了	c=1 d=0.895834 t=81
-dǎ;fd miē;ky 	打咩	c=1 d=0.755784 t=81
-dǒng;xd la;kl 	懂啦	c=1 d=1 t=81
-fā;ay,fd,vy,yd duō;xx 	发多	c=1 d=0.937067 t=81
-guān;bg,bk wǎng;ki xià;ab,ad 	官网下	c=1 d=0.83527 t=81
-guǒ;ad,tm miē;ky 	果咩	c=1 d=0.95123 t=81
-gài;my,ym kě;dk 	盖可	c=1 d=0.865022 t=81
-gèng;ad,ag gāo;wk bǎn;pf běn;aa,ma 	更高版本	c=3 d=2.49333 t=81
-gù;wg shì;aa kāi;ac shǐ;nt lo;kg 	故事开始咯	c=1 d=0.865022 t=81
-gē;nh wǒ;pd,pp duō;xx jiǔ;pd,dd le;aa,vu 	鸽我多久了	c=1 d=0.88692 t=81
-gǎi;wj,jw jù;gk,kg,pk zi;aa,vh 	改句子	c=1 d=0.918512 t=81
-huàn;kh líng;hx,xh shī;ab,aj,db,dj 	唤灵师	c=1 d=0.847893 t=81
-huī;xh fù;pw,rw,wo ma;km 	恢复吗	c=1 d=0.76338 t=81
-hái;zb shǔ;uy yīn;lo jié;ce ne;kn 	还属音节呢	c=1 d=0.955998 t=81
-hé;mh hé;mh hé;mh hé;mh hé;mh hé;mh hé;mh 	盒盒盒盒盒盒盒	c=1 d=0.904837 t=81
-jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql 	间接辅助	c=0 d=0.2 t=78
-jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql mǎ;um 	间接辅助码	c=2 d=1.99501 t=79
-jiù;ao duì;cy,yc huà;yu kuàng;mk 	旧对话框	c=1 d=0.767206 t=81
-jiù;wq le;aa,vu qǐ;zj lái;am,wb 	救了起来	c=1 d=0.873716 t=81
-jiāo;li,wf,df bǎn;pf fèi;bf,fb le;aa,vu méi;du yǒu;ou,uo 	交版费了没有	c=1 d=0.909372 t=81
-jiǎn;fq,fa jiǎn;fq,fa lòu;dl,dy 	捡捡漏	c=1 d=0.814647 t=81
-jù;gk,kg,pk zi;aa,vh lǐ;aa,tt 	句子里	c=1 d=0.923117 t=81
-jǔ;df,xf bào;fy qū;ki jǔ;df,xf bào;fy tā;ry rén;pd wéi;zw guī;fj,jf xíng;xd,xi wéi;dd jìn;zj xíng;xd,xi xiāo;dx jiǎn;dx 	举报区举报他人违规行为进行消减	c=1 d=0.759572 t=81
-kàng;fk shì;aa ér;pg 	抗事儿	c=1 d=0.904837 t=81
-liàn;jl jiē;fq bù;ad,ax lán;cj 	链接不蓝	c=1 d=0.913931 t=81
-liú;dw,wd guó;ky qīn;jq 	刘国钦	c=1 d=0.729789 t=81
-liǎn;oa,oq sè;db biàn;wy,yy 	脸色变	c=1 d=0.774917 t=81
-luó;zl jí;ie,iq māo;qm 	逻辑猫	c=1 d=0.826959 t=81
-lín;mm yì;zt 	林逸	c=1 d=0.843665 t=81
-lǎn;xl de;xc pái;ff 	懒得排	c=1 d=0.771052 t=81
-mài;fw lǐ;aa,tt 	麦里	c=1 d=1 t=81
-méi;du yòng;kf 	没用	c=0 d=0.190246 t=81
-mó;gm,mg rán;hq mǎ;um 	魔然码	c=1 d=0.980199 t=81
-mǎ;um 	码	c=0 d=0.2 t=78
-nuó;fn jìn;zj qù;ts 	挪进去	c=1 d=0.995012 t=81
-nà;el zhè;zw me;ps kàn;ou,uo lái;am,wb 	那这么看来	c=1 d=0.946485 t=81
-nǎ;kn ge;ra,pa shì;op,ov a;ka 	哪个是啊	c=1 d=0.946485 t=81
-nǎ;kn ge;ra,pa xuǎn;zx zé;ff gèng;ad,ag hǎo;nz 	哪个选择更好	c=1 d=0.771052 t=81
-nǎ;kn yǒu;ou,uo ruì;we xìng;tu,ty 	哪有瑞幸	c=1 d=0.831105 t=81
-nǐ;re hé;hk tā;ry de;bu wǒ;pd,pp hái;zb méi;du kàn;ou,uo 	你和他的我还没看	c=1 d=0.852144 t=81
-pā;zb ba;kb 	趴吧	c=3 d=2.701 t=81
-qiū;eq xīn;jj píng;cp 	邱鑫萍	c=1 d=0.752014 t=81
-qiū;eq yà;ny tíng;nt 	邱娅婷	c=3 d=2.13532 t=81
-shuí;yv yě;gg méi;du xiǎng;xx dào;dv de;bu shì;op,ov 	谁也没想到的是	c=1 d=0.869358 t=81
-shén;uu jīn;ra,pa 	神金	c=1 d=0.900324 t=81
-shēn;pp hòu;pk gǔ;vd,uv zhǎng;uk,xu,du 	身后鼓掌	c=1 d=0.79057 t=81
-shēng;na 	生	c=0 d=0.189297 t=81
-shǒu;pa,ub bèi;ob gǔ;vd,uv zhǎng;uk,xu,du 	手背鼓掌	c=1 d=0.782704 t=81
-shǒu;pa,ub bèi;ob lán;fl chē;aa 	手背拦车	c=1 d=0.778801 t=81
-shǒu;qz xuǎn;zx wèi;rl 	首选位	c=1 d=1 t=77
-shǒu;qz yòu;ku,uk 	首右	c=1 d=0.909372 t=81
-sǐ;db ma;km 	死吗	c=1 d=0.822835 t=81
-tù;dd zi;aa,vh tāng;dy 	兔子汤	c=1 d=0.882497 t=81
-wài;xb chū;ck,aa zhě;lo,ol 	外出者	c=1 d=0.878095 t=81
-wáng;aa gē;kd,kk,dk lái;am,wb le;aa,vu 	王哥来了	c=1 d=0.904837 t=81
-wáng;aa hè;bj 	王贺	c=1 d=0.970446 t=81
-wèi;gw zǐ;aa,vh háo;ub,wu 	魏子豪	c=7 d=5.3481 t=81
-wú;ag,ay,ee dí;wu,uw 	无敌	c=0 d=0.189297 t=81
-wú;ag,ay,ee dí;wu,uw shēng;na 	无敌生	c=2 d=1.89771 t=81
-wěi;rw rén;pd 	伪人	c=1 d=0.818731 t=81
-wǎ;ad shǒu;pa,ub 	瓦手	c=3 d=2.701 t=81
-wǒ;pd,pp bù;ad,ax shuā;dj kè;yg 	我不刷课	c=1 d=1 t=80
-xiàng;rx wǒ;pd,pp zhè;zw zhǒng;hv rén;pd 	像我这种人	c=1 d=0.806542 t=81
-xiǎo;ad hè;nv fāng;dg,wd,dp,dw àn;bm,ma 	小鹤方案	c=1 d=0.941764 t=81
-xiǎo;ld hè;dn fǔ;if zhù;ql mǎ;um 	小鹤辅助码	c=3 d=2.08261 t=81
-xiǎo;ld hè;dn zuò;rv zhě;lo 	小鹤作者	c=1 d=0.697676 t=81
-xǐ;dx tā;ry nǎo;ox 	洗他脑	c=1 d=0.778801 t=81
-yuǎn;zy chéng;hi cāo;fz kòng;fk 	远程操控	c=1 d=0.860708 t=81
-yàn;dp,ip,wp yún;es,se 	彦云	c=1 d=0.932393 t=81
-yán;ap,yp jìng;qv 	严静	c=1 d=0.740818 t=81
-yì;aa qī;oq,qo ma;km 	一期吗	c=1 d=0.774917 t=81
-yòu;vd,ad bù;ad,ax huí;kk wǒ;pd,pp 	又不回我	c=1 d=0.798516 t=81
-yě;gg wán;wy 	也玩	c=1 d=0.909372 t=81
-yǒu;ou,uo hé;hk shuí;yv 	有和谁	c=1 d=0.810584 t=81
-yǒu;uo nǎ;ke ge;rl dì;ty fāng;dw 	有哪个地方	c=1 d=0.701173 t=81
-zhuī;zv shū;ad,vd rén;pd 	追书人	c=1 d=0.774917 t=81
-zhuǎn;iv gè;ra,pa yì;aa bǎi;ab bā;pd shí;aa dù;gy 	转个一百八十度	c=1 d=0.794533 t=81
-zhè;zw ge;ra,pa zì;bz tǐ;rb méi;du yǒu;ou,uo xiǎo;ad zì;bz zhòng;pa,ql suō;ss xiǎo;ad le;aa,vu jiù;yj huì;ry biàn;wy,yy dé;xc jù;jj chǐ;vk le;aa,vu 	这个字体没有小字重缩小了就会变得锯齿了	c=1 d=0.96079 t=81
-zhì;ov néng;sb kāi;ac huǒ;dd 	智能开火	c=1 d=0.895834 t=81
-zhāng;gi jiā;rg xīn;qj,jq 	张佳欣	c=1 d=0.737123 t=81
-zhāng;gi tǐng;ft 	张挺	c=1 d=0.733447 t=81
-zhāng;gi yǔ;ad xīn;qj,jq 	张雨欣	c=7 d=6.60082 t=81
-zhǐ;kb kàn;ou,uo 	只看	c=0 d=0.199002 t=81
-zhǐ;kb kàn;ou,uo chū;ck,aa lái;am,wb 	只看出来	c=2 d=1.99501 t=81
-zài;ta,ut tóu;fu sù;yi 	在投诉	c=1 d=0.755784 t=81
-zào;zg de;bu gěng;mg 	造的梗	c=1 d=0.900324 t=81
-zěn;xv me;ps huí;kk dá;vh nǐ;re 	怎么回答你	c=1 d=0.786628 t=81
-ā;ek lǐ;aa,tt bǎo;rd biāo;jp 	阿里保镖	c=1 d=0.965605 t=81
-ǹ;ke ne;kn 	嗯呢	c=11 d=9.76399 t=81
+bái;pa,po xiě;by 	白写	c=1 d=0.900324 t=87
+bù;ad,ax 	不	c=0 d=0.190246 t=87
+bù;ad,ax méi;du yòng;kf 	不没用	c=2 d=1.90722 t=87
+bù;ad,ax tóng;kk míng;xk 	不同名	c=1 d=0.97531 t=87
+bú;ad,ax xiàng;rx běn;aa,ma rén;pd 	不像本人	c=1 d=0.99005 t=87
+bāo;gs de;bu 	包的	c=1 d=1 t=82
+chén;ed jiā;rg yù;ad,wd 	陈佳玉	c=3 d=2.87642 t=87
+chén;ed yàn;dp,ip,wp yún;es,se 	陈彦云	c=1 d=0.802519 t=87
+chéng;hi yà;ay jī;tq,qt 	程亚基	c=1 d=0.722527 t=87
+chóng;pa,ql qǐ;hk,kh zī;bc yuán;dy guǎn;vg lǐ;wl qì;kk,qk 	重启资源管理器	c=1 d=0.927743 t=87
+chū;ck,aa lái;am,wb 	出来	c=0 d=0.199002 t=87
+cài;cj jiā;rg xīn;dd 	蔡佳心	c=1 d=0.718924 t=87
+cè;dz fǎ;dq 	测法	c=1 d=0.995012 t=87
+cǐ;vb ān;bn zhuāng;yv bāo;gs wú;ag,ay,ee fǎ;dq ān;bn zhuāng;yv 	此安装包无法安装	c=1 d=0.839457 t=87
+diǎn;hv zhé;fj 	点折	c=1 d=1 t=83
+duàn;ja,jm,jv yè;ab huàn;fh háng;xd,xi 	断页换行	c=1 d=0.856415 t=87
+dá;vh àn;bm,ma qū;ki 	答案区	c=1 d=1 t=85
+dìng;bp zì;bz 	定字	c=1 d=0.975309 t=87
+dǎ;fd huí;kk lái;am,wb le;aa,vu 	打回来了	c=1 d=0.895834 t=87
+dǎ;fd miē;ky 	打咩	c=1 d=0.755784 t=87
+dǒng;xd la;kl 	懂啦	c=1 d=1 t=87
+fā;ay,fd,vy,yd duō;xx 	发多	c=1 d=0.937067 t=87
+fā;ay,fd,vy,yd la;kl 	发啦	c=1 d=1 t=86
+guān;bg,bk wǎng;ki xià;ab,ad 	官网下	c=1 d=0.83527 t=87
+guǒ;ad,tm miē;ky 	果咩	c=1 d=0.95123 t=87
+gài;my,ym kě;dk 	盖可	c=1 d=0.865022 t=87
+gèng;ad,ag gāo;wk bǎn;pf běn;aa,ma 	更高版本	c=3 d=2.49333 t=87
+gù;wg shì;aa kāi;ac shǐ;nt lo;kg 	故事开始咯	c=1 d=0.865022 t=87
+gē;nh wǒ;pd,pp duō;xx jiǔ;pd,dd le;aa,vu 	鸽我多久了	c=1 d=0.88692 t=87
+gǎi;wj,jw jù;gk,kg,pk zi;aa,vh 	改句子	c=1 d=0.918512 t=87
+huàn;kh líng;hx,xh shī;ab,aj,db,dj 	唤灵师	c=1 d=0.847893 t=87
+huī;xh fù;pw,rw,wo ma;km 	恢复吗	c=1 d=0.76338 t=87
+hái;zb shǔ;uy yīn;lo jié;ce ne;kn 	还属音节呢	c=1 d=0.955998 t=87
+hé;mh hé;mh hé;mh hé;mh hé;mh hé;mh hé;mh 	盒盒盒盒盒盒盒	c=1 d=0.904837 t=87
+jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql 	间接辅助	c=0 d=0.197022 t=87
+jiàn;mo,om jiē;fq fǔ;if zhù;lq,ql mǎ;um 	间接辅助码	c=2 d=1.97516 t=87
+jiù;ao duì;cy,yc huà;yu kuàng;mk 	旧对话框	c=1 d=0.767206 t=87
+jiù;wq le;aa,vu qǐ;zj lái;am,wb 	救了起来	c=1 d=0.873716 t=87
+jiāo;li,wf,df bǎn;pf fèi;bf,fb le;aa,vu méi;du yǒu;ou,uo 	交版费了没有	c=1 d=0.909372 t=87
+jiǎn;fq,fa jiǎn;fq,fa lòu;dl,dy 	捡捡漏	c=1 d=0.814647 t=87
+jù;gk,kg,pk zi;aa,vh lǐ;aa,tt 	句子里	c=1 d=0.923117 t=87
+jǔ;df,xf bào;fy qū;ki jǔ;df,xf bào;fy tā;ry rén;pd wéi;zw guī;fj,jf xíng;xd,xi wéi;dd jìn;zj xíng;xd,xi xiāo;dx jiǎn;dx 	举报区举报他人违规行为进行消减	c=1 d=0.759572 t=87
+kàng;fk shì;aa ér;pg 	抗事儿	c=1 d=0.904837 t=87
+liàn;jl jiē;fq bù;ad,ax lán;cj 	链接不蓝	c=1 d=0.913931 t=87
+liú;dw,wd guó;ky qīn;jq 	刘国钦	c=1 d=0.729789 t=87
+liǎn;oa,oq sè;db biàn;wy,yy 	脸色变	c=1 d=0.774917 t=87
+luó;zl jí;ie,iq māo;qm 	逻辑猫	c=1 d=0.826959 t=87
+lín;mm yì;zt 	林逸	c=1 d=0.843665 t=87
+lǎn;xl de;xc pái;ff 	懒得排	c=1 d=0.771052 t=87
+mài;fw lǐ;aa,tt 	麦里	c=1 d=1 t=87
+méi;du yòng;kf 	没用	c=0 d=0.190246 t=87
+mó;gm,mg rán;hq mǎ;um 	魔然码	c=1 d=0.980199 t=87
+mǎ;um 	码	c=0 d=0.197022 t=87
+nuó;fn jìn;zj qù;ts 	挪进去	c=1 d=0.995012 t=87
+nà;el zhè;zw me;ps kàn;ou,uo lái;am,wb 	那这么看来	c=1 d=0.946485 t=87
+nǎ;kn ge;ra,pa shì;op,ov a;ka 	哪个是啊	c=1 d=0.946485 t=87
+nǎ;kn ge;ra,pa xuǎn;zx zé;ff gèng;ad,ag hǎo;nz 	哪个选择更好	c=1 d=0.771052 t=87
+nǎ;kn yǒu;ou,uo ruì;we xìng;tu,ty 	哪有瑞幸	c=1 d=0.831105 t=87
+nǐ;re hé;hk tā;ry de;bu wǒ;pd,pp hái;zb méi;du kàn;ou,uo 	你和他的我还没看	c=1 d=0.852144 t=87
+pā;zb ba;kb 	趴吧	c=3 d=2.701 t=87
+qiū;eq xīn;jj píng;cp 	邱鑫萍	c=1 d=0.752014 t=87
+qiū;eq yà;ny tíng;nt 	邱娅婷	c=3 d=2.13532 t=87
+shuí;yv yě;gg méi;du xiǎng;xx dào;dv de;bu shì;op,ov 	谁也没想到的是	c=1 d=0.869358 t=87
+shén;uu jīn;ra,pa 	神金	c=1 d=0.900324 t=87
+shēn;pp hòu;pk gǔ;vd,uv zhǎng;uk,xu,du 	身后鼓掌	c=1 d=0.79057 t=87
+shēng;na 	生	c=0 d=0.189297 t=87
+shǒu;pa,ub bèi;ob gǔ;vd,uv zhǎng;uk,xu,du 	手背鼓掌	c=1 d=0.782704 t=87
+shǒu;pa,ub bèi;ob lán;fl chē;aa 	手背拦车	c=1 d=0.778801 t=87
+shǒu;qz xuǎn;zx wèi;rl 	首选位	c=1 d=0.980199 t=87
+shǒu;qz yòu;ku,uk 	首右	c=1 d=0.909372 t=87
+sǐ;db ma;km 	死吗	c=1 d=0.822835 t=87
+tù;dd zi;aa,vh tāng;dy 	兔子汤	c=1 d=0.882497 t=87
+wài;xb chū;ck,aa zhě;lo,ol 	外出者	c=1 d=0.878095 t=87
+wáng;aa gē;kd,kk,dk lái;am,wb le;aa,vu 	王哥来了	c=1 d=0.904837 t=87
+wáng;aa hè;bj 	王贺	c=1 d=0.970446 t=87
+wèi;gw zǐ;aa,vh háo;ub,wu 	魏子豪	c=7 d=5.3481 t=87
+wú;ag,ay,ee dí;wu,uw 	无敌	c=0 d=0.189297 t=87
+wú;ag,ay,ee dí;wu,uw shēng;na 	无敌生	c=2 d=1.89771 t=87
+wěi;rw rén;pd 	伪人	c=3 d=2.77169 t=87
+wǎ;ad shǒu;pa,ub 	瓦手	c=3 d=2.701 t=87
+wǒ;pd,pp bù;ad,ax shuā;dj kè;yg 	我不刷课	c=1 d=0.995012 t=87
+xiàng;rx wǒ;pd,pp zhè;zw zhǒng;hv rén;pd 	像我这种人	c=1 d=0.806542 t=87
+xiǎo;ad hè;nv fāng;dg,wd,dp,dw àn;bm,ma 	小鹤方案	c=1 d=0.941764 t=87
+xiǎo;ad shì;aa xiǎo;ad shì;aa 	小事小事	c=1 d=1 t=85
+xiǎo;ld hè;dn fǔ;if zhù;ql mǎ;um 	小鹤辅助码	c=3 d=2.08261 t=87
+xiǎo;ld hè;dn zuò;rv zhě;lo 	小鹤作者	c=1 d=0.697676 t=87
+xǐ;dx tā;ry nǎo;ox 	洗他脑	c=1 d=0.778801 t=87
+yuǎn;zy chéng;hi cāo;fz kòng;fk 	远程操控	c=1 d=0.860708 t=87
+yàn;dp,ip,wp yún;es,se 	彦云	c=1 d=0.932393 t=87
+yán;ap,yp jìng;qv 	严静	c=1 d=0.740818 t=87
+yì;aa qī;oq,qo ma;km 	一期吗	c=1 d=0.774917 t=87
+yòu;vd,ad bù;ad,ax huí;kk wǒ;pd,pp 	又不回我	c=1 d=0.798516 t=87
+yě;gg wán;wy 	也玩	c=1 d=0.909372 t=87
+yǒu;ou,uo hé;hk shuí;yv 	有和谁	c=1 d=0.810584 t=87
+yǒu;uo nǎ;ke ge;rl dì;ty fāng;dw 	有哪个地方	c=1 d=0.701173 t=87
+zhuī;zv shū;ad,vd rén;pd 	追书人	c=1 d=0.774917 t=87
+zhuǎn;iv gè;ra,pa yì;aa bǎi;ab bā;pd shí;aa dù;gy 	转个一百八十度	c=1 d=0.794533 t=87
+zhè;zw ge;ra,pa zì;bz tǐ;rb méi;du yǒu;ou,uo xiǎo;ad zì;bz zhòng;pa,ql suō;ss xiǎo;ad le;aa,vu jiù;yj huì;ry biàn;wy,yy dé;xc jù;jj chǐ;vk le;aa,vu 	这个字体没有小字重缩小了就会变得锯齿了	c=1 d=0.96079 t=87
+zhé;fj wān;gy,yg gōu;jg 	折弯钩	c=1 d=1 t=84
+zhì;ov néng;sb kāi;ac huǒ;dd 	智能开火	c=1 d=0.895834 t=87
+zhāng;gi jiā;rg xīn;qj,jq 	张佳欣	c=1 d=0.737123 t=87
+zhāng;gi tǐng;ft 	张挺	c=1 d=0.733447 t=87
+zhāng;gi yǔ;ad xīn;qj,jq 	张雨欣	c=7 d=6.60082 t=87
+zhǐ;kb kàn;ou,uo 	只看	c=0 d=0.199002 t=87
+zhǐ;kb kàn;ou,uo chū;ck,aa lái;am,wb 	只看出来	c=2 d=1.99501 t=87
+zài;ta,ut tóu;fu sù;yi 	在投诉	c=1 d=0.755784 t=87
+zào;zg de;bu gěng;mg 	造的梗	c=1 d=0.900324 t=87
+zěn;xv me;ps huí;kk dá;vh nǐ;re 	怎么回答你	c=1 d=0.786628 t=87
+ā;ek lǐ;aa,tt bǎo;rd biāo;jp 	阿里保镖	c=1 d=0.965605 t=87
+ǹ;ke ne;kn 	嗯呢	c=17 d=15.2135 t=87
