@@ -1,0 +1,16 @@
+patch:
+  switches:
+    - options: [_key_cut]
+      states: ["  \ue007  "]
+    - options: [_key_copy]
+      states: ["   \ue008  "]
+    - options: [_key_paste]
+      states: ["   \ue017  "]
+    - options: [_keyboard_editor]
+      states: ["   \ue010  "]
+    - options: [_keyboard_emoji]
+      states: ["   \ue009  "]
+    - name: full_shape
+      states: ["   \ue006  ", "   \ue005  "]
+    - options: [_key_Hide]
+      states: ["   \ue026"]

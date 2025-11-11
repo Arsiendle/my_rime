@@ -1,0 +1,9 @@
+customization:
+  distribution_code_name: trime
+  distribution_version: "v3.3.7-0-gac13dd47"
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Nov  9 00:44:46 2025"
+  rime_version: 1.14.0
+patch:
+  schema_list:
+    - {schema: wanxiang_pro}

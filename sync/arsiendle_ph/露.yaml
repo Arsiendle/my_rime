@@ -1,0 +1,220 @@
+# Trime default style settings
+# encoding: utf-8
+
+0-9:
+  key_back_color: 0-9
+  hilited_key_back_color: 0-9选中
+a-z:
+  key_back_color: a-z
+  hilited_key_back_color: a-z选中
+A-Z:
+  key_back_color: A-Z
+  hilited_key_back_color: A-Z选中
+F:
+  key_back_color: F
+  hilited_key_back_color: F选中
+G:
+  key_back_color: G
+  hilited_key_back_color: G选中
+H:
+  key_back_color: H
+  hilited_key_back_color: H选中
+数字中英:
+  key_back_color: 数字中英
+  hilited_key_back_color: 数字中英选中
+退格:
+  key_back_color: 退格
+  hilited_key_back_color: 退格选中
+  key_text_color: 退格字色
+空格:
+  key_back_color: 空格
+  hilited_key_back_color: 空格选中
+  key_text_color: 空格字色
+回车:
+  key_back_color: 回车
+  hilited_key_back_color: 回车选中
+  key_text_color: 回车字色
+Shift:
+  key_back_color: Shift
+  hilited_key_back_color: Shift选中
+符号:
+  key_back_color: 符号
+  hilited_key_back_color: 符号选中
+字符:
+  key_back_color: 字符
+  hilited_key_back_color: 字符选中
+返回:
+  key_back_color: 返回
+  hilited_key_back_color: 返回选中
+  key_text_color: 返回字色
+方向:
+  key_back_color: 方向
+  hilited_key_back_color: 方向选中
+菜单:
+  key_back_color: 菜单
+  hilited_key_back_color: 菜单选中
+透明:
+  key_back_color: 透明
+  hilited_key_back_color: 透明选中
+
+fallback_colors:
+  0-9: 按键
+  0-9选中: 按键选中
+  a-z: 按键
+  a-z选中: 按键选中
+  A-Z: 按键
+  A-Z选中: 按键选中
+  F: 按键
+  F选中: 按键选中
+  G: 按键
+  G选中: 按键选中
+  H: 按键
+  H选中: 按键选中
+  数字中英: 按键
+  数字中英选中: 按键选中
+  退格: 常态背景
+  退格选中: 常态选中
+  退格字色: 常态字色
+  空格: 常态背景
+  空格选中: 常态选中
+  空格字色: 常态字色
+  回车: 按键
+  回车选中: 按键选中
+  回车字色: 常态字色
+  Shift: 常态背景
+  Shift选中: 常态选中
+  符号: 常态背景
+  符号选中: 常态选中
+  字符: 常态背景
+  字符选中: 常态选中
+  返回: 常态背景
+  返回选中: 常态选中
+  返回字色: 常态字色
+  方向: 按键
+  方向选中: 按键选中
+  菜单: 候选栏首选
+  菜单选中: 常态选中
+  透明: 候选栏首选
+  透明选中: 候选栏首选
+
+
+#背景
+  hilited_candidate_back_color: 候选栏首选
+  candidate_separator_color: 候选分割线
+  hilited_back_color: 编码首选
+  编码首选: 候选栏首选
+  候选分割线: 候选栏首选
+
+  keyboard_back_color: 键盘
+  candidate_background: 候选栏
+  text_back_color: 悬浮窗
+  preview_back_color: 气泡
+  候选栏: 键盘
+  悬浮窗: 键盘
+  气泡: 悬浮窗
+
+  key_back_color: 按键
+  hilited_key_back_color: 按键选中
+
+#字色
+  border_color: 悬浮窗边框
+  label_color: 悬浮窗非首选序号
+  悬浮窗边框: 按键字色
+  悬浮窗非首选序号: 按键字色
+
+  text_color: “^”插入符号
+  hilited_text_color: “^”移动
+  “^”插入符号: 按键字色
+  “^”移动: 按键字色
+
+  hilited_candidate_text_color: 首选字色
+  candidate_text_color: 非首选字色
+  comment_text_color: 注释
+  非首选字色: 按键字色
+  注释: 按键字色
+
+  key_text_color: 按键字色
+  hilited_key_text_color: 按键字选中
+  key_symbol_color: 按键符色
+  hilited_key_symbol_color: 按键符选中
+  preview_text_color: 气泡字色
+  shadow_color: 按键文字阴影
+  按键字选中: 按键字色
+  按键符色: 按键字色
+  按键符选中: 按键字色
+  气泡字色: 按键字色
+  按键文字阴影: 按键字色
+
+#Shift键
+  off_key_back_color: 常态背景
+  on_key_back_color: 锁定背景
+  锁定背景: 常态背景
+  
+  hilited_off_key_back_color: 常态选中
+  hilited_on_key_back_color: 锁定选中
+  锁定选中: 常态背景
+  
+  off_key_text_color: 常态字色
+  hilited_off_key_text_color: 常态字选中
+  常态字选中: 常态字色
+  
+  on_key_text_color: 锁定字色
+  hilited_on_key_text_color: 锁定字选中
+  锁定字选中: 锁定字色
+
+
+preset_color_schemes:
+  Google:
+    name: Google
+# 🟠 背景：
+    候选栏首选: 0x00
+    键盘: 0xEEEDF3 #全局键盘底色+全局候选栏底色
+    按键: 0xFFFFFF #字母+数字+白色键
+    按键选中: 0xEEEDF3
+    回车: 0xDCE2FA
+    回车选中: 0xC7CDE5
+    数字中英: 0xDCE2FA
+    数字中英选中: 0xC7CDE5
+# 🟠 字色：
+    首选字色: 0x2A5EE6
+    按键字色: 0x1A1B20
+# 🟠 Shift键（功能键，开启：functional: true；上下符无法跟随）：
+    常态背景: 0xDCE2FA #锁定背景
+    锁定背景: 0xC7CDE5
+    常态选中: 0xC7CDE5 #锁定选中
+    常态字色: 0x1A1B20 #常态字选中
+    锁定字色: 0x1A1B20 #锁定字
+
+  Q1:
+    name: 指尖生花
+# 🟠 背景：
+    候选栏: 思无邪/指尖生花/ztl.9.png
+    候选栏首选: 0x00
+    悬浮窗: 0xd4e0d6
+    键盘: 思无邪/指尖生花/jp.9.png
+    按键: 思无邪/指尖生花/w.9.png
+    按键选中: 思无邪/指尖生花/gl.9.png
+    A-Z: 思无邪/指尖生花/q.9.png
+    F: 思无邪/指尖生花/f.9.png
+    G: 思无邪/指尖生花/g.9.png
+    H: 思无邪/指尖生花/h.9.png
+    退格: 思无邪/指尖生花/tg.9.png
+    数字中英: 思无邪/指尖生花/w.9.png
+    回车: 思无邪/指尖生花/hc.9.png
+    字符: 思无邪/指尖生花/sz.9.png
+    返回: 思无邪/指尖生花/tg.9.png
+    空格: 思无邪/指尖生花/tg.9.png
+    Shift: 思无邪/指尖生花/gn.9.png
+# 🟠 字色：
+    首选字色: 0x42664c
+    非首选字色: 0x28402f
+    按键字色: 0x36573f
+    退格字色: 0xF6E376
+    回车字色: 0xF6E376
+    返回字色: 0xF6E376
+    空格字色: 0xF6E376
+# 🟠 Shift键（功能键，开启：functional: true；上下符无法跟随）：
+    常态背景: 思无邪/指尖生花/gn.9.png
+    常态选中: 思无邪/指尖生花/gl.9.png
+    常态字色: 0x36573f
+    锁定字色: 0xe9300e
