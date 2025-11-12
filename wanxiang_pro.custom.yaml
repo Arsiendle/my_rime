@@ -3,6 +3,8 @@ patch:
   key_binder/bindings/+:
     - { when: paging, accept: comma, send: Page_Up }
     - { when: has_menu, accept: period, send: Page_Down }
+    - { when: has_menu, accept: "Shift+Tab", send: "Control+Left" }
+    - { when: composing, accept: "Shift+Tab", send: "Control+Left" }
 
   translator/enable_user_dict: true # 是否开启自动调频
 
@@ -36,9 +38,9 @@ patch:
       小明: "0114"
       小红: "0815,农历中秋"
   #下面用来改变你的windows小狼毫右下角软件图标
-  #schema/+:
-  #  icon: "icons/zhong.ico"
-  #  ascii_icon: "icons/ying.ico"
+  schema/+:
+   icon: "icons/zhong.ico"
+   ascii_icon: "icons/ying.ico"
   #下面这个可以改变tips上屏的按键
   key_binder/tips_key: "period"   #修改时候去default找，默认是句号
   key_binder/sequence: # Lua 配置：手动排序的快捷键 super_sequence.lua，不要用方向键，各种冲突，一定要避免冲突
