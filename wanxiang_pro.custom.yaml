@@ -1,4 +1,16 @@
 patch:
+  engine/translators/+:
+    - table_translator@jm_flypy
+
+  # 简码
+  jm_flypy:
+    dictionary: ""
+    user_dict: jm_flypy
+    db_class: stabledb
+    enable_completion: false # 补全提示
+    enable_sentence: false   # 禁止造句
+    initial_quality: 99      # custom_phrase 的权重应该比 pinyin 和 wanxiang_en 大
+
   # 从 default 继承快捷键
   key_binder/bindings/+:
     - { when: paging, accept: comma, send: Page_Up }
