@@ -1,3 +1,3 @@
-语法模型： [wanxiang-lts-zh-hans.gram](https://github.com/amzxyz/RIME-LMDG/releases/download/LTS/wanxiang-lts-zh-hans.gram)
-
-下载后放在rime目录下。
+使用步骤：
+	1. 运行rime-wanxiang-update-windows-utf-8.ps1
+	1. 使用git rw命令同步
