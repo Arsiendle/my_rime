@@ -1,4 +1,16 @@
 patch:
+  engine/translators/+:
+    - table_translator@jm_flypy
+
+  # 简码
+  jm_flypy:
+    dictionary: ""
+    user_dict: jm_flypy
+    db_class: stabledb
+    enable_completion: false # 补全提示
+    enable_sentence: false   # 禁止造句
+    initial_quality: 99      # custom_phrase 的权重应该比 pinyin 和 wanxiang_en 大
+
   # 从 default 继承快捷键
   key_binder/bindings/+:
     - { when: paging, accept: comma, send: Page_Up }
@@ -15,15 +27,14 @@ patch:
     __patch:
       - 模糊音                                  # 这里启用后，本文件末尾可配置具体条目
       - wanxiang_algebra:/pro/小鹤双拼             # 可选输入方案名称：自然码, 自然龙, 小鹤双拼, 搜狗双拼, 微软双拼, 智能ABC, 紫光双拼, 国标双拼，龙三
-      - wanxiang_algebra:/pro/间接辅助            #辅助码升级为：直接辅助和间接辅助两种类型，都是句中任意，不同点在于直接辅助是nire=你  而间接则需要/引导  ni/re=你 ，在这个基础上直接辅助支持拼音后任意位置数字声调参与，间接辅助声调在/引导前参与
-      - 小鹤双拼提权                               #本文件末 尾，有自然码和小鹤的可以用
+      - wanxiang_algebra:/pro/直接辅助            # 辅助码引导
+      - 小鹤双拼提权                               # 自然码提权/小鹤双拼提权
 ##########################以上格式受指令初始化控制，最好保持格式不变，如果发生变更请不要使用指令修改相关数据#####################################
   #通过下面的设置可以让你自己的文件引入而与仓库custom_phrase.txt不同，防止更新时被仓库文件覆盖
-  custom_phrase/user_dict: custom_phraseAr    # 这里改成什么就需要手动创建同名的 custom_phrasexx.txt 文件在用户目录，这个文件主要用于置顶，编码为自定义编码的词汇
-  #translator/packs/+:
-    #- userxx                                  #导入根目录下名称为userxx.dict.yaml的自定义固定词典，编码要与固定词库一致，编码权重都不要少，形如姓名、专有名词公司名称等等
-    #下面是候选数量，未来7890分别代表1234声，请候选长度不要大于6避免冲突
-  menu/page_size: 5
+  custom_phrase/user_dict: custom_phraseAr    # 用户自定义短语,格式:custom_phrasexx.txt
+  # translator/packs/+:
+  #   - arsiendle                                  # 用户自定义词典,格式:userxx.dict.yaml
+  menu/page_size: 5                               # 候选数量，7890分别代表声调1234声，请候选长度不要大于6避免冲突
   #下面是超级注释相关
   super_comment:                  # 超级注释模块，子项配置 true 开启，false 关闭
     candidate_length: 1           # 候选词辅助码提醒的生效长度，0为关闭  但同时清空其它，应当使用上面开关来处理
@@ -37,7 +48,7 @@ patch:
     lunar_birthdays:  # 农历生日, 姓名: "日期,备注" or 姓名: "日期"
       小明: "0114"
       小红: "0815,农历中秋"
-  #下面用来改变你的windows小狼毫右下角软件图标
+  # windows小狼毫右下角中英文状态软件图标
   schema/+:
    icon: "icons/zhong.ico"
    ascii_icon: "icons/ying.ico"

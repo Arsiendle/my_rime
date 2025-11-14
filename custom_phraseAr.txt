@@ -1,7 +1,13 @@
 #给自定义用户词扩展一个换行:\n, 制表符：\t, 回车符：\r, 空格：\s
 吧	b	50
+哈哈	hh	50
+哈哈哈	hhh	50
+哈哈哈哈	hhhh	50
+哈哈哈哈哈	hhhhh	50
+哈哈哈哈哈哈	hhhhhh	50
 哈哈哈哈哈哈哈哈	hhhhhhhh	50
 啊	a	50
+哦哦	oo	50
 哦哦哦	ooo	50
 欧克克	okk	50
 nichincsou0607moko	wxh	50

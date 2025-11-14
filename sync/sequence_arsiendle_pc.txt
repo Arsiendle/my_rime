@@ -1,2 +1,4 @@
 /user_id	arsiendle_pc
 /device_name	arsiendle_pc
+rf	i=人 p=1 o=0 t=1763045746
+rf	i=认 p=2 o=0 t=1763045744
