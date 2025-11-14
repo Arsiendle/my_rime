@@ -79,7 +79,7 @@ $InputSchemaType = "6";
 # 设置自动更新时要跳过的文件列表，配置好后删除注释符号
 $SkipFiles = @(
 #     "wanxiang_symbols.yaml",
-#     "weasel.yaml",
+    "custom_phrase.txt",
     "README.md"
 );
 
