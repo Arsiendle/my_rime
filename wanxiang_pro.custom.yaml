@@ -1,10 +1,10 @@
 patch:
   engine/translators/+:
     - table_translator@jm_flypy
-    - lua_translator@cloud_pinyin_translator  # 云拼音翻译器
+    - lua_translator@*cloud_pinyin_flypy*translator
 
   engine/processors/+:
-    - lua_processor@cloud_pinyin_processor  # 云拼音触发处理器
+    - lua_processor@*cloud_pinyin_flypy*processor
 
   # 简码
   jm_flypy:
