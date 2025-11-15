@@ -579,6 +579,8 @@ function ZH.func(input, env)
             final_comment = final_comment .. " ᨐ"
         elseif cand.type == "completion" then  -- 联想补全
             final_comment = final_comment .. " ∞"
+        elseif cand.type == "sougouyun" then  --搜狗云
+            final_comment = final_comment .. " ☁️"
         end
 
         -- 应用注释
