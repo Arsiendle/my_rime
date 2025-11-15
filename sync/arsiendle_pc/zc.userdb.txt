@@ -45,7 +45,7 @@ dǎ;fd huí;kk lái;am,wb le;aa,vu 	打回来了	c=1 d=0.895834 t=157
 dǎ;fd miē;ky 	打咩	c=1 d=0.755784 t=157
 dǎ;fd wǎ;ad 	打瓦	c=1 d=0.67368 t=157
 dǒng;xd la;kl 	懂啦	c=1 d=1 t=157
-fù;df,dt zuò;rv yòng;kf 	副作用	c=0 d=0.2 t=149
+fù;df,dt zuò;rv yòng;kf 	副作用	c=0 d=0.192158 t=157
 fā;ay,fd,vy,yd duō;xx 	发多	c=1 d=0.937067 t=157
 fā;ay,fd,vy,yd la;kl 	发啦	c=1 d=0.995012 t=157
 fā;ay,fd,vy,yd mǎ;um 	发码	c=1 d=1 t=157
@@ -55,7 +55,7 @@ fǎn;py tān;bj,rb lán;nl mó;mm shì;gy,yg 	反贪婪模式	c=1 d=0.995012 t=1
 fǎn;py zhá;hv yú;da 	反炸鱼	c=2 d=1.95551 t=157
 guān;bg,bk wǎng;ki xià;ab,ad 	官网下	c=1 d=0.83527 t=157
 guǎng;dp zì;bz tóu;dd 	广字头	c=1 d=0.985112 t=157
-guǐ;pd,ps tóu;dd xiàng;rx 	鬼头像	c=1 d=1 t=150
+guǐ;pd,ps tóu;dd xiàng;rx 	鬼头像	c=1 d=0.965605 t=157
 guǒ;ad,tm miē;ky 	果咩	c=1 d=0.95123 t=157
 gài;my,ym kě;dk 	盖可	c=1 d=0.865022 t=157
 gèng;ad,ag gāo;wk bǎn;pf běn;aa,ma 	更高版本	c=3 d=2.49333 t=157
@@ -89,7 +89,7 @@ jiǔ;py lì;ml niú;pa nǎi;nn 	九粒牛奶	c=1 d=0.985112 t=157
 jìng;qv dú;ym tiān;ad xià;ab,ad 	静读天下	c=1 d=0.99005 t=157
 jù;gk,kg,pk zi;aa,vh lǐ;aa,tt 	句子里	c=1 d=0.923117 t=157
 jǐ;py bèi;rk,rp sù;zu 	几倍速	c=1 d=1 t=157
-jǐn;id gōu;gs yǐn;ga rén;pd yě;gg bú;ad,ax mài;um 	尽勾引人也不卖	c=1 d=1 t=153
+jǐn;id gōu;gs yǐn;ga rén;pd yě;gg bú;ad,ax mài;um 	尽勾引人也不卖	c=1 d=0.980199 t=157
 jǔ;df,xf bào;fy qū;ki jǔ;df,xf bào;fy tā;ry rén;pd wéi;zw guī;fj,jf xíng;xd,xi wéi;dd jìn;zj xíng;xd,xi xiāo;dx jiǎn;dx 	举报区举报他人违规行为进行消减	c=1 d=0.759572 t=157
 kàng;fk shì;aa ér;pg 	抗事儿	c=1 d=0.904837 t=157
 kē;yg miǎo;hu 	颗秒	c=1 d=0.980199 t=157
@@ -103,8 +103,8 @@ lái;am,wb le;aa,vu 	来了	c=0 d=0.184623 t=157
 lán;cj le;aa,vu 	蓝了	c=1 d=0.985112 t=157
 lì;ml niú;pa nǎi;nn 	粒牛奶	c=1 d=0.980199 t=157
 lín;mm yì;zt 	林逸	c=1 d=0.843665 t=157
-líng;yl 	零	c=0 d=0.2 t=149
-líng;yl fù;df,dt zuò;rv yòng;kf 	零副作用	c=2 d=1.99501 t=150
+líng;yl 	零	c=0 d=0.192158 t=157
+líng;yl fù;df,dt zuò;rv yòng;kf 	零副作用	c=2 d=1.92639 t=157
 líng;yl kuān;bj,jb 	零宽	c=1 d=1 t=157
 lòu;dl,dy le;aa,vu yì;aa jí;mv,vm 	漏了一集	c=1 d=0.97531 t=157
 lā;fl de;xc yǒu;ou,uo xiē;ec 	拉得有些	c=1 d=1 t=157
@@ -123,7 +123,7 @@ mǎ;um 	码	c=0 d=0.197022 t=157
 nuó;fn jìn;zj qù;ts 	挪进去	c=1 d=0.995012 t=157
 nuǎn;oy rén;pd xīn;dd fèi;of,oj 	暖人心肺	c=1 d=0.932394 t=157
 nà;el zhè;zw me;ps kàn;ou,uo lái;am,wb 	那这么看来	c=1 d=0.946485 t=157
-ná;uh gè;ra,pa wài;xb mài;um 	拿个外卖	c=1 d=1 t=155
+ná;uh gè;ra,pa wài;xb mài;um 	拿个外卖	c=1 d=0.99005 t=157
 nǎ;kn ge;ra,pa shì;op,ov a;ka 	哪个是啊	c=1 d=0.946485 t=157
 nǎ;kn ge;ra,pa xuǎn;zx zé;ff gèng;ad,ag hǎo;nz 	哪个选择更好	c=1 d=0.771052 t=157
 nǎ;kn yǒu;ou,uo ruì;we xìng;tu,ty 	哪有瑞幸	c=1 d=0.831105 t=157
@@ -136,7 +136,7 @@ qì;cw,wc zōng;bu dāng;xx sàn;wo xiū;rp 	弃宗当散修	c=1 d=0.941765 t=15
 ruǎn;iq jiàn;rn shì;bv 	软件室	c=1 d=0.995012 t=157
 shuí;yv dǎ;fd dān;ba,bd cí;ys 	谁打单词	c=1 d=0.965605 t=157
 shuí;yv yě;gg méi;du xiǎng;xx dào;dv de;bu shì;op,ov 	谁也没想到的是	c=1 d=0.869358 t=157
-shuāng;yy jù;hj 	双炬	c=1 d=1 t=154
+shuāng;yy jù;hj 	双炬	c=1 d=0.985112 t=157
 shuō;yd ne;kn 	说呢	c=0 d=0.194089 t=157
 shào;sv sòng;bm 	绍宋	c=1 d=0.946485 t=157
 shén;uu jīn;ra,pa 	神金	c=1 d=0.900324 t=157
@@ -162,8 +162,8 @@ tuì;zg shàng;aa,ba dàn;gd le;aa,vu 	退上弹了	c=1 d=0.995012 t=157
 tài;dd xiǎng;xx wǒ;pd,pp 	太想我	c=1 d=0.99005 t=157
 tù;dd zi;aa,vh tāng;dy 	兔子汤	c=1 d=0.882497 t=157
 wài;xb chū;ck,aa zhě;lo,ol 	外出者	c=1 d=0.878095 t=157
-wài;xb jì;sj 	外纪	c=1 d=1 t=152
-wàng;wo zhī;dd rú;nk shuǐ;ad,uv jīng;oo rén;pd 	望之如水晶人	c=1 d=1 t=155
+wài;xb jì;sj 	外纪	c=1 d=0.97531 t=157
+wàng;wo zhī;dd rú;nk shuǐ;ad,uv jīng;oo rén;pd 	望之如水晶人	c=1 d=0.99005 t=157
 wáng;aa gē;kd,kk,dk lái;am,wb le;aa,vu 	王哥来了	c=1 d=0.904837 t=157
 wáng;aa hè;bj 	王贺	c=1 d=0.970446 t=157
 wèi;gw bīn;ww 	魏斌	c=1 d=0.97531 t=157
@@ -179,7 +179,7 @@ wǒ;pd,pp bù;ad,ax shuā;dj kè;yg 	我不刷课	c=1 d=0.995012 t=157
 wǒ;pd,pp dào;rd yào;xn 	我倒要	c=0 d=0.199002 t=157
 wǒ;pd,pp dào;rd yào;xn shì;yu shì;yu 	我倒要试试	c=2 d=1.99501 t=157
 wǒ;pd,pp fēn;bd,db 	我分	c=1 d=0.995012 t=157
-wǒ;pd,pp gǎi;wj,jw dào;dv 	我改到	c=1 d=1 t=151
+wǒ;pd,pp gǎi;wj,jw dào;dv 	我改到	c=1 d=0.970446 t=157
 wǒ;pd,pp shì;op,ov 	我是	c=0 d=0.19801 t=157
 wǒ;pd,pp shì;op,ov wú;ag,ay,ee suǒ;hj,jh wèi;yw la;kl 	我是无所谓啦	c=4 d=3.96032 t=157
 wǒ;pd,pp yòu;vd,ad 	我又	c=0 d=0.195062 t=157
@@ -213,7 +213,7 @@ yōu;xw,xy rán;hq zì;pa,po dé;xc de;ty wèi;kw mǎ;aa,vh 	悠然自得地喂�
 yǒu;ou,uo diǎn;hv 	有点	c=0 d=0.199002 t=157
 yǒu;ou,uo diǎn;hv shǎ;rw le;aa,vu 	有点傻了	c=2 d=1.99501 t=157
 yǒu;ou,uo hé;hk shuí;yv 	有和谁	c=1 d=0.810584 t=157
-yǒu;ou,uo lòu;jl wǔ;aa liù;wb,dd,db chǐ;ad,vd bīng;du wèi;dd shòu;cf,fc xīng;ou dēng;hd zhě;lo,ol 	有镂五六尺冰为寿星灯者	c=1 d=1 t=153
+yǒu;ou,uo lòu;jl wǔ;aa liù;wb,dd,db chǐ;ad,vd bīng;du wèi;dd shòu;cf,fc xīng;ou dēng;hd zhě;lo,ol 	有镂五六尺冰为寿星灯者	c=1 d=0.980199 t=157
 yǒu;ou,uo rén;pd tí;fu 	有人提	c=1 d=0.99005 t=157
 yǒu;uo nǎ;ke ge;rl dì;ty fāng;dw 	有哪个地方	c=1 d=0.701173 t=157
 zhuī;zv shū;ad,vd rén;pd 	追书人	c=1 d=0.774917 t=157
@@ -231,7 +231,7 @@ zhāng;gi jiā;rg xīn;qj,jq 	张佳欣	c=1 d=0.737123 t=157
 zhāng;gi tǐng;ft 	张挺	c=1 d=0.733447 t=157
 zhāng;gi yuè;xd níng;bd 	张悦宁	c=1 d=0.980199 t=157
 zhāng;gi yǔ;ad xīn;qj,jq 	张雨欣	c=7 d=6.60082 t=157
-zhōng;aa,ka shén;uu 	中神	c=1 d=1 t=152
+zhōng;aa,ka shén;uu 	中神	c=1 d=0.97531 t=157
 zhǐ;kb kàn;ou,uo 	只看	c=0 d=0.199002 t=157
 zhǐ;kb kàn;ou,uo chū;ck,aa lái;am,wb 	只看出来	c=2 d=1.99501 t=157
 zuò;rg dé;xc hǎo;nz chà;yg 	做得好差	c=1 d=0.951229 t=157
