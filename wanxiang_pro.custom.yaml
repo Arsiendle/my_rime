@@ -27,7 +27,7 @@ patch:
     __patch:
       - 模糊音                                  # 这里启用后，本文件末尾可配置具体条目
       - wanxiang_algebra:/pro/小鹤双拼             # 可选输入方案名称：自然码, 自然龙, 小鹤双拼, 搜狗双拼, 微软双拼, 智能ABC, 紫光双拼, 国标双拼，龙三
-      - wanxiang_algebra:/pro/直接辅助            # 辅助码引导
+      - wanxiang_algebra:/pro/间接辅助            # 辅助码引导
       - 小鹤双拼提权                               # 自然码提权/小鹤双拼提权
 ##########################以上格式受指令初始化控制，最好保持格式不变，如果发生变更请不要使用指令修改相关数据#####################################
   #通过下面的设置可以让你自己的文件引入而与仓库custom_phrase.txt不同，防止更新时被仓库文件覆盖
@@ -94,7 +94,7 @@ patch:
    icon: "icons/zhong.ico"
    ascii_icon: "icons/ying.ico"
   #下面这个可以改变tips上屏的按键
-  key_binder/tips_key: "period"   #修改时候去default找，默认是句号
+  key_binder/tips_key: "minus"   #修改时候去default找，默认是句号
   key_binder/sequence: # Lua 配置：手动排序的快捷键 super_sequence.lua，不要用方向键，各种冲突，一定要避免冲突
     up: "Control+j"    # 上移
     down: "Control+k"  # 下移
