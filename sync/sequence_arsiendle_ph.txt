@@ -1,0 +1,6 @@
+/user_id	arsiendle_ph
+/device_name	arsiendle_ph
+ceui	i=测试 p=2 o=1 t=1763171766
+mm	i=面 p=2 o=1 t=1762550731
+rf	i=人 p=1 o=0 t=1763045746
+rf	i=认 p=2 o=0 t=1763045744
